@@ -1,4 +1,4 @@
-# ~/.gmr/math/math.md|1| math
+# 数学
 
 ## 几何
 - 解析几何
