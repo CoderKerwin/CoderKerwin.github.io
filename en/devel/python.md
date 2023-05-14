@@ -134,6 +134,7 @@ windows: py -3 <python script>, py -3 -m pip
 ## packages
 
 SSHv2: https://www.paramiko.org
+```
 ssh = paramiko.SSHClient()  # Create SSH object
 ssh.set_missing_host_key_policy(paramiko.AutoAddPolicy())  # allow connect to the host that not exist in know_hosts file
 ssh.connect(args.address, 22, user, password)  # connect server
@@ -141,11 +142,14 @@ stdin, stdout, stderr = ssh.exec_command('ls')
 cmd='journalctl --since=\"{}\"'.format('May 14 2023')
 stdin, stdout, stderr = ssh.exec_command(cmd)
 ssh.close()  # Close connection
+```
 
 HTTP: https://requests.readthedocs.io
+```
 from requests.packages.urllib3.exceptions import InsecureRequestWarning
 requests.packages.urllib3.disable_warnings(InsecureRequestWarning)
 resp = requests.post('https://{}'.format(args.address), data=file.read(), verify=False, auth=(args.username, args.password))
+```
 
 Name:    numpy
 Website: https://www.numpy.org
@@ -166,10 +170,12 @@ Website: https://matplotlib.org
 
 ## practices
 
+```
 python -m pip install -i https://pypi.tuna.tsinghua.edu.cn/simple --upgrade pip
 python -m pip install -i https://pypi.tuna.tsinghua.edu.cn/simple some-package
 
 python -m pip config set global.extra-index-url "<url1> <url2>..."
+```
 
 ## refer
 
