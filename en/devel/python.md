@@ -18,6 +18,7 @@ windows: py -3 <python script>, py -3 -m pip
 - int()
 - float()
 - list()
+- set()
 - dict()
 - bytes()
 - bytearray()
