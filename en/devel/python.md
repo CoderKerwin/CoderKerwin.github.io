@@ -200,5 +200,12 @@ python -m pip config set global.extra-index-url "<url1> <url2>..."
 14. [python3 reload               ](https://blog.csdn.net/fly910905/article/details/74490784)
 15. [Python3中matplotlib安装和使用](https://blog.csdn.net/beishanyingluo/article/details/103748934)
 
-16. [PyPI 镜像使用帮助](https://mirrors.tuna.tsinghua.edu.cn/help/pypi)
-17. [校园网联合镜像站](https://mirrors.cernet.edu.cn/list/pypi)
+16. [matplotlib中plot.show()不显示图片的问题：如何把backend=Agg配置为TkAgg](https://blog.51cto.com/SpaceVision/3086976)
+
+17. [解决No module named tkinter                       ](https://blog.csdn.net/qq_44685584/article/details/128600219)
+18. [Python使用 turtle 模块报错 no module named tkinter](https://blog.csdn.net/u012308586/article/details/103061262)
+
+19. [tkinter学习教程（一）](https://zhuanlan.zhihu.com/p/143478496)
+
+20. [PyPI 镜像使用帮助](https://mirrors.tuna.tsinghua.edu.cn/help/pypi)
+21. [校园网联合镜像站](https://mirrors.cernet.edu.cn/list/pypi)
