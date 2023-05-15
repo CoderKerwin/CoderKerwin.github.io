@@ -154,11 +154,13 @@ resp = requests.post('https://{}'.format(args.address), data=file.read(), verify
 
 Name:    numpy
 Website: https://www.numpy.org
+```
 random.rand(4,4): generate random 4x4 array
 randMat = mat(random.rand(4,4)): Change array to matrix
 randMat.I: Inverse matrix
 randMat * randMat.I = Identity matrix
 eye(4): Create 4x4 Identity matrix
+```
 
 Name:    scipy
 Website: https://www.scipy.org
