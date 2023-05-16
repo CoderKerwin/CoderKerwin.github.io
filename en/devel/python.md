@@ -210,5 +210,7 @@ python -m pip config set global.extra-index-url "<url1> <url2>..."
 
 19. [tkinter学习教程（一）](https://zhuanlan.zhihu.com/p/143478496)
 
-20. [PyPI 镜像使用帮助](https://mirrors.tuna.tsinghua.edu.cn/help/pypi)
-21. [校园网联合镜像站](https://mirrors.cernet.edu.cn/list/pypi)
+20. [python pickle模块TypeError: write() argument must be str, not bytes](https://blog.csdn.net/lwgkzl/article/details/84764705)
+
+21. [PyPI 镜像使用帮助](https://mirrors.tuna.tsinghua.edu.cn/help/pypi)
+22. [校园网联合镜像站](https://mirrors.cernet.edu.cn/list/pypi)
