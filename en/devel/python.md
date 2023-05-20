@@ -212,5 +212,7 @@ python -m pip config set global.extra-index-url "<url1> <url2>..."
 
 20. [python pickle模块TypeError: write() argument must be str, not bytes](https://blog.csdn.net/lwgkzl/article/details/84764705)
 
-21. [PyPI 镜像使用帮助](https://mirrors.tuna.tsinghua.edu.cn/help/pypi)
-22. [校园网联合镜像站](https://mirrors.cernet.edu.cn/list/pypi)
+21. [Matplotlib学习手册A006_Figure的add_subplot()方法](https://blog.csdn.net/sinat_32570141/article/details/103212790)
+
+22. [PyPI 镜像使用帮助](https://mirrors.tuna.tsinghua.edu.cn/help/pypi)
+23. [校园网联合镜像站](https://mirrors.cernet.edu.cn/list/pypi)
