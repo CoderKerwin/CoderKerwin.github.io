@@ -52,5 +52,21 @@
 15. [克莱姆法则](https://baike.baidu.com/item/克莱姆法则)
 16. [逆命题    ](https://baike.baidu.com/item/逆命题)
 17. [伽玛函数  ](https://baike.baidu.com/item/伽玛函数)
+18. [范数      ](https://baike.baidu.com/item/范数)
+19. [陶哲轩    ](https://baike.baidu.com/item/陶哲轩)
+20. [张益唐    ](https://baike.baidu.com/item/张益唐)
 
-18. [gamma分布 松理解gamma分布](https://blog.csdn.net/weixin_39883433/article/details/111222022)
+21. [gamma分布 松理解gamma分布](https://blog.csdn.net/weixin_39883433/article/details/111222022)
+
+22. [数学常用希腊字母念法（附字母表）](https://blog.csdn.net/leoleepz/article/details/50313867)
+
+23. [为什么(xe^(-x))当X趋于无穷时的极限是0啊？怎么算出来的？](https://wenwen.sogou.com/question/q657935015.htm)
+
+24. [反常积分∫xe^-x^2 dx，上限无穷大，下限0 怎么求？](https://www.zhihu.com/question/54539278)
+
+25. [定义数学期望的时候为什么一定要求级数满足绝对收敛呢？](https://www.zhihu.com/question/26566795)
+
+26. [EXCEL2007如何找到数据分析工具](https://jingyan.baidu.com/article/8cdccae99e3247315513cd4a.html)
+
+27. [numpy中的log和ln函数](https://blog.csdn.net/u011699626/article/details/118885071)
+
