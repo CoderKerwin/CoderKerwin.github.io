@@ -1,16 +1,16 @@
 # python
-vendor: Python Software Foundation
-website: python.org
+vendor: Python Software Foundation  
+website: python.org  
 support: windows/linux
 
 Python is one of the most popular programming languages in use today. It has become the de-facto programming language for test automation, dev-ops, AI/ML and various other use cases
 
 ## install
-linux: apt install python3, apt install python3-pip
+linux: apt install python3, apt install python3-pip  
 windows: download msi and double click msi
 
 ## run
-linux: python3 <python script>, python3 -m pip
+linux: python3 <python script>, python3 -m pip  
 windows: py -3 <python script>, py -3 -m pip
 
 ## data type
@@ -154,7 +154,7 @@ requests.packages.urllib3.disable_warnings(InsecureRequestWarning)
 resp = requests.post('https://{}'.format(args.address), data=file.read(), verify=False, auth=(args.username, args.password))
 ```
 
-Name:    numpy
+Name:    numpy  
 Website: https://www.numpy.org
 ```
 random.rand(4,4): generate random 4x4 array
@@ -164,13 +164,13 @@ randMat * randMat.I = Identity matrix
 eye(4): Create 4x4 Identity matrix
 ```
 
-Name:    scipy
+Name:    scipy  
 Website: https://www.scipy.org
 
-Name:    paramiko
+Name:    paramiko  
 Website: https://www.paramiko.org 
 
-Name:    matplotlib
+Name:    matplotlib  
 Website: https://matplotlib.org
 
 ## practices
