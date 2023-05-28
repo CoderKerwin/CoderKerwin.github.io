@@ -75,6 +75,8 @@ windows: py -3 <python script>, py -3 -m pip
 - binascii
 - importlib
  - importlib.reload
+- filecmp
+- difflib
 
 ## builtins
 
@@ -214,5 +216,13 @@ python -m pip config set global.extra-index-url "<url1> <url2>..."
 
 21. [Matplotlib学习手册A006_Figure的add_subplot()方法](https://blog.csdn.net/sinat_32570141/article/details/103212790)
 
-22. [PyPI 镜像使用帮助](https://mirrors.tuna.tsinghua.edu.cn/help/pypi)
-23. [校园网联合镜像站](https://mirrors.cernet.edu.cn/list/pypi)
+22. [difflib模块文件内容差异对比](https://www.cnblogs.com/Jabe/p/8948125.html)
+
+23. [difflib — 字符比较](https://learnku.com/docs/pymotw/difflib-character-comparison)
+
+24. [filecmp --- 文件及目录的比较](https://docs.python.org/zh-cn/3/library/filecmp.html)
+
+25. [python写入html文件中文乱码-解决办法](https://blog.csdn.net/qq_40147863/article/details/81746445)
+
+26. [PyPI 镜像使用帮助](https://mirrors.tuna.tsinghua.edu.cn/help/pypi)
+27. [校园网联合镜像站](https://mirrors.cernet.edu.cn/list/pypi)
