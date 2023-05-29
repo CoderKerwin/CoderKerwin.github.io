@@ -224,5 +224,7 @@ python -m pip config set global.extra-index-url "<url1> <url2>..."
 
 25. [python写入html文件中文乱码-解决办法](https://blog.csdn.net/qq_40147863/article/details/81746445)
 
-26. [PyPI 镜像使用帮助](https://mirrors.tuna.tsinghua.edu.cn/help/pypi)
-27. [校园网联合镜像站](https://mirrors.cernet.edu.cn/list/pypi)
+26. [在Python中创建、生成稀疏矩阵（均匀分布、高斯分布）](https://blog.csdn.net/weixin_46584887/article/details/123463305)
+
+27. [PyPI 镜像使用帮助](https://mirrors.tuna.tsinghua.edu.cn/help/pypi)
+28. [校园网联合镜像站](https://mirrors.cernet.edu.cn/list/pypi)
