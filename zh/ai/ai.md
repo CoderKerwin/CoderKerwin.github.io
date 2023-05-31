@@ -1,10 +1,10 @@
-# 人工智关键词能
+# 人工智能
 
 ## 关键词
 深度学习, 强化学习, 机器学习, 人工智能, 数据科学
 
 ## 缩略词
-| ACRONYM                            ||
+| ACRONYM | Meaning                   |
 |-----|-------------------------------|
 | DL  | Deep Learning                 |
 | RL  | Reinforcement Learning        |
