@@ -22,6 +22,7 @@ windows: py -3 <python script>, py -3 -m pip
 - dict()
 - bytes()
 - bytearray()
+- tuple()
 
 ## modules
 
@@ -121,6 +122,7 @@ windows: py -3 <python script>, py -3 -m pip
 - quit()
 
 - map()
+ - list(map())
 
 - filter()
 
@@ -162,6 +164,9 @@ randMat = mat(random.rand(4,4)): Change array to matrix
 randMat.I: Inverse matrix
 randMat * randMat.I = Identity matrix
 eye(4): Create 4x4 Identity matrix
+mean: arithmetic mean
+var: variance
+nonzeros: return (array(a), array(b)) for example, nonzeros([[1,0],[0,1]]) will return (array(0,1), array(0,1)) which mean 0x0 and 1x1 is nonzero
 ```
 
 Name:    scipy  
@@ -230,5 +235,7 @@ python -m pip config set global.extra-index-url "<url1> <url2>..."
 28. [xml.dom --- 文档对象模型 API                 ](https://docs.python.org/zh-cn/3/library/xml.dom.html)
 29. [xml.etree.ElementTree --- ElementTree XML API](https://docs.python.org/zh-cn/3/library/xml.etree.elementtree.html)
 
-30. [PyPI 镜像使用帮助](https://mirrors.tuna.tsinghua.edu.cn/help/pypi)
-31. [校园网联合镜像站](https://mirrors.cernet.edu.cn/list/pypi)
+30. [Python map() 函数](https://www.runoob.com/python/python-func-map.html)
+
+31. [PyPI 镜像使用帮助](https://mirrors.tuna.tsinghua.edu.cn/help/pypi)
+32. [校园网联合镜像站](https://mirrors.cernet.edu.cn/list/pypi)
