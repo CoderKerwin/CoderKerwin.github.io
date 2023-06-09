@@ -237,5 +237,16 @@ python -m pip config set global.extra-index-url "<url1> <url2>..."
 
 30. [Python map() 函数](https://www.runoob.com/python/python-func-map.html)
 
-31. [PyPI 镜像使用帮助](https://mirrors.tuna.tsinghua.edu.cn/help/pypi)
-32. [校园网联合镜像站](https://mirrors.cernet.edu.cn/list/pypi)
+31. [Python实现Tab自动补全和历史命令管理的方法](https://www.ycpai.cn/python/Fv2T2Rgw.html)
+
+32. [Windows下python的tab自动补全](https://www.cnblogs.com/51zf/p/9182791.html)
+
+33. [Python 指定窗口截屏](https://www.cnblogs.com/guxingy/p/12201076.html)
+
+34. [Python获取屏幕截图的4种方法](https://blog.csdn.net/jokerzhanglin/article/details/117201541)
+
+35. [OpenCV+深度学习预训练模型，简单搞定图像识别 | 教程](https://zhuanlan.zhihu.com/p/28703867)
+36. [使用 OpenCV 对图像进行特征检测、描述和匹配        ](https://zhuanlan.zhihu.com/p/401188363)
+
+38. [PyPI 镜像使用帮助](https://mirrors.tuna.tsinghua.edu.cn/help/pypi)
+39. [校园网联合镜像站](https://mirrors.cernet.edu.cn/list/pypi)
