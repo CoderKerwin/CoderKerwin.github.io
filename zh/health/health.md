@@ -12,3 +12,7 @@
 6. [什么是带状疱疹？多久可以痊愈？](https://www.zhihu.com/question/60791325)
 
 7. [一文搞懂中央空调如何清洗？](https://zhuanlan.zhihu.com/p/143034602)
+
+8. [孩子总爱挤眼努嘴？这不是坏习惯，可能是抽动症的表现！](https://baijiahao.baidu.com/s?id=1668560968366544525)
+
+9. [灰指甲](https://baike.sogou.com/v139805.htm)
