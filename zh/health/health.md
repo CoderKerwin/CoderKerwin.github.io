@@ -8,3 +8,7 @@
 4. [基本功：有效提高球感的1000次触球的训练方法](https://zhuanlan.zhihu.com/p/60531995)
 
 5. [救眼密码：干眼症常见的八大症状](https://zhuanlan.zhihu.com/p/377536653)
+
+6. [什么是带状疱疹？多久可以痊愈？](https://www.zhihu.com/question/60791325)
+
+7. [一文搞懂中央空调如何清洗？](https://zhuanlan.zhihu.com/p/143034602)
