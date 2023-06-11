@@ -248,5 +248,7 @@ python -m pip config set global.extra-index-url "<url1> <url2>..."
 35. [OpenCV+深度学习预训练模型，简单搞定图像识别 | 教程](https://zhuanlan.zhihu.com/p/28703867)
 36. [使用 OpenCV 对图像进行特征检测、描述和匹配        ](https://zhuanlan.zhihu.com/p/401188363)
 
+37. [AttributeError: 'FigureCanvasTkAgg' object has no attribute 'show' and ValueError: Masked arrays must be 1-D](https://www.cnblogs.com/zhhy236400/p/9958889.html)
+
 38. [PyPI 镜像使用帮助](https://mirrors.tuna.tsinghua.edu.cn/help/pypi)
 39. [校园网联合镜像站](https://mirrors.cernet.edu.cn/list/pypi)
