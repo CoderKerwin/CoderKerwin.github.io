@@ -245,10 +245,18 @@ python -m pip config set global.extra-index-url "<url1> <url2>..."
 
 34. [Python获取屏幕截图的4种方法](https://blog.csdn.net/jokerzhanglin/article/details/117201541)
 
-35. [OpenCV+深度学习预训练模型，简单搞定图像识别 | 教程](https://zhuanlan.zhihu.com/p/28703867)
-36. [使用 OpenCV 对图像进行特征检测、描述和匹配        ](https://zhuanlan.zhihu.com/p/401188363)
+35. [OpenCV+深度学习预训练模型，简单搞定图像识别教程](https://zhuanlan.zhihu.com/p/28703867)
+36. [使用 OpenCV 对图像进行特征检测、描述和匹配     ](https://zhuanlan.zhihu.com/p/401188363)
 
 37. [AttributeError: 'FigureCanvasTkAgg' object has no attribute 'show' and ValueError: Masked arrays must be 1-D](https://www.cnblogs.com/zhhy236400/p/9958889.html)
 
-38. [PyPI 镜像使用帮助](https://mirrors.tuna.tsinghua.edu.cn/help/pypi)
-39. [校园网联合镜像站](https://mirrors.cernet.edu.cn/list/pypi)
+38. [Python frozenset() 函数的使用与作用](https://blog.csdn.net/weixin_48419914/article/details/121137418)
+
+39. [教你如何利用python调用摄像头](https://blog.csdn.net/u014389734/article/details/109044080)
+
+40. [基于python的音频处理--调用麦克风录音](https://blog.csdn.net/u014389734/article/details/109044080)
+
+41. [最棒总结！Python日志库 logging 使用指南来了](https://zhuanlan.zhihu.com/p/445411809)
+
+42. [PyPI 镜像使用帮助](https://mirrors.tuna.tsinghua.edu.cn/help/pypi)
+43. [校园网联合镜像站](https://mirrors.cernet.edu.cn/list/pypi)
