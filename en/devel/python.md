@@ -258,5 +258,7 @@ python -m pip config set global.extra-index-url "<url1> <url2>..."
 
 41. [最棒总结！Python日志库 logging 使用指南来了](https://zhuanlan.zhihu.com/p/445411809)
 
-42. [PyPI 镜像使用帮助](https://mirrors.tuna.tsinghua.edu.cn/help/pypi)
-43. [校园网联合镜像站](https://mirrors.cernet.edu.cn/list/pypi)
+42. [PyGithub中获取私有仓库的pull_request的数据](https://blog.csdn.net/ls_python/article/details/119644558)
+
+43. [PyPI 镜像使用帮助](https://mirrors.tuna.tsinghua.edu.cn/help/pypi)
+44. [校园网联合镜像站](https://mirrors.cernet.edu.cn/list/pypi)
