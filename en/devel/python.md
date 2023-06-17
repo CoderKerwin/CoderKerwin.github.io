@@ -185,6 +185,7 @@ python -m pip install -i https://pypi.tuna.tsinghua.edu.cn/simple --upgrade pip
 python -m pip install -i https://pypi.tuna.tsinghua.edu.cn/simple some-package
 
 python -m pip config set global.extra-index-url "<url1> <url2>..."
+python -m pip --proxy {proxy_server} install {module}
 ```
 
 ## refer
