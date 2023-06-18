@@ -261,5 +261,7 @@ python -m pip --proxy {proxy_server} install {module}
 
 42. [PyGithub中获取私有仓库的pull_request的数据](https://blog.csdn.net/ls_python/article/details/119644558)
 
-43. [PyPI 镜像使用帮助](https://mirrors.tuna.tsinghua.edu.cn/help/pypi)
-44. [校园网联合镜像站](https://mirrors.cernet.edu.cn/list/pypi)
+43. [Python3对字典操作时遇到错误：dictionary changed size during iteration](https://blog.csdn.net/zhihaoma/article/details/51265168)
+
+44. [PyPI 镜像使用帮助](https://mirrors.tuna.tsinghua.edu.cn/help/pypi)
+45. [校园网联合镜像站](https://mirrors.cernet.edu.cn/list/pypi)
