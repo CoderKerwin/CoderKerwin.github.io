@@ -10,19 +10,20 @@ linux: apt install python3, apt install python3-pip
 windows: download msi and double click msi
 
 ## run
-linux: python3 <python script>, python3 -m pip  
-windows: py -3 <python script>, py -3 -m pip
+linux: python3, python3 -m pip  
+windows: py -3, py -3 -m pip
 
 ## data type
-- str()
-- int()
-- float()
-- list()
-- set()
-- dict()
-- bytes()
-- bytearray()
-- tuple()
+
+int,
+float,
+str,
+tuple,
+list,
+dict,
+set,
+bytes,
+bytearray
 
 ## modules
 
@@ -34,6 +35,10 @@ windows: py -3 <python script>, py -3 -m pip
  - os.unlink
  - os.symlink
  - os.getcwd()
+- sys
+ - sys.path  : Search module from this path, can append path to make module can be searched
+ - sys.stdin
+ - sys.stdout
 - platform
 - time
 - re
@@ -60,6 +65,7 @@ windows: py -3 <python script>, py -3 -m pip
  - importlib.import_module
  - importlib.metadata
   - distribution(dist_name).entry_points
+ - importlib.reload
 - urllib
  - urllib.request
   - urllib.request.urlopen
@@ -74,8 +80,6 @@ windows: py -3 <python script>, py -3 -m pip
 - traceback
  - traceback.print_exc
 - binascii
-- importlib
- - importlib.reload
 - filecmp
 - difflib
 
@@ -91,13 +95,6 @@ windows: py -3 <python script>, py -3 -m pip
   - globals().setdefault('load_entry_point', importlib_load_entry_point)
  - next
   - next(matches).load()
-
-### modules
-
-- sys
- - sys.path  : Search module from this path, can append path to make module can be searched
- - sys.stdin
- - sys.stdout
 
 ### classes
 
