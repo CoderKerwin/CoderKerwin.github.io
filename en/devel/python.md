@@ -260,5 +260,15 @@ python -m pip --proxy {proxy_server} install {module}
 
 43. [Python3对字典操作时遇到错误：dictionary changed size during iteration](https://blog.csdn.net/zhihaoma/article/details/51265168)
 
+44. [numpy.linalg.eig() 计算方形矩阵的特征值和特征向量](https://blog.csdn.net/strive_for_future/article/details/109631691)
+
+45. [np.cov详解](https://blog.csdn.net/jeffery0207/article/details/83032325)
+
+46. [Numpy中 cov() 的使用方法](https://blog.csdn.net/qq_41800366/article/details/88063772)
+
+47. [细说Python的lambda函数用法](https://zhuanlan.zhihu.com/p/80960485)
+
+48. [机器学习降维算法PCA](https://zhuanlan.zhihu.com/p/77151308)
+
 44. [PyPI 镜像使用帮助](https://mirrors.tuna.tsinghua.edu.cn/help/pypi)
 45. [校园网联合镜像站](https://mirrors.cernet.edu.cn/list/pypi)
