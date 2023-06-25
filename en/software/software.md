@@ -187,6 +187,7 @@ Tianocore项目使用了github.io来做为文档展示，参考这个来构建gi
 [github.io](https://pages.github.com),
 [Quickstart for GitHub Pages](https://docs.github.com/en/pages/quickstart),
 [Approving a pull request with required reviews](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/approving-a-pull-request-with-required-reviews)
+[Pulls](https://docs.github.com/en/rest/pulls/pulls?apiVersion=2022-11-28)
 
 ### CONFLUENCE
 [CONFLUENCE](https://www.atlassian.com/software/confluence)
