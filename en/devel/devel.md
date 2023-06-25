@@ -7,6 +7,18 @@
 
 [数据结构与算法、计算机网络、操作系统、设计模式](https://blog.csdn.net/weixin_46698891/article/details/113814822)
 
+## ALGORITHM
+
+1. [数据结构：图概念与基本图实现](https://segmentfault.com/a/1190000013223267)
+
+2. [有向无环图及其应用        ](https://zhuanlan.zhihu.com/p/35968983)
+3. [判断图中是否有环的三种方法](https://zhuanlan.zhihu.com/p/214747022)
+
+4. [数据结构——图的概述      ](https://blog.csdn.net/yjw123456/article/details/90211563)
+5. [图论算法——环和有向无环图](https://blog.csdn.net/yjw123456/article/details/90379925)
+
+6. [图论：有向图和无向图，有环和无环](https://www.cnblogs.com/2008nmj/p/14265436.html)
+
 ## ISA
 
 ### X86
