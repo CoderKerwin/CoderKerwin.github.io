@@ -66,6 +66,16 @@ https://u-bmc.org
 https://www.denx.de/wiki/U-Boot
 https://u-root.org
 
+[直接内存访问](https://baike.baidu.com/item/直接内存访问/6024586)
+
+[DMA原理介绍](https://zhuanlan.zhihu.com/p/138573828)
+
+[Intel 处理器 VT-d 架构 Kernel DMA 保护机制研究](https://blog.csdn.net/systemino/article/details/106838766)
+
+https://www.intel.com/content/dam/develop/external/us/en/documents/intel-whitepaper-using-iommu-for-dma-protection-in-uefi.pdf
+
+[Faster and more secure Wi-Fi in Windows](https://support.microsoft.com/en-us/windows/faster-and-more-secure-wi-fi-in-windows-26177a28-38ed-1a8e-7eca-66f24dc63f09)
+
 ### TIANOCORE
   TIANOCORE项目学习路径：
   [UEFI and PI and ACPI spec](https://uefi.org)     ：UEFI与ACPI相关规范
