@@ -270,5 +270,13 @@ python -m pip --proxy {proxy_server} install {module}
 
 48. [机器学习降维算法PCA](https://zhuanlan.zhihu.com/p/77151308)
 
-44. [PyPI 镜像使用帮助](https://mirrors.tuna.tsinghua.edu.cn/help/pypi)
-45. [校园网联合镜像站](https://mirrors.cernet.edu.cn/list/pypi)
+49. [JSON](http://json.org/json-en.html)
+
+50. [在 Python 中使用 requests 模块实现 Curl 命令](https://www.delftstack.com/zh/howto/python/implement-curl-commands-using-requests-module-in-python)
+
+51. [pycurl-requests](https://pypi.org/project/pycurl-requests)
+
+52. [Requests: HTTP for Humans](https://requests.readthedocs.io)
+
+53. [PyPI 镜像使用帮助](https://mirrors.tuna.tsinghua.edu.cn/help/pypi)
+54. [校园网联合镜像站](https://mirrors.cernet.edu.cn/list/pypi)
