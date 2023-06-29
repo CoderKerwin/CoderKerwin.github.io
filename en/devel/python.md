@@ -278,5 +278,21 @@ python -m pip --proxy {proxy_server} install {module}
 
 52. [Requests: HTTP for Humans](https://requests.readthedocs.io)
 
-53. [PyPI 镜像使用帮助](https://mirrors.tuna.tsinghua.edu.cn/help/pypi)
-54. [校园网联合镜像站](https://mirrors.cernet.edu.cn/list/pypi)
+53. [credentials ](https://pypi.org/project/credentials)
+54. [keyring     ](https://pypi.org/project/keyring)
+55. [cryptography](https://pypi.org/project/cryptography)
+
+56. [Portable password input](https://docs.python.org/3/library/getpass.html)
+
+57. [An email and MIME handling package](https://docs.python.org/3/library/email.html)
+
+58. [getpass() and getuser() in Python](https://www.geeksforgeeks.org/getpass-and-getuser-in-python-password-without-echo)
+
+59. [Secure Password or Token on Windows – Python](https://techwizard.cloud/2022/02/09/secure-password-or-token-on-windows-python)
+
+60. [Python SMTP.starttls方法代码示例](https://vimsky.com/examples/detail/python-ex-smtplib-SMTP-starttls-method.html)
+
+61. [How to fix certificate verify failed](https://community.ibm.com/community/user/ibmz-and-linuxone/blogs/sheng-jie-han/2021/06/03/how-to-fix-certificate-verify-failed-self-signed-c)
+
+62. [PyPI 镜像使用帮助](https://mirrors.tuna.tsinghua.edu.cn/help/pypi)
+63. [校园网联合镜像站](https://mirrors.cernet.edu.cn/list/pypi)
