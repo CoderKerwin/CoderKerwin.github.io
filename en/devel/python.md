@@ -294,5 +294,7 @@ python -m pip --proxy {proxy_server} install {module}
 
 61. [How to fix certificate verify failed](https://community.ibm.com/community/user/ibmz-and-linuxone/blogs/sheng-jie-han/2021/06/03/how-to-fix-certificate-verify-failed-self-signed-c)
 
-62. [PyPI 镜像使用帮助](https://mirrors.tuna.tsinghua.edu.cn/help/pypi)
-63. [校园网联合镜像站](https://mirrors.cernet.edu.cn/list/pypi)
+62. [如何理解Python中的yield用法?](https://zhuanlan.zhihu.com/p/268605982)
+
+63. [PyPI 镜像使用帮助](https://mirrors.tuna.tsinghua.edu.cn/help/pypi)
+64. [校园网联合镜像站](https://mirrors.cernet.edu.cn/list/pypi)
