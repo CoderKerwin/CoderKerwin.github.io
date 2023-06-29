@@ -252,6 +252,8 @@ ssh -p -l
 
 ### GIT
 
+[Send a collection of patches as emails](https://git-scm.com/docs/git-send-email)
+
 ### GITHUB
 
 [怎样通过GitHub REST API v3获得某个项目的所有issue](https://blog.csdn.net/qysh123/article/details/79626894)
