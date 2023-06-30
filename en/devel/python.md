@@ -95,6 +95,7 @@ bytearray
   - globals().setdefault('load_entry_point', importlib_load_entry_point)
  - next
   - next(matches).load()
+ - super
 
 ### classes
 
@@ -157,6 +158,7 @@ Name:    numpy
 Website: https://www.numpy.org
 ```
 random.rand(4,4): generate random 4x4 array
+random.shuffle(arr): random the array
 randMat = mat(random.rand(4,4)): Change array to matrix
 randMat.I: Inverse matrix
 randMat * randMat.I = Identity matrix
