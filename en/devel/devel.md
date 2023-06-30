@@ -85,16 +85,19 @@
   | TIANOCORE项目学习路径
   |-----------------------------------------------------------------------
   <https://uefi.org>                                  ：UEFI与ACPI相关规范
-  <https://www.tianocore.org>                         ：website
+  <https://www.tianocore.org>                         ：项目主站
   <https://github.com/tianocore/edk2>                 ：主要的edk2代码实现，其中包含OVMF测试环境
-  <https://github.com/tianocore/edk2-platforms>       ：主要基于edk2框架的实现平台
-  <https://github.com/tianocore/edk2-staging>         ：包含UNDI等POC的代码，在不同分支上
+  <https://github.com/tianocore/edk2-platforms>       ：主要基于edk2框架实现的平台
+  <https://github.com/tianocore/edk2-staging>         ：包含UNDI等POC的代码
   <https://github.com/tianocore/edk2-libc>            ：包含最新的python3的移植
-  <https://github.com/tianocore/tianocore.github.io>  ：网页https://www.tianocore.org的源头，目录一一对应。这里的wiki是另外仓库，需要特别注意，并且其中有很多有用信息
+  <https://github.com/tianocore/tianocore.github.io>  ：<https://www.tianocore.org>的源头。这里的wiki是另外仓库，其中有很多有用信息
   <https://github.com/tianocore-docs>                 ：edk2相关文档仓库
   <https://github.com/tianocore-training>             ：edk2相关培训资料仓库
   <https://bugzilla.tianocore.org>                    ：bug与feature跟踪系统
   <https://edk2.groups.io>                            ：maillist讨论
+  <https://github.com/microsoft/mu_tiano_plus>        ：微软的uefi项目
+  <https://github.com/microsoft/mu_basecore>          ：微软的uefi项目
+
 
   [FWTS](https://uefi.org/sites/default/files/resources/fwts_uefi_0920_2013.pdf)
 
@@ -108,7 +111,7 @@
   
   关于文档具体例子如下。看tianocore-docs仓库有个gh-pages分支估计就是静态网页所保存的位置，目录规则应该使具体库名(这里是edk2-BuildSpecification)加上gh-pages分支对应路径名(比如此处的draft与release-1.28)加上具体路径名(如1_introduction)。  
   这里特别注意的是只有拥有gh-pages分支的仓库才可以访问且必须带有gh-pages分支的目录，比如draft或release-1.28  
-  关于gh-pages可以参考https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site，其中<code>https://<user>.github.io/<repository>/about/contact-us.html</code>就是github网页的路径规则。  
+  关于gh-pages可以参考<https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site>，其中`https://<user>.github.io/<repository>/about/contact-us.html`就是github网页的路径规则。  
   [EDK II Build Specification](https://tianocore-docs.github.io/edk2-BuildSpecification/draft),
   [EDK II Build Specification](https://tianocore-docs.github.io/edk2-BuildSpecification/release-1.28)
   
@@ -118,7 +121,7 @@
   
   另外一个是关于tianocore-training的，这个有空时看看，暂时感觉其中文档没啥用处。
 
-  [EDK II Code Formatting](https://github.com/tianocore/tianocore.github.io/wiki/EDK-II-Code-Formatting)里面有Uncrustify的详细介绍
+  [EDK II Code Formatting](https://github.com/tianocore/tianocore.github.io/wiki/EDK-II-Code-Formatting): 里面有Uncrustify的详细介绍
 
   [EDK II Uncrustify fork repository](https://dev.azure.com/projectmu/Uncrustify)
 
@@ -137,7 +140,7 @@
 ## PROGRAMMING LANGUAGE
 
 ### C/C++
-[C++知识回顾之stdcall、cdecl和fastcall三者的区别](https://www.cnblogs.com/yejianyong/p/7506465.html): C calling convention
+[C++知识回顾之`__stdcall`和`__cdecl`和`__fastcall`三者的区别](https://www.cnblogs.com/yejianyong/p/7506465.html): C calling convention
 
 [C的隐式类型转换](https://www.veaxen.com/c的隐式类型转换.html)
 
@@ -162,9 +165,6 @@
 <https://bbs.pediy.com/thread-255182.htm>,
 <https://www.anquanke.com/post/id/254013>,
 
-<https://github.com/microsoft/mu_tiano_plus>
-<https://github.com/microsoft/mu_basecore>
-
 <https://www.busybox.net>
 
 [Logical Structure of a Hard Disk MBR DBR FAT and root](http://www.p-dd.com/chapter3-page18.html)
@@ -178,42 +178,41 @@ Big Endian − In this scheme, high-order byte is stored on the starting address
 
 [Elixir](https://elixir.bootlin.com/linux/latest/source)
 
-[计算机程序](https://baike.baidu.com/item/程序/13831935)
-[计算机软件](https://baike.baidu.com/item/软件/12053)
-[指令      ](https://baike.baidu.com/item/指令/3225201)
+[计算机程序](https://baike.baidu.com/item/程序/13831935),
+[计算机软件](https://baike.baidu.com/item/软件/12053),
+[指令      ](https://baike.baidu.com/item/指令/3225201),
 
-<https://github.com/google>
-<https://github.com/oracle>
-<https://github.com/oracle/opengrok>
-<https://github.com/microsoft>
-<https://github.com/intel>
-<https://github.com/amd>
-<https://github.com/ibm>
-<https://github.com/samsung>
-<https://github.com/apple>
-<https://github.com/huawei>
-<https://github.com/xiaomi>
-<https://github.com/vivo>
-<https://github.com/facebook>
-<https://github.com/lenovo>
-<https://github.com/alibaba>
-<https://github.com/bytedance>
-<https://github.com/baidu>
-<https://github.com/yahoo>
+<https://github.com/google>,
+<https://github.com/oracle>,
+<https://github.com/oracle/opengrok>,
+<https://github.com/microsoft>,
+<https://github.com/intel>,
+<https://github.com/amd>,
+<https://github.com/ibm>,
+<https://github.com/samsung>,
+<https://github.com/apple>,
+<https://github.com/huawei>,
+<https://github.com/xiaomi>,
+<https://github.com/vivo>,
+<https://github.com/facebook>,
+<https://github.com/lenovo>,
+<https://github.com/alibaba>,
+<https://github.com/bytedance>,
+<https://github.com/baidu>,
+<https://github.com/yahoo>,
 
-<https://gitee.com/bytedance>
-<https://gitee.com/baidu>
+<https://github.com/openssh>,
+<https://github.com/openssl>,
+<https://github.com/git>,
+<https://github.com/vim>,
+<https://github.com/universal-ctags>,
 
-<https://github.com/openssh>
-<https://github.com/openssl>
-<https://github.com/git>
-<https://github.com/vim>
-<https://github.com/universal-ctags>
+<https://github.com/tianocore>,
+<https://github.com/qemu>,
+<https://github.com/llvm>,
+<https://github.com/powershell>,
+<https://github.com/python>,
+<https://github.com/wireshark>,
 
-<https://github.com/tianocore>
-<https://github.com/qemu>
-<https://github.com/llvm>
-<https://github.com/powershell>
-<https://github.com/python>
-<https://github.com/wireshark>
-
+<https://gitee.com/bytedance>,
+<https://gitee.com/baidu>,
