@@ -185,6 +185,14 @@ python -m pip config set global.extra-index-url "<url1> <url2>..."
 python -m pip --proxy {proxy_server} install {module}
 ```
 
+``os.path.sep.join('/'.join(r'\a/b/c\d\e\f'.split(r'\')).split('/'))``可用于将windows与linux混合路径转化为系统特定路径  
+``r'\a/b/c\d\e\f'.split(r'\')``转换字符串为列表['','a/b/c','d','e','f']  
+``'/'.join(r'\a/b/c\d\e\f'.split(r'\'))``转换列表为字符串'/a/b/c/d/e/f'  
+``'/'.join(r'\a/b/c\d\e\f'.split(r'\')).split('/')``再次转换字符串为列表['','a','b','c','d','e','f']  
+``'->'.join('/'.join(r'\a/b/c\d\e\f'.split(r'\')).split('/'))``转换字符串为'->a->b->c->d->e->f'  
+``os.path.sep``是特定系统的分隔符  
+os.path里面是否已经存在自动转换路径的函数？可否将这个方法加到os.path里面？
+
 ## refer
 
 1. [os                          ](https://docs.python.org/3/library/os.html)
