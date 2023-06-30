@@ -25,7 +25,8 @@
 
 [Intel SDM](https://www.intel.com/content/www/us/en/developer/articles/technical/intel-sdm.html)
 
-[Amd APM](https://www.amd.com/en/support/tech-docs/amd64-architecture-programmers-manual-volumes-1-5)
+[Amd APM](https://www.amd.com/en/support/tech-docs/amd64-architecture-programmers-manual-volumes-1-5),
+[40322.pdf](https://www.amd.com/system/files/TechDocs/40332.pdf)
 
 ### ARM
 
