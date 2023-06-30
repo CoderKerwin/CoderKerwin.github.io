@@ -83,52 +83,51 @@
 
 ### TIANOCORE
 
-  | TIANOCORE项目学习路径
-  |-----------------------------------------------------------------------
-  <https://uefi.org>                                  ：UEFI与ACPI相关规范
-  <https://www.tianocore.org>                         ：项目主站
-  <https://github.com/tianocore/edk2>                 ：主要的edk2代码实现，其中包含OVMF测试环境
-  <https://github.com/tianocore/edk2-platforms>       ：主要基于edk2框架实现的平台
-  <https://github.com/tianocore/edk2-staging>         ：包含UNDI等POC的代码
-  <https://github.com/tianocore/edk2-libc>            ：包含最新的python3的移植
-  <https://github.com/tianocore/tianocore.github.io>  ：<https://www.tianocore.org>的源头。这里的wiki是另外仓库，其中有很多有用信息
-  <https://github.com/tianocore-docs>                 ：edk2相关文档仓库
-  <https://github.com/tianocore-training>             ：edk2相关培训资料仓库
-  <https://bugzilla.tianocore.org>                    ：bug与feature跟踪系统
-  <https://edk2.groups.io>                            ：maillist讨论
-  <https://github.com/microsoft/mu_tiano_plus>        ：微软的uefi项目
-  <https://github.com/microsoft/mu_basecore>          ：微软的uefi项目
+| TIANOCORE项目学习路径
+|-----------------------------------------------------------------------
+<https://uefi.org>                                  ：UEFI与ACPI相关规范
+<https://www.tianocore.org>                         ：项目主站
+<https://github.com/tianocore/edk2>                 ：主要的edk2代码实现，其中包含OVMF测试环境
+<https://github.com/tianocore/edk2-platforms>       ：主要基于edk2框架实现的平台
+<https://github.com/tianocore/edk2-staging>         ：包含UNDI等POC的代码
+<https://github.com/tianocore/edk2-libc>            ：包含最新的python3的移植
+<https://github.com/tianocore/tianocore.github.io>  ：<https://www.tianocore.org>的源头。这里的wiki是另外仓库，其中有很多有用信息
+<https://github.com/tianocore-docs>                 ：edk2相关文档仓库
+<https://github.com/tianocore-training>             ：edk2相关培训资料仓库
+<https://bugzilla.tianocore.org>                    ：bug与feature跟踪系统
+<https://edk2.groups.io>                            ：maillist讨论
+<https://github.com/microsoft/mu_tiano_plus>        ：微软的uefi项目
+<https://github.com/microsoft/mu_basecore>          ：微软的uefi项目
 
+[FWTS](https://uefi.org/sites/default/files/resources/fwts_uefi_0920_2013.pdf)
 
-  [FWTS](https://uefi.org/sites/default/files/resources/fwts_uefi_0920_2013.pdf)
+<https://bsdio.com/edk2/docs/master/index.html>
 
-  <https://bsdio.com/edk2/docs/master/index.html>
+No matter Ppi or Protocol, there can be installed many same instance. It is like class and instance.
 
-  No matter Ppi or Protocol, there can be installed many same instance. It is like class and instance.
-
-  TIANOCORE文档采用了github.io与gitbook.io两种方式，关于文档化的Wiki参考下面两个文档。当前所有EDK II文档都转到tianocore-docs仓库管理。关于EDK II的Training则转到tianocore-training仓库管理  
-  [EDK II Draft Specification](https://github.com/tianocore/tianocore.github.io/wiki/EDK-II-Draft-Specification),
-  [EDK II Documentation      ](https://github.com/tianocore/tianocore.github.io/wiki/EDK-II-Documentation)
+TIANOCORE文档采用了github.io与gitbook.io两种方式，关于文档化的Wiki参考下面两个文档。当前所有EDK II文档都转到tianocore-docs仓库管理。关于EDK II的Training则转到tianocore-training仓库管理  
+[EDK II Draft Specification](https://github.com/tianocore/tianocore.github.io/wiki/EDK-II-Draft-Specification),
+[EDK II Documentation      ](https://github.com/tianocore/tianocore.github.io/wiki/EDK-II-Documentation)
   
-  关于文档具体例子如下。看tianocore-docs仓库有个gh-pages分支估计就是静态网页所保存的位置，目录规则应该使具体库名(这里是edk2-BuildSpecification)加上gh-pages分支对应路径名(比如此处的draft与release-1.28)加上具体路径名(如1_introduction)。  
-  这里特别注意的是只有拥有gh-pages分支的仓库才可以访问且必须带有gh-pages分支的目录，比如draft或release-1.28  
-  关于gh-pages可以参考<https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site>，其中`https://<user>.github.io/<repository>/about/contact-us.html`就是github网页的路径规则。  
-  [EDK II Build Specification](https://tianocore-docs.github.io/edk2-BuildSpecification/draft),
-  [EDK II Build Specification](https://tianocore-docs.github.io/edk2-BuildSpecification/release-1.28)
+关于文档具体例子如下。看tianocore-docs仓库有个gh-pages分支估计就是静态网页所保存的位置，目录规则应该使具体库名(这里是edk2-BuildSpecification)加上gh-pages分支对应路径名(比如此处的draft与release-1.28)加上具体路径名(如1_introduction)。  
+这里特别注意的是只有拥有gh-pages分支的仓库才可以访问且必须带有gh-pages分支的目录，比如draft或release-1.28  
+关于gh-pages可以参考<https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site>，其中`https://<user>.github.io/<repository>/about/contact-us.html`就是github网页的路径规则。  
+[EDK II Build Specification](https://tianocore-docs.github.io/edk2-BuildSpecification/draft),
+[EDK II Build Specification](https://tianocore-docs.github.io/edk2-BuildSpecification/release-1.28)
   
-  另外看似之前也用了gitbook来产生文档但后来不用了，这里提供下参考。除了中间仓库名不是很清楚，具体路径名应该与tianocore-docs类似  
-  另外值得一说的是：tianocore-docs.github.io对应的www.gitbook.com/read/book/edk2-docs/edk-ii-build-specification需要登录，可以将路径直接改为edk2-docs.gitbook.io/edk-ii-build-specification，虽然这样子不能下载诸如pdf与emobi版本  
-  [EDK II Build Specification](https://edk2-docs.gitbook.io/edk-ii-build-specification)
+另外看似之前也用了gitbook来产生文档但后来不用了，这里提供下参考。除了中间仓库名不是很清楚，具体路径名应该与tianocore-docs类似  
+另外值得一说的是：tianocore-docs.github.io对应的www.gitbook.com/read/book/edk2-docs/edk-ii-build-specification需要登录，可以将路径直接改为edk2-docs.gitbook.io/edk-ii-build-specification，虽然这样子不能下载诸如pdf与emobi版本  
+[EDK II Build Specification](https://edk2-docs.gitbook.io/edk-ii-build-specification)
   
-  另外一个是关于tianocore-training的，这个有空时看看，暂时感觉其中文档没啥用处。
+另外一个是关于tianocore-training的，这个有空时看看，暂时感觉其中文档没啥用处。
 
-  [EDK II Code Formatting](https://github.com/tianocore/tianocore.github.io/wiki/EDK-II-Code-Formatting): 里面有Uncrustify的详细介绍
+[EDK II Code Formatting](https://github.com/tianocore/tianocore.github.io/wiki/EDK-II-Code-Formatting): 里面有Uncrustify的详细介绍
 
-  [EDK II Uncrustify fork repository](https://dev.azure.com/projectmu/Uncrustify)
+[EDK II Uncrustify fork repository](https://dev.azure.com/projectmu/Uncrustify)
 
-  [Uncrustify executables are built from this fork source code and published as Nuget packages](https://dev.azure.com/projectmu/Uncrustify/_packaging?_a=feed&feed=mu_uncrustify)这个Nuget直接用7Z打开取里面exe就好了
+[Uncrustify executables are built from this fork source code and published as Nuget packages](https://dev.azure.com/projectmu/Uncrustify/_packaging?_a=feed&feed=mu_uncrustify)这个Nuget直接用7Z打开取里面exe就好了
 
-  [Code Style](https://github.com/tianocore/tianocore.github.io/wiki/Code-Style)
+[Code Style](https://github.com/tianocore/tianocore.github.io/wiki/Code-Style)
 
 ## SOFTWARE
 
@@ -156,6 +155,7 @@
 
 ## SEARCH
 [BING SEARCH OPERATORS CHEAT SHEET: THE ULTIMATE GUIDE](https://www.sidegains.com/search-engines/bing-search-operators-cheat-sheet)
+
 [搜网](http://sowang.com)
 
 ## NFC
