@@ -24,6 +24,8 @@
 
 ## ISA
 
+[GPU属于什么架构?](https://www.zhihu.com/question/378009761)
+
 ### X86
 
 [Intel SDM](https://www.intel.com/content/www/us/en/developer/articles/technical/intel-sdm.html)
@@ -147,6 +149,9 @@ TIANOCORE文档采用了github.io与gitbook.io两种方式，关于文档化的W
 [C语言32个关键字-最详解释                      ](https://blog.csdn.net/qq_38972634/article/details/108398953)
 
 [open-source formatting library providing a fast and safe alternative to C stdio and C++ iostreams](https://fmt.dev)
+
+### MARKDOWN
+[Markdown 官方教程](https://markdown.com.cn)
 
 ## Tracker
 缺陷管控
