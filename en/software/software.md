@@ -78,7 +78,7 @@ readelf, nm, objdump, dumpbin
 
 [gdb调试用法](https://www.cnblogs.com/ims-/p/10529393.html)
 
-gdb命令```b/bt/c/d/h/i/n/p/q/r/s/x/mem/display```，详细如下
+gdb命令`b/bt/c/d/h/i/n/p/q/r/s/x/mem/display`，详细如下
 b  : break at
 bt : stack trace
 c  : continue
@@ -94,7 +94,7 @@ r  : run
 s  : step
 x  : examine /FMT is /x /c /d /b etc
 
-symbol-file : load symbol. <code>symbol-file -o offset FILE</code>
+symbol-file : load symbol. ``symbol-file -o `offset` `FILE` ``
 
 mem         : show memory
 display     : display variable
@@ -105,12 +105,12 @@ list        : list source of function or line
 
 ### WINDBG
 
-windbg命令```bp/d/g/gc/k/p/q/r/t/x```，详细如下
+windbg命令`bp/d/g/gc/k/p/q/r/t/x`，详细如下
 bp  : break
 d   : display memory.
 dt  : display type
 dv  : display local variable
-dx  : display C++ expression. dx -r1 (*((Test!_EFI_PLATFORM_INFO *)0x0))
+dx  : display C++ expression. `dx -r1 (*((Test!_EFI_PLATFORM_INFO *)0x0))`
 g   : go
 gc  : go in condition
 k   : stack frame
@@ -163,7 +163,7 @@ etypes : show all type
 
 ### DOXYGEN
 
-http://www.doxygen.nl/download.html
+<http://www.doxygen.nl/download.html>
 
 ### PLANTUML
 
@@ -225,7 +225,7 @@ Tianocore项目使用了github.io来做为文档展示，参考这个来构建gi
 ## REMOTE
 [win10 开启ssh server服务 远程登录](https://blog.csdn.net/weixin_43064185/article/details/90080815)
 
-[Key-based authentication in OpenSSH for Windows](https://learn.microsoft.com/en-us/windows-server/administration/openssh/openssh_keymanagement): authorized_keys, administrators_authorized_keys
+[Key-based authentication in OpenSSH for Windows](https://learn.microsoft.com/en-us/windows-server/administration/openssh/openssh_keymanagement): `authorized_keys, administrators_authorized_keys`
 [Get started with OpenSSH for Windows           ](https://learn.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse)
 
 [Linux系统SSH客户端断开后保持进程继续运行配置方法](https://help.aliyun.com/document_detail/42523.html)
@@ -234,32 +234,90 @@ Tianocore项目使用了github.io来做为文档展示，参考这个来构建gi
 
 [xvfb 初步探究](https://blog.csdn.net/span76/article/details/11473315)
 
-https://www.openssh.com
-https://www.realvnc.com
+<https://www.openssh.com>,
+<https://www.realvnc.com>
 
-https://github.com/openssh/openssh-portable
-https://github.com/PowerShell/openssh-portable
+<https://github.com/openssh/openssh-portable>,
+<https://github.com/PowerShell/openssh-portable>
 
 scp -P
 ssh -p -l
 
 [warning: agent returned different signature type ssh-rsa (expected rsa-sha2-512) when key registered with ssh-agent](https://github.com/PowerShell/Win32-OpenSSH/issues/1551): 使用ssh -V发现笔记本是8x的ssh没有这个问题，台式机是7x的有问题。这个问题导致了不能免密码登录。可以用git里面的ssh，试过没有问题。
 
-### PUTTY
-[PUTTY](https://putty.org)
+### CREDENTIAL
+
+[usingcurl-netrc](https://github.com/chinanf-boy/everything-curl-zh/blob/master/book/usingcurl-netrc.zh.md)
+
+[.netrc File Format for TCP/IP](https://www.ibm.com/docs/en/aix/7.3?topic=formats-netrc-file-format-tcpip)
+
+[linux 密码记录文件 .netrc 简介](https://blog.csdn.net/whatday/article/details/106000186): netrc can be used for git, curl, ftp
+
+[用户配置脚本文件.netrc](https://kekxv.github.io/2021/01/06/User configuration script file .netrc)
+
+[github添加ToKen到本地并写入netrc实现自动登录](https://blog.csdn.net/bjbz_cxy/article/details/121851002)
+
+[FTP初始化文件.netrc使用技巧](http://www.360doc.com/content/15/0827/14/1106320_495171593.shtml)
+
+[Git-如何在Windows上使用.netrc文件保存用户和密码](https://qastack.cn/programming/6031214/git-how-to-use-netrc-file-on-windows-to-save-user-and-password)
+
+[Git-Credential-Manager-for-Windows](https://github.com/Microsoft/Git-Credential-Manager-for-Windows)
+
+[github token by git and netrc](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens)
+
+### [PUTTY](https://putty.org)
 
 ## VERSIONCONTROL
 
-### GIT
+### [GIT](https://git-scm.com)
 
 [Send a collection of patches as emails](https://git-scm.com/docs/git-send-email)
 
-### GITHUB
+git添加submodule时，会创建一个160000属性的commit文件，此commit对应submodule对应的commit。commit之前可以用`git diff --cached`查看此文件存在，commit之后可用`git ls-tree`查看此文件存在。此commit文件无法用`git cat-file`查看。
+其中的.gitmodule文件也非常重要，缺少会导致`git submodule`命令无法正常运行。
+submodule必须到对应子目录才能使用git命令查看其内容。
+
+### MIDDLEWARE
+
+
+### [GITHUB](https://github.com)
 
 [怎样通过GitHub REST API v3获得某个项目的所有issue](https://blog.csdn.net/qysh123/article/details/79626894)
+
+<https://github.com>,
+<https://github.io>,
+<https://github.dev>,
+<https://github.com/settings/tokens>
+
+path(pulls, branches, commits, tree, blob) in github:
+<https://github.com/tianocore/edk2/pulls>,
+<https://github.com/tianocore/edk2/pulls/kuqin12>,
+<https://github.com/tianocore/edk2/branches>,
+<https://github.com/tianocore/edk2/commits/master>,
+<https://github.com/tianocore/edk2/commits/master/ArmPkg>,
+<https://github.com/tianocore/edk2/tree/master>,
+<https://github.com/tianocore/edk2/blob/master/ArmPkg/ArmPkg.dec>
+
+fork in github:
+<https://github.com/tianocore/edk2/forks>,
+<https://github.com/tianocore/edk2/network/members>
 
 ## OS
 
 ### LINUX
 
 [Linux文件系统详解](http://c.biancheng.net/view/880.html)
+
+## BUGTRACKER
+
+### EIP
+
+### BUGZILLA
+缺陷管理
+
+## SEARCH
+
+[搜网](http://sowang.com)
+
+[Bing Search Operators Cheat Sheet](https://www.sidegains.com/search-engines/bing-search-operators-cheat-sheet)
+
