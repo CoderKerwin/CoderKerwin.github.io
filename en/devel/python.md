@@ -306,5 +306,7 @@ os.path里面是否已经存在自动转换路径的函数？可否将这个方�
 
 62. [如何理解Python中的yield用法?](https://zhuanlan.zhihu.com/p/268605982)
 
+63. ['MRmean' object has no attribute 'mr'](https://blog.csdn.net/wqqGo/article/details/80452294)
+
 63. [PyPI 镜像使用帮助](https://mirrors.tuna.tsinghua.edu.cn/help/pypi)
 64. [校园网联合镜像站](https://mirrors.cernet.edu.cn/list/pypi)
