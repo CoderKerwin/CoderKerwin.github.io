@@ -70,3 +70,4 @@
 
 27. [numpy中的log和ln函数](https://blog.csdn.net/u011699626/article/details/118885071)
 
+28. [SPSS——相关分析——Pearson简单相关系数](https://blog.csdn.net/liuyuan_jq/article/details/52517963)
