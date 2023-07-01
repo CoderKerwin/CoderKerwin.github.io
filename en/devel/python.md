@@ -308,5 +308,7 @@ os.path里面是否已经存在自动转换路径的函数？可否将这个方�
 
 63. ['MRmean' object has no attribute 'mr'](https://blog.csdn.net/wqqGo/article/details/80452294)
 
-63. [PyPI 镜像使用帮助](https://mirrors.tuna.tsinghua.edu.cn/help/pypi)
-64. [校园网联合镜像站](https://mirrors.cernet.edu.cn/list/pypi)
+64. [netrc 文件处理](https://docs.python.org/zh-cn/3/library/netrc.html)
+
+65. [PyPI 镜像使用帮助](https://mirrors.tuna.tsinghua.edu.cn/help/pypi)
+66. [校园网联合镜像站](https://mirrors.cernet.edu.cn/list/pypi)
