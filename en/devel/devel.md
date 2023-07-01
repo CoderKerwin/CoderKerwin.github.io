@@ -33,16 +33,17 @@
 [Amd APM  ](https://www.amd.com/en/support/tech-docs/amd64-architecture-programmers-manual-volumes-1-5),
 [40322.pdf](https://www.amd.com/system/files/TechDocs/40332.pdf)
 
+[x86 EFLAGS寄存器详解](https://blog.csdn.net/jn1158359135/article/details/7761011)
+
+[汇编语言MOVZX和MOVSX指令](http://c.biancheng.net/view/3494.html),
+[汇编语言条件跳转指令汇总](http://c.biancheng.net/view/3567.html)
+
 ### ARM
 
 ### RISCV
 
 [RISC-V](https://riscv.org),
 <https://github.com/riscv/riscv-isa-manual>
-
-## APPLICATION
-
-[C语言教你怎么改变字体颜色](https://blog.csdn.net/qq_31975227/article/details/51758461): dropped by windows
 
 ## HARDWARE
 
@@ -133,11 +134,23 @@ TIANOCORE文档采用了github.io与gitbook.io两种方式，关于文档化的W
 
 ## SOFTWARE
 
+[C语言教你怎么改变字体颜色](https://blog.csdn.net/qq_31975227/article/details/51758461): dropped by windows
+
+### OS
+
+[Elixir is online linux source](https://elixir.bootlin.com/linux/latest/source),
+<https://github.com/bootlin/elixir>
+
+### LIBRARY
+
+#### STDLIB
+
 ### MIDDLEWARE
 
-#### LIBRARY
+### SECURITY
 
-##### STDLIB
+<https://github.com/intel/linux-sgx>,
+<https://github.com/intel/SGXDataCenterAttestationPrimitives>
 
 ## PROGRAMMING LANGUAGE
 
@@ -173,7 +186,8 @@ TIANOCORE文档采用了github.io与gitbook.io两种方式，关于文档化的W
 
 <https://www.busybox.net>
 
-[Logical Structure of a Hard Disk MBR DBR FAT and root](http://www.p-dd.com/chapter3-page18.html)
+[Logical Structure of a Hard Disk MBR DBR FAT and root](http://www.p-dd.com/chapter3-page19.html),
+[Data Recovery Book](https://www.p-dd.com/chapter1.html)
 
 [Compiling and Installing Jansson](https://jansson.readthedocs.io/en/2.8/gettingstarted.html)
 [window下jansson安装和使用](https://blog.csdn.net/zhangge3663/article/details/83617457)
@@ -181,8 +195,6 @@ TIANOCORE文档采用了github.io与gitbook.io两种方式，关于文档化的W
 [Big Endian and Little Endian](https://www.tutorialspoint.com/big-endian-and-little-endian)
 Little Endian − In this scheme, low-order byte is stored on the starting address (A) and high-order byte is stored on the next address (A + 1).
 Big Endian − In this scheme, high-order byte is stored on the starting address (A) and low-order byte is stored on the next address (A + 1).
-
-[Elixir](https://elixir.bootlin.com/linux/latest/source)
 
 [计算机程序](https://baike.baidu.com/item/程序/13831935),
 [计算机软件](https://baike.baidu.com/item/软件/12053),
