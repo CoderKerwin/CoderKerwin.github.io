@@ -5,15 +5,15 @@
 
 ## 缩略词
 
-| ACRONYM | Meaning                   |
-|-----|-------------------------------|
-| DL  | Deep Learning                 |
-| RL  | Reinforcement Learning        |
-| ML  | Machine Learning              |
-| AI  | Artificial Intelligence       |  
-| NLP | Natural Language Processing   | 
-| CNN | Convolutional Neural Network  |
-| SAN | Stacked Auto-encoder Network  |
+ACRONYM | Meaning
+-----:|-------------------------------
+ DL  | Deep Learning
+ RL  | Reinforcement Learning
+ ML  | Machine Learning
+ AI  | Artificial Intelligence
+ NLP | Natural Language Processing
+ CNN | Convolutional Neural Network
+ SAN | Stacked Auto-encoder Network
 
 ## 书单
 1. [李航. 统计学习方法. 清华大学出版社                          ](https://zhuanlan.zhihu.com/p/599249709)
