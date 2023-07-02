@@ -141,6 +141,24 @@ TIANOCORE文档采用了github.io与gitbook.io两种方式，关于文档化的W
 [Elixir is online linux source](https://elixir.bootlin.com/linux/latest/source),
 <https://github.com/bootlin/elixir>
 
+```
+ ----- flow ----------------------------------------------
+ startup_32 -> startup_64 ->
+   paging_prepare
+   cleanup_trampoline
+   initialize_identity_maps
+ ----- file ----------------------------------------------
+ arch/x86/boot/compressed/head_64.S      |75|  startup_32               function
+ arch/x86/boot/compressed/head_64.S      |336| startup_64               function
+ arch/x86/boot/compressed/head_64.S      |606| trampoline_32bit_src     function
+ arch/x86/boot/compressed/pgtable_64.c   |193| cleanup_trampoline       function
+ arch/x86/boot/compressed/ident_map_64.c |110| initialize_identity_maps function
+ ----- func ----------------------------------------------
+ 1. trampoline_32bit_src will **keep cr3** when 5-level page table been enabled and **set cr3 to trampoline_pgtable** when 5-level page table been disabled.
+ 2. cleanup_trampoline have defect that when 5-level page table been enabled, CR3 will not set to trampoline_pgtable so will not update it to desired pgtable
+ 3. initialize_identity_maps will invoke memset to clear memory. there are some problem in here when page table is incorrect. 
+```
+
 ### LIBRARY
 
 #### STDLIB
