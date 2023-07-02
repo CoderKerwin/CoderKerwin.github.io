@@ -15,6 +15,14 @@ ACRONYM | Meaning
  CNN | Convolutional Neural Network
  SAN | Stacked Auto-encoder Network
 
+在自然语言生成领域，ChatGPT已经表现出了非常出色的能力，可以生成高质量的文章、故事、诗歌等。  
+在对话系统领域，ChatGPT可以实现高质量的人机对话，可以应用于客服、智能助手等场景。在推荐系统领域，ChatGPT可以根据用户的历史行为和兴趣，进行个性化推荐。  
+在知识图谱构建领域，ChatGPT可以用于实体识别、关系抽取、问答系统等。  
+在智能家居领域，ChatGPT可以实现更加智能化的家居控制，实现更加便捷舒适的生活。  
+在人工智能教育领域，ChatGPT可以实现更加智能化的教育辅助，帮助学生更加高效地学习。  
+在语音识别领域，ChatGPT可以实现更加准确的语音识别，可以应用于智能语音助手、语音翻译等场景。  
+在机器人领域，ChatGPT可以实现更加智能化的机器人控制，可以应用于家庭服务、工业制造等场景。
+
 ## 书单
 1. [李航. 统计学习方法. 清华大学出版社                          ](https://zhuanlan.zhihu.com/p/599249709)
 2. [李航老师《统计学习方法》及相关资源（代码、课件）的汇总及下载](https://blog.csdn.net/master_Shen/article/details/121354650)
@@ -87,10 +95,32 @@ ACRONYM | Meaning
 
 30. [开源项目与评测](https://opensource.niutrans.com/mtbook/section1-7.html)
 
-31. https://github.com/project-baize/baize/blob/main/README.md
-32. https://huggingface.co/spaces/project-baize/baize-lora-7B
+31. <https://github.com/project-baize/baize/blob/main/README.md>
+32. <https://huggingface.co/spaces/project-baize/baize-lora-7B>
 
-33. https://www.manning.com/books/machine-learning-in-action
-34. https://www.manning.com/downloads/1108 is source code of machine learning in action
+33. <https://www.manning.com/books/machine-learning-in-action>
+34. <https://www.manning.com/downloads/1108> is source code of machine learning in action
 
-35. https://github.com/lencx/ChatGPT
+35. <https://github.com/lencx/ChatGPT>
+
+36. [130页 PPT 深入浅出了解 ChatGPT —— ChatGPT 从 0 到 1](https://zhuanlan.zhihu.com/p/616968861)
+37. [ChatGPT 从入门到精通 最全教程                      ](https://zhuanlan.zhihu.com/p/635434782)
+
+38. [《ChatGPT从入门到精通》-群鸟网](https://zhuanlan.zhihu.com/p/612216936): <https://www.qunniao.cn/tags/1539.html>
+
+39. [对话生成模型总结（解读+开源代码）](https://zhuanlan.zhihu.com/p/53624766)
+
+40. [《Deep Learning》](https://www.zhihu.com/question/37972263)
+
+41. <https://github.com/daviddao/deep-learning-book/blob/master/DeepLearningBook.pdf>
+42. <https://github.com/exacity/deeplearningbook-chinese>
+
+43. <https://www.deeplearningbook.org>
+
+44. [中国人工智能学会](https://www.caai.cn)
+45. [中国人工智能学会数字图书馆](http://dl.caai.cn)
+
+46. [脑机接口](https://xn--dl-0j6cq11d8ge830c.caai.cn/home/view/show/id/240.html)
+
+47. <https://yiyan.baidu.com>
+48. <https://yige.baidu.com>
