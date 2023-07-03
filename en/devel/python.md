@@ -288,29 +288,30 @@ os.path里面是否已经存在自动转换路径的函数？可否将这个方�
 
 52. [Requests: HTTP for Humans](https://requests.readthedocs.io)
 
-53. [credentials ](https://pypi.org/project/credentials)
-54. [keyring     ](https://pypi.org/project/keyring)
-55. [cryptography](https://pypi.org/project/cryptography)
+53. [credentials       ](https://pypi.org/project/credentials)
+54. [keyring           ](https://pypi.org/project/keyring)
+55. [cryptography      ](https://pypi.org/project/cryptography)
+56. [keyrings.cryptfile](https://pypi.org/project/keyrings.cryptfile): Need call `keyring.set_keyring(CryptFileKeyring())` to set this as backend
 
-56. [Portable password input](https://docs.python.org/3/library/getpass.html)
+57. [Portable password input](https://docs.python.org/3/library/getpass.html)
 
-57. [An email and MIME handling package](https://docs.python.org/3/library/email.html)
+58. [An email and MIME handling package](https://docs.python.org/3/library/email.html)
 
-58. [getpass() and getuser() in Python](https://www.geeksforgeeks.org/getpass-and-getuser-in-python-password-without-echo)
+59. [getpass() and getuser() in Python](https://www.geeksforgeeks.org/getpass-and-getuser-in-python-password-without-echo)
 
-59. [Secure Password or Token on Windows – Python](https://techwizard.cloud/2022/02/09/secure-password-or-token-on-windows-python)
+60. [Secure Password or Token on Windows – Python](https://techwizard.cloud/2022/02/09/secure-password-or-token-on-windows-python)
 
-60. [Python SMTP.starttls方法代码示例](https://vimsky.com/examples/detail/python-ex-smtplib-SMTP-starttls-method.html)
+61. [Python SMTP.starttls方法代码示例](https://vimsky.com/examples/detail/python-ex-smtplib-SMTP-starttls-method.html)
 
-61. [How to fix certificate verify failed](https://community.ibm.com/community/user/ibmz-and-linuxone/blogs/sheng-jie-han/2021/06/03/how-to-fix-certificate-verify-failed-self-signed-c)
+62. [How to fix certificate verify failed](https://community.ibm.com/community/user/ibmz-and-linuxone/blogs/sheng-jie-han/2021/06/03/how-to-fix-certificate-verify-failed-self-signed-c)
 
-62. [如何理解Python中的yield用法?](https://zhuanlan.zhihu.com/p/268605982)
+63. [如何理解Python中的yield用法?](https://zhuanlan.zhihu.com/p/268605982)
 
-63. ['MRmean' object has no attribute 'mr'](https://blog.csdn.net/wqqGo/article/details/80452294)
+64. ['MRmean' object has no attribute 'mr'](https://blog.csdn.net/wqqGo/article/details/80452294)
 
-64. [netrc 文件处理](https://docs.python.org/zh-cn/3/library/netrc.html)
+65. [netrc 文件处理](https://docs.python.org/zh-cn/3/library/netrc.html)
 
-65. [Command-line options](https://mrjob.readthedocs.io/en/latest/job.html)
+66. [Command-line options](https://mrjob.readthedocs.io/en/latest/job.html)
 
-66. [PyPI 镜像使用帮助](https://mirrors.tuna.tsinghua.edu.cn/help/pypi)
-67. [校园网联合镜像站](https://mirrors.cernet.edu.cn/list/pypi)
+67. [PyPI 镜像使用帮助](https://mirrors.tuna.tsinghua.edu.cn/help/pypi)
+68. [校园网联合镜像站](https://mirrors.cernet.edu.cn/list/pypi)
