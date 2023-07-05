@@ -165,7 +165,7 @@ etypes : show all type
 
 <http://www.doxygen.nl/download.html>
 
-### PLANTUML
+### [PLANTUML](https://plantuml.com)
 
 ### READTHEDOC
 
