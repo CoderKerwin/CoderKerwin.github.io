@@ -104,23 +104,28 @@ ACRONYM | Meaning
 35. <https://github.com/lencx/ChatGPT>
 
 36. [130页 PPT 深入浅出了解 ChatGPT —— ChatGPT 从 0 到 1](https://zhuanlan.zhihu.com/p/616968861)
-37. [ChatGPT 从入门到精通 最全教程                      ](https://zhuanlan.zhihu.com/p/635434782)
+37. ~~[ChatGPT 从入门到精通 最全教程                      ](https://zhuanlan.zhihu.com/p/635434782)~~
 
-38. [《ChatGPT从入门到精通》-群鸟网](https://zhuanlan.zhihu.com/p/612216936): <https://www.qunniao.cn/tags/1539.html>
+38. ~~[《ChatGPT从入门到精通》-群鸟网](https://zhuanlan.zhihu.com/p/612216936):~~ <https://www.qunniao.cn/tags/1539.html>
 
-39. [对话生成模型总结（解读+开源代码）](https://zhuanlan.zhihu.com/p/53624766)
+39. ~~[对话生成模型总结（解读+开源代码）](https://zhuanlan.zhihu.com/p/53624766)~~
 
-40. [《Deep Learning》](https://www.zhihu.com/question/37972263)
+40. [ChatGPT 教程 - 从入门到精通-part1](https://blog.csdn.net/rucoding/article/details/130693578)
+41. [ChatGPT 教程 - 从入门到精通-part2](https://blog.csdn.net/rucoding/article/details/130694108)
 
-41. <https://github.com/daviddao/deep-learning-book/blob/master/DeepLearningBook.pdf>
-42. <https://github.com/exacity/deeplearningbook-chinese>
+42. [ChatGPT学习笔记](https://zhuanlan.zhihu.com/p/619251228)
 
-43. <https://www.deeplearningbook.org>
+43. [《Deep Learning》](https://www.zhihu.com/question/37972263)
 
-44. [中国人工智能学会](https://www.caai.cn)
-45. [中国人工智能学会数字图书馆](http://dl.caai.cn)
+44. <https://github.com/daviddao/deep-learning-book/blob/master/DeepLearningBook.pdf>
+45. <https://github.com/exacity/deeplearningbook-chinese>
 
-46. [脑机接口](https://xn--dl-0j6cq11d8ge830c.caai.cn/home/view/show/id/240.html)
+46. <https://www.deeplearningbook.org>
 
-47. <https://yiyan.baidu.com>
-48. <https://yige.baidu.com>
+47. [中国人工智能学会](https://www.caai.cn)
+48. [中国人工智能学会数字图书馆](http://dl.caai.cn)
+
+49. [脑机接口](https://xn--dl-0j6cq11d8ge830c.caai.cn/home/view/show/id/240.html)
+
+50. <https://yiyan.baidu.com>
+51. <https://yige.baidu.com>
