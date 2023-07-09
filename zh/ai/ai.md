@@ -150,3 +150,5 @@ ACRONYM | Meaning
 62. [ChatGPT学习笔记](https://zhuanlan.zhihu.com/p/619251228)
 
 63. [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)
+
+63. [神经元BigNeuron脑科学](https://neuromorpho.org), <https://www.nature.com/articles/520013a>, <https://www.nature.com/articles/s41592-023-01848-5>
