@@ -129,3 +129,24 @@ ACRONYM | Meaning
 
 50. <https://yiyan.baidu.com>
 51. <https://yige.baidu.com>
+
+52. [支持向量机原理       ](https://blog.csdn.net/yuxiaoye03222/article/details/108269311)
+53. [SMO算法笔记及个人理解](https://blog.csdn.net/anchor_jun/article/details/122504065)
+
+54. [支持向量机原理解析  ](https://zhuanlan.zhihu.com/p/339929406)
+55. [神经网络与支持向量机](https://zhuanlan.zhihu.com/p/29586189)
+
+56. [支持向量机神经网络对比分析](https://www.codenong.com/cs107079623)
+
+57. [Using Analytic QP and Sparseness to Speed Training of Support Vector Machines](https://proceedings.neurips.cc/paper_files/paper/1998/file/7e1d842d0f7ee600116ffc6b2d87d83f-Paper.pdf)
+
+58. <https://huggingface.co>, <https://huggingface.co/docs/transformers/v4.30.0/zh/quicktour>
+
+59. [Huggingface简介及BERT代码浅析         ](https://zhuanlan.zhihu.com/p/120315111)
+60. [Hugging Face Hub你探索更多AI模型和应用](https://zhuanlan.zhihu.com/p/623521984)
+
+61. [ChatGPT 中文调教指南](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)
+
+62. [ChatGPT学习笔记](https://zhuanlan.zhihu.com/p/619251228)
+
+63. [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)
