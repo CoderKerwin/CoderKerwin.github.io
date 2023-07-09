@@ -289,9 +289,10 @@ submodule必须到对应子目录才能使用git命令查看其内容。
 <https://github.dev>,
 <https://github.com/settings/tokens>
 
-path(pulls, branches, commits, tree, blob) in github:
+path(pulls, compare, branches, commits, tree, blob) in github:
 <https://github.com/tianocore/edk2/pulls>,
 <https://github.com/tianocore/edk2/pulls/kuqin12>,
+<https://github.com/tianocore/edk2/compare/8750141...03a5c1e>,
 <https://github.com/tianocore/edk2/branches>,
 <https://github.com/tianocore/edk2/commits/master>,
 <https://github.com/tianocore/edk2/commits/master/ArmPkg>,
