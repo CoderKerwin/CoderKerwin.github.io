@@ -88,3 +88,5 @@
 30. [科学计数法](https://baike.baidu.com/item/科学计数法/1612882)
 
 31. [中国数学会](http://www.cms.org.cn)
+
+32. [线性代数之——正定矩阵](https://zhuanlan.zhihu.com/p/93392382)
