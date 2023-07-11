@@ -73,7 +73,7 @@ ACRONYM | Meaning
 16. [OpenAI](https://openai.com)
 
 17. [ChatGPT 的起源](https://www.sohu.com/a/662849294_121679003)
-18. [用ChatGPT训练羊驼：「白泽」开源，轻松构建专属模型，可在线试玩](https://finance.sina.cn/tech/2023-04-04/detail-imypfhpc2954166.d.html)
+18. [用ChatGPT训练羊驼：「白泽」开源，轻松构建专属模型，可在线试玩](https://finance.sina.cn/tech/2023-04-04/detail-imypfhpc2954166.d.html), <https://huggingface.co/spaces/project-baize/chat-with-baize>, <https://github.com/project-baize/baize-chatbot/blob/main/README.md>
 19. [《Baize: An Open-Source Chat Model with Parameter-Efficient Tuning on Self-Chat Data》](https://arxiv.org/abs/2304.01196)
 
 20. [马斯克叫停 GPT-5 研究，意大利禁用 ChatGPT ，生成式 AI 最大风险是什么？该如何监管？](https://www.zhihu.com/question/593135336)
@@ -108,7 +108,7 @@ ACRONYM | Meaning
 
 38. ~~[《ChatGPT从入门到精通》-群鸟网](https://zhuanlan.zhihu.com/p/612216936):~~ <https://www.qunniao.cn/tags/1539.html>
 
-39. ~~[对话生成模型总结（解读+开源代码）](https://zhuanlan.zhihu.com/p/53624766)~~
+39. [对话生成模型总结（解读+开源代码）](https://zhuanlan.zhihu.com/p/53624766)
 
 40. [ChatGPT 教程 - 从入门到精通-part1](https://blog.csdn.net/rucoding/article/details/130693578)
 41. [ChatGPT 教程 - 从入门到精通-part2](https://blog.csdn.net/rucoding/article/details/130694108)
@@ -151,4 +151,8 @@ ACRONYM | Meaning
 
 63. [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)
 
-63. [神经元BigNeuron脑科学](https://neuromorpho.org), <https://www.nature.com/articles/520013a>, <https://www.nature.com/articles/s41592-023-01848-5>
+64. [神经元BigNeuron脑科学](https://neuromorpho.org), <https://www.nature.com/articles/520013a>, <https://www.nature.com/articles/s41592-023-01848-5>
+
+65. [NiuTensor张量计算库](https://opensource.niutrans.com/niutensor/index.html)
+
+66. [Transformer模型训练技术简介](https://zhuanlan.zhihu.com/p/438150240)
