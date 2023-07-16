@@ -279,7 +279,6 @@ submodule必须到对应子目录才能使用git命令查看其内容。
 
 ### MIDDLEWARE
 
-
 ### [GITHUB](https://github.com)
 
 [怎样通过GitHub REST API v3获得某个项目的所有issue](https://blog.csdn.net/qysh123/article/details/79626894)
@@ -305,6 +304,12 @@ fork in github:
 
 ## OS
 
+### WINDOWS
+
+[win10搜索框的热门搜索怎么关闭?](https://www.zhihu.com/question/563437571)
+
+[windows10如何关闭搜索功能中展示的热门搜索？](https://answers.microsoft.com/zh-hans/windows/forum/all/windows10%e5%a6%82%e4%bd%95%e5%85%b3%e9%97%ad/4c89657e-f0c7-45f9-9908-3b1657aa76e0)
+
 ### LINUX
 
 [Linux文件系统详解](http://c.biancheng.net/view/880.html)
@@ -322,3 +327,8 @@ fork in github:
 
 [Bing Search Operators Cheat Sheet](https://www.sidegains.com/search-engines/bing-search-operators-cheat-sheet)
 
+## CAD
+
+### LEGO
+
+[LEGO Digital Designer即将下线，将被BrickLink Studio正式取代](https://zhuanlan.zhihu.com/p/456804889), <https://www.bricklink.com>
