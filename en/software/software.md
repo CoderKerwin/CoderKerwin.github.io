@@ -332,3 +332,14 @@ fork in github:
 ### LEGO
 
 [LEGO Digital Designer即将下线，将被BrickLink Studio正式取代](https://zhuanlan.zhihu.com/p/456804889), <https://www.bricklink.com>
+
+## BROWSER
+
+[测网速](https://www.speedtest.cn)
+
+[运营商测速猫腻](https://zhuanlan.zhihu.com/p/82105234)
+
+## PDA
+
+[华为手机“定时播报日程安排”提醒](https://zhuanlan.zhihu.com/p/409690217)
+
