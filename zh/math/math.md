@@ -90,3 +90,13 @@
 31. [中国数学会](http://www.cms.org.cn)
 
 32. [线性代数之——正定矩阵](https://zhuanlan.zhihu.com/p/93392382)
+
+33. [MarkDown数学公式](https://zhuanlan.zhihu.com/p/441454622)
+
+34. [范式球，范式锥，欧式球，椭球](https://blog.csdn.net/robert_chen1988/article/details/80479813)
+
+35. [凸集](https://zhuanlan.zhihu.com/p/33231654)
+
+36. [对称矩阵及重要性质](https://zhuanlan.zhihu.com/p/627861657)
+
+37. [半正定锥](https://zhuanlan.zhihu.com/p/570781608)
