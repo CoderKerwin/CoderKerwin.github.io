@@ -55,6 +55,28 @@
 
 [Faster and more secure Wi-Fi in Windows](https://support.microsoft.com/en-us/windows/faster-and-more-secure-wi-fi-in-windows-26177a28-38ed-1a8e-7eca-66f24dc63f09)
 
+### BATTERY
+
+[电池                  ](https://www.eefocus.com/baike/508815.html)
+[纽扣电池              ](https://www.eefocus.com/baike/521600.html)
+[5号电池               ](https://www.eefocus.com/baike/508814.html)
+[7号电池               ](https://www.eefocus.com/baike/518872.html)
+[铅蓄电池              ](https://www.eefocus.com/baike/1447748.html)
+[碳性电池              ](https://www.eefocus.com/baike/498851.html)
+[碱性电池              ](https://www.eefocus.com/baike/1384334.html)
+[碱性锌锰电池          ](https://www.eefocus.com/baike/498587.html)
+[无汞电池和碱性电池区别](https://www.eefocus.com/e/1449078.html)
+
+[笔记本长期插电源使用](https://zhuanlan.zhihu.com/p/374591229)
+
+[笔记本电源管理芯片(EC)作用介绍](https://iknow.lenovo.com.cn/app/detail/dc_076023.html)
+
+### ROBOT
+
+[Boston Dynamics 波士顿机器人              ](https://zhuanlan.zhihu.com/p/404595141)
+[波士顿动力家族的九款机器人                ](https://zhuanlan.zhihu.com/p/231658800)
+[为何谷歌要卖掉表现优异的波士顿动力的机器人](https://www.zhihu.com/question/68676480)
+
 ## FIRMWARE
 
 <https://www.tianocore.org>,
@@ -62,6 +84,9 @@
 <https://www.linuxboot.org>,
 <https://slimbootloader.github.io>,
 <https://www.denx.de/wiki/U-Boot>
+
+<https://github.com/AMD-OpenSIL>
+<https://github.com/openSIL/openSIL>
 
 <https://github.com/hardenedlinux>,
 <https://github.com/openbmc>,
