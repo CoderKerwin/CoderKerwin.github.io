@@ -156,3 +156,9 @@ ACRONYM | Meaning
 65. [NiuTensor张量计算库](https://opensource.niutrans.com/niutensor/index.html)
 
 66. [Transformer模型训练技术简介](https://zhuanlan.zhihu.com/p/438150240)
+
+67. <https://github.com/facebookresearch/llama>
+
+68. <https://github.com/Dao-AILab/flash-attention>
+
+69. <https://tridao.me/publications/flash2/flash2.pdf>
