@@ -100,3 +100,6 @@
 36. [对称矩阵及重要性质](https://zhuanlan.zhihu.com/p/627861657)
 
 37. [半正定锥](https://zhuanlan.zhihu.com/p/570781608)
+
+38. <https://math.stackexchange.com/questions/1857317/why-deta-1-1-deta>
+39. <https://math.stackexchange.com/questions/842898/is-detab-detba>
