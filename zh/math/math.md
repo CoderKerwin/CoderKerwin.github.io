@@ -103,3 +103,5 @@
 
 38. <https://math.stackexchange.com/questions/1857317/why-deta-1-1-deta>
 39. <https://math.stackexchange.com/questions/842898/is-detab-detba>
+
+40. [矩阵求导](https://zhuanlan.zhihu.com/p/273729929)
