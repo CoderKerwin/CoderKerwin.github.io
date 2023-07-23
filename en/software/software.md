@@ -310,6 +310,8 @@ fork in github:
 
 [windows10如何关闭搜索功能中展示的热门搜索？](https://answers.microsoft.com/zh-hans/windows/forum/all/windows10%e5%a6%82%e4%bd%95%e5%85%b3%e9%97%ad/4c89657e-f0c7-45f9-9908-3b1657aa76e0)
 
+[win11微软拼音输入法选字候选框无法显示](https://zhuanlan.zhihu.com/p/430128136)
+
 ### LINUX
 
 [Linux文件系统详解](http://c.biancheng.net/view/880.html)
@@ -342,4 +344,7 @@ fork in github:
 ## PDA
 
 [华为手机“定时播报日程安排”提醒](https://zhuanlan.zhihu.com/p/409690217)
+
+## EDA
+
 
