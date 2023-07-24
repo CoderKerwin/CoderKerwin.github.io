@@ -105,3 +105,7 @@
 39. <https://math.stackexchange.com/questions/842898/is-detab-detba>
 
 40. [矩阵求导](https://zhuanlan.zhihu.com/p/273729929)
+
+41. [高等数学和数学分析之间区别](https://www.zhihu.com/question/370000187)
+42. [数学分析教材或参考书推荐  ](https://www.zhihu.com/question/427922224)
+43. [数学分析                  ](https://www.zhihu.com/topic/19622000)
