@@ -48,9 +48,16 @@ https://www.vim.org, https://github.com/vim
 
 #### MSVC
 
+[MSVC编译器参考](https://learn.microsoft.com/zh-cn/cpp/build/reference/compiling-a-c-cpp-program?view=msvc-170)
+
 Zi, /debug
 
 #### GCC
+
+[GNU Compiler Collection          ](https://gcc.gnu.org)
+[Options That Control Optimization](https://gcc.gnu.org/onlinedocs/gcc/Optimize-Options.html)
+
+[GCC基本使用](https://zhuanlan.zhihu.com/p/404682058)
 
 -g
 
