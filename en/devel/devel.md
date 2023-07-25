@@ -161,6 +161,8 @@ TIANOCORE文档采用了github.io与gitbook.io两种方式，关于文档化的W
 
 [C语言教你怎么改变字体颜色](https://blog.csdn.net/qq_31975227/article/details/51758461): dropped by windows
 
+<https://reproducible-builds.org>: <https://github.com/jasonwhite/ducible>
+
 ### OS
 
 [Elixir is online linux source](https://elixir.bootlin.com/linux/latest/source),
