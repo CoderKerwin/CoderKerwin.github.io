@@ -111,3 +111,7 @@
 43. [数学分析                  ](https://www.zhihu.com/topic/19622000)
 
 44. [数学专业最全介绍](https://zhuanlan.zhihu.com/p/399827103)
+
+45. [数学史推参考书荐](https://www.zhihu.com/question/20100262)
+
+46. [数学史浅述](https://zhuanlan.zhihu.com/p/139716871)
