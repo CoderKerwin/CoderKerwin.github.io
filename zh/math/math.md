@@ -115,3 +115,12 @@
 45. [数学史推参考书荐](https://www.zhihu.com/question/20100262)
 
 46. [数学史浅述](https://zhuanlan.zhihu.com/p/139716871)
+
+47. [蒲丰投针问题](https://zhuanlan.zhihu.com/p/479953215)
+
+48. [柯西方程与柯西方法](https://zhuanlan.zhihu.com/p/80543711)
+
+49. [微积分和数学分析引论](http://www.downcc.com/soft/125454.html)
+50. [微积分              ](http://www.downcc.com/k/weijifen)
+
+51. [如何推导出区间套定理？](https://www.zhihu.com/question/318410151)
