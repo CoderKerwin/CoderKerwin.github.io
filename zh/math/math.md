@@ -123,4 +123,8 @@
 49. [微积分和数学分析引论](http://www.downcc.com/soft/125454.html)
 50. [微积分              ](http://www.downcc.com/k/weijifen)
 
-51. [如何推导出区间套定理？](https://www.zhihu.com/question/318410151)
+51. [微积分和数学分析引论](https://poqna.top/book/wei-ji-fen-he-shu-xue-fen-xi-yin-lun-di-1-juan-gong-2-ce/pdf)
+
+52. [微积分和数学分析引论](https://book.sciencereading.cn/shop/book/Booksimple/show.do?id=BAB7F604D6F0F4E58A5D4156F06ABB943000)
+
+53. [如何推导出区间套定理？](https://www.zhihu.com/question/318410151)
