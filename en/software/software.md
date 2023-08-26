@@ -65,6 +65,10 @@ Zi, /debug
 
 ## JAVA COMPILER
 
+Bing: OpenJDK download
+<https://jdk.java.net/archive>
+<https://download.java.net/java/GA/jdk11/9/GPL/openjdk-11.0.2_windows-x64_bin.zip>
+
 ### OPENJDK
 
 ## DISASSEMBER
@@ -230,6 +234,13 @@ Tianocore项目使用了github.io来做为文档展示，参考这个来构建gi
 [Azure DevOps](https://azure.microsoft.com/en-us/products/devops)
 
 ## REMOTE
+
+`mstsc` is command for connecting to remote machine. should enable remote feature in windows first
+
+`vncserver` is command for enabling deamon in server side
+
+`ssh` and `scp` are command that can be used between different system. should enable ssh-server in windows first. should install openssh-server in linux first.
+
 [win10 开启ssh server服务 远程登录](https://blog.csdn.net/weixin_43064185/article/details/90080815)
 
 [Key-based authentication in OpenSSH for Windows](https://learn.microsoft.com/en-us/windows-server/administration/openssh/openssh_keymanagement): `authorized_keys, administrators_authorized_keys`
@@ -252,6 +263,20 @@ ssh -p -l
 
 [warning: agent returned different signature type ssh-rsa (expected rsa-sha2-512) when key registered with ssh-agent](https://github.com/PowerShell/Win32-OpenSSH/issues/1551): 使用ssh -V发现笔记本是8x的ssh没有这个问题，台式机是7x的有问题。这个问题导致了不能免密码登录。可以用git里面的ssh，试过没有问题。
 
+<https://learn.microsoft.com/en-us/windows/console/classic-vs-vt>
+<https://learn.microsoft.com/en-us/windows/console/console-functions>
+<https://learn.microsoft.com/en-us/windows/console/console-virtual-terminal-sequences>, <http://vt100.net, http://invisible-island.net/xterm/ctlseqs/ctlseqs.html>
+<https://learn.microsoft.com/en-us/windows/console/ecosystem-roadmap>
+<https://learn.microsoft.com/en-us/windows/console/setconsoletextattribute>
+<https://learn.microsoft.com/en-us/windows/console/using-the-high-level-input-and-output-functions>
+
+[VT100控制码说明](https://blog.csdn.net/fantian_/article/details/82256776),
+[SecureCRT 中的终端选择 VT100 VT102 VT200 Xterm linux Vshell 等都有什么区别啊？](https://zhidao.baidu.com/question/352524515.html),
+[什么是vt100？ -技术百科的定义](https://cn.theastrologypage.com/vt100),
+[Console Virtual Terminal Sequences](https://learn.microsoft.com/en-us/windows/console/console-virtual-terminal-sequences?redirectedfrom=MSDN)
+
+Linux对VT100支持较好，其中python在linux上print就可以使用，但windows则不可以。windows就type支持，但如果more来分行的则会被影响。It is bug in windows, have been fixed in WIN11.
+
 ### CREDENTIAL
 
 [usingcurl-netrc](https://github.com/chinanf-boy/everything-curl-zh/blob/master/book/usingcurl-netrc.zh.md)
@@ -273,6 +298,22 @@ ssh -p -l
 [github token by git and netrc](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens)
 
 ### [PUTTY](https://putty.org)
+
+[Ubuntu 18.04 LTS 使用xrdp远程桌面配置说明](https://www.cnblogs.com/varden/p/13954575.html)
+[Can't connect to xrdp as normal user, connecting as root is fine](https://unix.stackexchange.com/questions/629505)
+[xrdp方式windows 10连接ubuntu 18.04](https://zhuanlan.zhihu.com/p/40937988)
+[Issues with xRDP and Ubuntu 18.04.2 – How to fix it](http://c-nergy.be/blog/?p=13390)
+[windows用xrdp方式远程桌面连接ubuntu](https://blog.csdn.net/devil6636252/article/details/109616851)
+[使用 Windows 远程 Linux 主机 @20210130](https://blog.csdn.net/u013670453/article/details/113423956)
+
+[wpa_supplicant 常用操作及其wpa_cli无法运行的原因Could not connect to wpa_supplicant](https://blog.csdn.net/qq_32348883/article/details/123156401)
+[systemctl开机启动wpa_supplicant](https://blog.csdn.net/u010049696/article/details/48765999)
+
+[ngrok的使用(超详细)](https://blog.csdn.net/liunianqingshi/article/details/108049441)
+
+[最佳 Linux 远程桌面客户端 | Linux 中国](https://zhuanlan.zhihu.com/p/586858767)
+[Remmina](https://remmina.org)
+[Best RDP (Remote Desktop) Clients for Linux](https://www.tecmint.com/best-linux-rdp-remote-desktop-clients)
 
 ## VERSIONCONTROL
 
@@ -310,8 +351,15 @@ fork in github:
 <https://github.com/tianocore/edk2/network/members>
 
 ## OS
+Operation System are system software, include windows, linux.  
+system software vendor include microsoft, ubuntu, debian, centos, redhat, etc  
+Vendor websites are <microsoft.com>, <ubuntu.com>, <debian.org>, <centos.org>, <redhat.com>
+linux kernel is very important, the website is <kernel.org>
 
 ### WINDOWS
+
+windows设置里面，账户选项卡，账户信息里面，账户设置里选择改用本地设置可以在本地与微软账户切换。
+在控制面板里面，可以删除保存的密码，这样浏览器就不会自动登录。
 
 [win10搜索框的热门搜索怎么关闭?](https://www.zhihu.com/question/563437571)
 
@@ -319,9 +367,19 @@ fork in github:
 
 [win11微软拼音输入法选字候选框无法显示](https://zhuanlan.zhihu.com/p/430128136)
 
+<https://learn.microsoft.com>
+
+<https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/systeminfo>
+<https://learn.microsoft.com/en-us/windows-hardware/drivers/devtest/pnputil-examples>
+<https://learn.microsoft.com/en-us/windows-hardware/drivers/devtest/certmgr>
+
+<https://docs.microsoft.com/en-us/windows-hardware/drivers/devtest/boot-options-in-windows>
+
 ### LINUX
 
 [Linux文件系统详解](http://c.biancheng.net/view/880.html)
+
+<https://docs.kernel.org>
 
 ## BUGTRACKER
 
@@ -354,4 +412,7 @@ fork in github:
 
 ## EDA
 
+## TIME
+
+<https://24timezones.com/#/map>
 
