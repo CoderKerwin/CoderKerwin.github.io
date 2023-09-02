@@ -13,3 +13,7 @@
 7. [穿越机FPV小白入门推荐](https://www.zhihu.com/tardis/zm/art/369518508)
 
 8. [穿越机小白入门       ](https://zhongce.sina.com.cn/article/view/75935)
+
+9. [长按开机键30秒释放笔记本静电](https://onionseo.com/25376.html)
+
+10. [type-c接拓展坞无反应的处理方法](https://blog.csdn.net/qq_36253061/article/details/102596394)
