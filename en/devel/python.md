@@ -315,5 +315,7 @@ os.path里面是否已经存在自动转换路径的函数？可否将这个方�
 
 67. [Python 定时任务最佳实践](https://zhuanlan.zhihu.com/p/92152648)
 
-68. [PyPI 镜像使用帮助](https://mirrors.tuna.tsinghua.edu.cn/help/pypi)
-69. [校园网联合镜像站](https://mirrors.cernet.edu.cn/list/pypi)
+68. [python使用代理的几种方式](https://blog.csdn.net/whatday/article/details/112169945)
+
+69. [PyPI 镜像使用帮助](https://mirrors.tuna.tsinghua.edu.cn/help/pypi)
+70. [校园网联合镜像站](https://mirrors.cernet.edu.cn/list/pypi)
