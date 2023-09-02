@@ -21,6 +21,8 @@
 
 14. [炒肉片时，想要滑嫩不干柴，这个技巧要记牢，肉片滑嫩，味道超棒](https://baijiahao.baidu.com/s?id=1701351891809707649)
 
+15. [在家里怎么自己炒栗子](https://www.zhihu.com/question/20584659)
+
 ## 搜索
 
 1. `onsite:www.nhc.gov.cn 中国居民膳食营养素参考摄入量`
