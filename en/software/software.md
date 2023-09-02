@@ -277,6 +277,8 @@ ssh -p -l
 
 Linux对VT100支持较好，其中python在linux上print就可以使用，但windows则不可以。windows就type支持，但如果more来分行的则会被影响。It is bug in windows, have been fixed in WIN11.
 
+TeamViewer user profile can set which machine are login, free user can only login two machine
+
 ### CREDENTIAL
 
 [usingcurl-netrc](https://github.com/chinanf-boy/everything-curl-zh/blob/master/book/usingcurl-netrc.zh.md)
@@ -324,6 +326,8 @@ Linux对VT100支持较好，其中python在linux上print就可以使用，但win
 git添加submodule时，会创建一个160000属性的commit文件，此commit对应submodule对应的commit。commit之前可以用`git diff --cached`查看此文件存在，commit之后可用`git ls-tree`查看此文件存在。此commit文件无法用`git cat-file`查看。
 其中的.gitmodule文件也非常重要，缺少会导致`git submodule`命令无法正常运行。
 submodule必须到对应子目录才能使用git命令查看其内容。
+
+`git config core.logpaths true`解决windows长文件名
 
 ### MIDDLEWARE
 
