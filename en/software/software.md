@@ -420,3 +420,8 @@ windows设置里面，账户选项卡，账户信息里面，账户设置里选�
 
 <https://24timezones.com/#/map>
 
+## COMMUNICATION
+
+### WECHAT
+
+[微信的聊天记录为什么总是自动消失](https://zhidao.baidu.com/question/814527655836741732/answer/2865264035)
