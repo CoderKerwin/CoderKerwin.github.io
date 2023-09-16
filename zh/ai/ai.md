@@ -162,3 +162,7 @@ ACRONYM | Meaning
 68. <https://github.com/Dao-AILab/flash-attention>
 
 69. <https://tridao.me/publications/flash2/flash2.pdf>
+
+70. [人工智能](https://zhuanlan.zhihu.com/p/26727470)
+
+71. [人工智能PDF中文教材资源](https://zhuanlan.zhihu.com/p/34312502)
