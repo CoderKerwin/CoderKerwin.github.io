@@ -6,3 +6,9 @@
 3. [统编语文三年级必背古诗词18首](https://www.sohu.com/a/475845712_121124024)
 
 4. [大学生体测标准评分表](https://www.dxsbb.com/news/3504.html)
+
+5. [土豆逗严肃科普](https://www.zhihu.com/tardis/zm/art/601578826)
+
+6. [土豆逗严肃科普](http://www.handme.net/12682.html)
+
+7. [土豆逗严肃科普](https://space.bilibili.com/1108508835/dynamic)
