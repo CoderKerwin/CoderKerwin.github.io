@@ -63,6 +63,12 @@ Zi, /debug
 
 #### CLANG
 
+#### KEIL
+
+[stc-isp安装教程win11_stcisp安装教程win11](https://www.keil345.com/keil/108528.html)
+
+[STC-ISP单片机烧录软件](http://www.i5wz.com/soft/bckf/11509.html)
+
 ## JAVA COMPILER
 
 Bing: OpenJDK download
