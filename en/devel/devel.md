@@ -38,6 +38,12 @@
 [汇编语言MOVZX和MOVSX指令](http://c.biancheng.net/view/3494.html),
 [汇编语言条件跳转指令汇总](http://c.biancheng.net/view/3567.html)
 
+### 8051
+
+[Intel MCS-51 编程及指令集手册](https://wiki.nyatorch.com/电子工程/嵌入式/MCU/8051/MCS-51ProgrammerManual_CN/#_4)
+
+[MCS-51 PROGRAMMER’SGUIDE AND INSTRUCTION SET](https://www.keil.com/dd/docs/datashts/intel/ism51.pdf)
+
 ### ARM
 
 ### RISCV
