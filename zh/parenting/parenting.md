@@ -12,3 +12,5 @@
 6. [土豆逗严肃科普](http://www.handme.net/12682.html)
 
 7. [土豆逗严肃科普](https://space.bilibili.com/1108508835/dynamic)
+
+8. [铅笔选HB还是2B](https://www.zhihu.com/question/374437926)
