@@ -138,3 +138,9 @@
 57. [Peano公理](https://zhuanlan.zhihu.com/p/183747004)
 
 58. [数学公理](https://www.zhihu.com/question/61113635)
+
+59. [杰出的26位数学家](https://zhuanlan.zhihu.com/p/448325523)
+
+60. [大数学家](https://www.zhihu.com/question/406144900)
+
+61. [《当代大数学家画传》](https://zhidao.baidu.com/question/1997789083214574187.html)
