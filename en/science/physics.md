@@ -13,3 +13,5 @@
 8. [擒纵机构](https://baike.baidu.com/item/擒纵机构)
 
 9. [从定时器探究擒纵机构之美](https://zhuanlan.zhihu.com/p/38174504)
+
+10. [传热机制:传导对流辐射](https://www.zhihu.com/question/380475952)
