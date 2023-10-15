@@ -20,3 +20,5 @@
 
 11. [华为手机支持显示器Desktop Mode（生产力桌面）特性列表](https://consumer.huawei.com/cn/support/content/zh-cn15822879)
 12. [显示器如何使用 Desktop Mode 特性                    ](https://consumer.huawei.com/cn/support/content/zh-cn15817606)
+
+13. [如何挑选望远镜](https://www.zhihu.com/question/31145036)
