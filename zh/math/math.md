@@ -144,3 +144,5 @@
 60. [大数学家](https://www.zhihu.com/question/406144900)
 
 61. [《当代大数学家画传》](https://zhidao.baidu.com/question/1997789083214574187.html)
+
+62. [代数与几何的关系](https://www.zhihu.com/question/368249691/answer/1020825288)
