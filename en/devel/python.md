@@ -317,5 +317,11 @@ os.path里面是否已经存在自动转换路径的函数？可否将这个方�
 
 68. [python使用代理的几种方式](https://blog.csdn.net/whatday/article/details/112169945)
 
-69. [PyPI 镜像使用帮助](https://mirrors.tuna.tsinghua.edu.cn/help/pypi)
-70. [校园网联合镜像站](https://mirrors.cernet.edu.cn/list/pypi)
+69. [如何使用python发送一条短信](https://blog.csdn.net/qq_41501331/article/details/106365515)
+
+70. [chatbotAI](https://pypi.org/project/chatbotAI)
+
+71. [5种基于Python文字转化语音方法](https://zhuanlan.zhihu.com/p/439918609)
+
+72. [PyPI 镜像使用帮助](https://mirrors.tuna.tsinghua.edu.cn/help/pypi)
+73. [校园网联合镜像站](https://mirrors.cernet.edu.cn/list/pypi)
