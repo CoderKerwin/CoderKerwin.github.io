@@ -96,6 +96,8 @@ bytearray
  - next
   - next(matches).load()
  - super
+ - all
+ - any
 
 ### classes
 
