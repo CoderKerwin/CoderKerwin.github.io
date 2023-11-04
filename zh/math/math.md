@@ -146,3 +146,11 @@
 61. [《当代大数学家画传》](https://zhidao.baidu.com/question/1997789083214574187.html)
 
 62. [代数与几何的关系](https://www.zhihu.com/question/368249691/answer/1020825288)
+
+63. [2022年数学学科研究前沿](http://www.lib.seu.edu.cn/upload_files/file/20230505/_20230505154139.pdf): 前沿 最新进展 热点问题
+
+64. [数学前沿领域与研究](https://www.zhihu.com/question/313413787)
+
+65. [数学最前沿研究问题](https://www.zhihu.com/question/343456996)
+
+66. [《10000个科学难题》](https://www.zhihu.com/question/422766034)
