@@ -61,6 +61,10 @@
 
 [Faster and more secure Wi-Fi in Windows](https://support.microsoft.com/en-us/windows/faster-and-more-secure-wi-fi-in-windows-26177a28-38ed-1a8e-7eca-66f24dc63f09)
 
+[ZY10A智能小车最终光盘资料20161019](http://www.kaixingu.net/n/uxXxe78qfg)
+
+[RS232串口线常见接法与引脚定义](https://blog.csdn.net/sinat_36536285/article/details/126829550)
+
 ### BATTERY
 
 [电池                  ](https://www.eefocus.com/baike/508815.html)
