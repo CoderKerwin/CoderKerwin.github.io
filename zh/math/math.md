@@ -154,3 +154,5 @@
 65. [数学最前沿研究问题](https://www.zhihu.com/question/343456996)
 
 66. [《10000个科学难题》](https://www.zhihu.com/question/422766034)
+
+67. [欧拉常数](https://baike.baidu.com/item/欧拉常数)
