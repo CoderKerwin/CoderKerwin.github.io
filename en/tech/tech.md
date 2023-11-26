@@ -22,3 +22,5 @@
 12. [显示器如何使用 Desktop Mode 特性                    ](https://consumer.huawei.com/cn/support/content/zh-cn15817606)
 
 13. [如何挑选望远镜](https://www.zhihu.com/question/31145036)
+
+14. [DPC WATCHDOG VIOLATION](https://www.drivereasy.com/knowledge/dpc-watchdog-violation-on-windows-10-fixed)
