@@ -44,6 +44,11 @@
 
 [MCS-51 PROGRAMMER’SGUIDE AND INSTRUCTION SET](https://www.keil.com/dd/docs/datashts/intel/ism51.pdf)
 
+[89C51中断系统介绍 ](https://blog.csdn.net/modi000/article/details/105904047)
+[单片机中断系统详解](https://blog.csdn.net/weixin_45629315/article/details/105277072)
+
+[基于51单片机的红外接收](https://blog.csdn.net/weixin_53624282/article/details/114003211)
+
 ### ARM
 
 ### RISCV
@@ -64,6 +69,14 @@
 [ZY10A智能小车最终光盘资料20161019](http://www.kaixingu.net/n/uxXxe78qfg)
 
 [RS232串口线常见接法与引脚定义](https://blog.csdn.net/sinat_36536285/article/details/126829550)
+
+[红外传感器的工作原理](https://www.gst-ir.com/hw_24/319.html)
+
+[红外收发基本原理](https://blog.csdn.net/canyou0707/article/details/73693117)
+
+[红外遥控接收发射原理](https://zhuanlan.zhihu.com/p/314987528)
+
+<https://www.nordicsemi.com>
 
 ### BATTERY
 
