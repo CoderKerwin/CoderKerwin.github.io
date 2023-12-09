@@ -16,3 +16,9 @@
 8. [铅笔选HB还是2B](https://www.zhihu.com/question/374437926)
 
 9. [EnjoyAI](https://www.enjoyai.org)
+
+10. [教育部白名单赛事](https://zhuanlan.zhihu.com/p/479799878)
+
+11. [在线成语词典](http://chengyu.t086.com)
+
+12. [汉典](https://www.zdic.net)
