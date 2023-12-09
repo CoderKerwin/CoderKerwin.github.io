@@ -30,3 +30,5 @@
 15. [单杠卷身上](https://zhuanlan.zhihu.com/p/366278199)
 
 16. [无缝头巾的10种戴法](https://jingyan.baidu.com/article/6181c3e0cbc0ae152ef153a0.html)
+
+17. [成人鼻窦炎临床指南概要](https://otol.dxy.cn/article/140028)
