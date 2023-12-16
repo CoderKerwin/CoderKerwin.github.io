@@ -17,8 +17,11 @@
 
 9. [EnjoyAI](https://www.enjoyai.org)
 
-10. [教育部白名单赛事](https://zhuanlan.zhihu.com/p/479799878)
+10. [教育部办公厅关于公布2022—2025学年面向中小学生的全国性竞赛活动的通知](http://www.moe.gov.cn/srcsite/A29/202209/t20220929_665926.html)
+11. [教育部白名单赛事](https://zhuanlan.zhihu.com/p/479799878)
 
-11. [在线成语词典](http://chengyu.t086.com)
+12. [2023年教育部认可的84项全国大学生学科竞赛](https://zhuanlan.zhihu.com/p/615963730)
 
-12. [汉典](https://www.zdic.net)
+13. [在线成语词典](http://chengyu.t086.com)
+
+14. [汉典](https://www.zdic.net)
