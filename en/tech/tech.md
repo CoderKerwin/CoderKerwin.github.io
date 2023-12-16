@@ -20,7 +20,11 @@
 
 11. [华为手机支持显示器Desktop Mode（生产力桌面）特性列表](https://consumer.huawei.com/cn/support/content/zh-cn15822879)
 12. [显示器如何使用 Desktop Mode 特性                    ](https://consumer.huawei.com/cn/support/content/zh-cn15817606)
+13. [华为手机/平板使用电脑模式投屏不清晰                 ](https://consumer.huawei.com/cn/support/content/zh-cn00825352)
 
-13. [如何挑选望远镜](https://www.zhihu.com/question/31145036)
+14. [如何挑选望远镜](https://www.zhihu.com/question/31145036)
 
-14. [DPC WATCHDOG VIOLATION](https://www.drivereasy.com/knowledge/dpc-watchdog-violation-on-windows-10-fixed)
+15. [DPC WATCHDOG VIOLATION](https://www.drivereasy.com/knowledge/dpc-watchdog-violation-on-windows-10-fixed)
+
+16. [燃气热水器e5故障手动解决](https://www.zhihu.com/question/503146512)
+
