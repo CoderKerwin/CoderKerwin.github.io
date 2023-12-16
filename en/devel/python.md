@@ -1,17 +1,20 @@
 # python
 vendor: Python Software Foundation  
-website: python.org  
-support: windows/linux
+website: <https://www.python.org>  
+docs: <https://docs.python.org>  
+repos: <https://pypi.org>  
+support: windows/linux  
+uefi-python: <https://github.com/tianocore/edk2-libc/tree/master/AppPkg/Applications/Python/Python-3.6.8>
 
 Python is one of the most popular programming languages in use today. It has become the de-facto programming language for test automation, dev-ops, AI/ML and various other use cases
 
 ## install
-linux: apt install python3, apt install python3-pip  
-windows: download msi and double click msi
+linux: `apt install python3`, `apt install python3-pip`  
+windows: install from msi
 
 ## run
-linux: python3, python3 -m pip  
-windows: py -3, py -3 -m pip
+linux: `python3`, `python3 -m pip`  
+windows: `py -3`, `py -3 -m pip`
 
 ## data type
 
@@ -106,7 +109,9 @@ bytearray
 - int()
 - float()
 - list()
+ - index() for example `print('percent %d'.format(list).index(item)/len(list))` pay attention that it only show **first matched item** so make sure that there are **no same item** in list
 - dict()
+ - items() will return tuple. you can not use dict() as list directly because it just mean keys(). can use list(dict()) and list(dict().items()) to know the difference
 - bytes()
  - copy_from_buffer
 - bytearray()
@@ -325,5 +330,11 @@ os.path里面是否已经存在自动转换路径的函数？可否将这个方�
 
 71. [5种基于Python文字转化语音方法](https://zhuanlan.zhihu.com/p/439918609)
 
-72. [PyPI 镜像使用帮助](https://mirrors.tuna.tsinghua.edu.cn/help/pypi)
-73. [校园网联合镜像站](https://mirrors.cernet.edu.cn/list/pypi)
+72. [Working with Excel Files in Python](https://www.python-excel.org): [openpyxl](https://openpyxl.readthedocs.io/en/stable/tutorial.html)
+
+73. [Python Package Index](https://pypi.org): Search python package for example paramiko, requests, numpy, matplotlib, pandas
+
+74. [Errors and Exceptions](https://docs.python.org/3/tutorial/errors.html)
+
+75. [PyPI 镜像使用帮助](https://mirrors.tuna.tsinghua.edu.cn/help/pypi)
+76. [校园网联合镜像站](https://mirrors.cernet.edu.cn/list/pypi)
