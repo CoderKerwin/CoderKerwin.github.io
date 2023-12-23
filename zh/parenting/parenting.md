@@ -25,3 +25,33 @@
 13. [在线成语词典](http://chengyu.t086.com)
 
 14. [汉典](https://www.zdic.net)
+
+15. [编程小伙伴测评网](http://www.cierobot.com)
+
+16. [中国少年儿童发展服务中心](https://www.china61.org.cn)
+
+17. [全国中小学信息技术创新与实践大赛](http://s.noc.net.cn)
+
+18. [全国青少年信息素养大赛](https://ceic.kpcb.org.cn)
+
+19. [全国青少年无人机大赛](https://www.int-ede.com)
+
+20. [中国计算机学会](https://www.ccf.org.cn)
+
+21. [中国人工智能协会](https://caai.cn)
+
+22. [中国数学会](http://cms.org.cn), [中国物理学会](http://www.cps-net.org.cn), [中国化学会](https://www.chemsoc.org.cn)
+
+23. [中国科学院](https://www.cas.cn), [中国科学技术协会](https://www.cast.org.cn)
+
+24. [中国地球物理学会](http://www.cgscgs.org.cn), [中国地理学会](http://www.gsc.org.cn), [中国地震学会](http://www.ssoc.org.cn), [中国灾害防御协会](http://www.zaihai.cn)
+
+25. [中国植物学会](http://www.botany.org.cn), [中国动物学会](http://czs.ioz.cas.cn)
+
+26. [中国发明协会](http://www.cainet.org.cn)
+
+27. [中国电子学会](https://uia.cie.org.cn)
+
+28. [中国航空学会](http://www.csaa.org.cn)
+
+29. [中国天文学会](http://astronomy.pmo.cas.cn), [北京天文馆](https://www.bjp.org.cn)
