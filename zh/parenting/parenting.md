@@ -28,13 +28,13 @@
 
 15. [编程小伙伴测评网](http://www.cierobot.com)
 
-16. [中国少年儿童发展服务中心](https://www.china61.org.cn)
+16. [中国少年儿童发展服务中心](https://www.china61.org.cn), [全国青少年人工智能创新挑战赛](http://aiic.china61.org.cn)
 
 17. [全国中小学信息技术创新与实践大赛](http://s.noc.net.cn)
 
 18. [全国青少年信息素养大赛](https://ceic.kpcb.org.cn)
 
-19. [全国青少年无人机大赛](https://www.int-ede.com)
+19. [全国青少年无人机大赛](https://www.int-ede.com), [全国青少年无人机科学素质等级考试](https://csaa-cc.net)
 
 20. [中国计算机学会](https://www.ccf.org.cn)
 
@@ -50,7 +50,7 @@
 
 26. [中国发明协会](http://www.cainet.org.cn)
 
-27. [中国电子学会](https://uia.cie.org.cn)
+27. [中国电子学会](https://uia.cie.org.cn), [青少年等级考试](https://center.qceit.org.cn)
 
 28. [中国航空学会](http://www.csaa.org.cn)
 
