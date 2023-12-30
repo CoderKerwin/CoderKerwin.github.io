@@ -28,3 +28,8 @@
 
 16. [燃气热水器e5故障手动解决](https://www.zhihu.com/question/503146512)
 
+17. [世界上最顶尖的技术在哪些国家-2021](http://article.cechina.cn/21/0514/08/20210514085518.htm)
+
+18. [隔音效果好的耳机](https://www.zhihu.com/question/26290695)
+
+19. [隔音耳塞怎么选](https://www.zhihu.com/tardis/zm/art/87463517)
