@@ -34,3 +34,13 @@
 17. [无缝头巾的10种戴法](https://jingyan.baidu.com/article/6181c3e0cbc0ae152ef153a0.html)
 
 18. [成人鼻窦炎临床指南概要](https://otol.dxy.cn/article/140028)
+
+19. [磨玻璃结节](http://www.xinhuanet.com/health/20220217/5e308654ccf74e99a6d22038a5890226/c.html)
+
+20. [痰多、咳嗽](https://www.zhihu.com/question/448011687)
+
+21. [口苦](https://www.zhihu.com/question/39927508)
+
+22. [国家医保药品目录](https://www.gov.cn/fuwu/2022-01/02/content_5666104.htm)
+
+23. [异地就医的报销比例和上限](https://zhuanlan.zhihu.com/p/145475544)
