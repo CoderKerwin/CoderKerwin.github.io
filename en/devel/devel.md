@@ -180,6 +180,8 @@ TIANOCORE文档采用了github.io与gitbook.io两种方式，关于文档化的W
 
 [Code Style](https://github.com/tianocore/tianocore.github.io/wiki/Code-Style)
 
+[Goodbye Gnu-EFI!](https://dvdhrm.github.io/2019/01/31/goodbye-gnuefi), [GNU-EFI](https://wiki.osdev.org/GNU-EFI)
+
 ## SOFTWARE
 
 [C语言教你怎么改变字体颜色](https://blog.csdn.net/qq_31975227/article/details/51758461): dropped by windows
