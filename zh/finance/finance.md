@@ -17,3 +17,7 @@
 8. [胖东来](https://zhuanlan.zhihu.com/p/660150894)
 
 9. [新手小白如何开始做跨境电商](https://zhuanlan.zhihu.com/p/93271157)
+
+10. [个人独资企业只有老板一人要交社保吗](https://m.findlaw.cn/jingjifa/gerenduzi/zhishi/20210517/1543682.html)
+
+11. [公司的老板社保交法](https://www.zhihu.com/question/322474840)
