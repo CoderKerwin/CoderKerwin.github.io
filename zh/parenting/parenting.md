@@ -55,3 +55,14 @@
 28. [中国航空学会](http://www.csaa.org.cn)
 
 29. [中国天文学会](http://astronomy.pmo.cas.cn), [北京天文馆](https://www.bjp.org.cn)
+
+30. [孔夫子旧书网](https://www.kongfz.com), [图书大全](http://www.tushudq.com), [中图网](http://www.bookschina.com), [清华大学出版社](http://www.tup.tsinghua.edu.cn), [文泉书局](https://wqbook.wqxuetang.com), [淘书小屋 ](http://www.fou001.com), [zlibrary](https://zh.z-library.se)
+
+31. [爱上无人机:青少年无人机创新教程(初级 中级)目录](http://www.bookschina.com/8175310.htm)
+32. [爱上无人机：青少年无人机编程教程              ](https://wqbook.wqxuetang.com/book/3246082)
+
+33. [无人机入门](https://blog.csdn.net/qq_46202265/article/details/122729797), [无人机分类](https://blog.csdn.net/Extraordinary01/article/details/121539585)
+
+34. [常春藤联盟](https://baike.baidu.com/item/常春藤联盟/1517208)
+
+35. [斯坦福和MIT，为什么不是藤校？](https://zhuanlan.zhihu.com/p/649639367)
