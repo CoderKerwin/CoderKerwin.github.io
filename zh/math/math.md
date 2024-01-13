@@ -156,3 +156,9 @@
 66. [《10000个科学难题》](https://www.zhihu.com/question/422766034)
 
 67. [欧拉常数](https://baike.baidu.com/item/欧拉常数)
+
+68. [ICCM 2023](https://iccm.tsinghua.edu.cn/iccm2023): 世界华人数学家大会
+
+69. [2022世界数学家大会报告名单公布，能介绍一小时报告的主要工作吗？](https://www.zhihu.com/question/461519507): 国际数学家大会
+
+70. [International Mathematical Union](https://www.mathunion.org), [如何看待国际数学联盟发表声明，取消在俄罗斯圣彼得堡线下举办国际数学家大会？](https://www.zhihu.com/question/519053327)
