@@ -236,6 +236,15 @@ TIANOCORE文档采用了github.io与gitbook.io两种方式，关于文档化的W
 ### MARKDOWN
 [Markdown 官方教程](https://markdown.com.cn)
 
+### WEB
+
+[WebAssembly](https://developer.mozilla.org/zh-CN/docs/WebAssembly)
+[WebGPU     ](https://developer.mozilla.org/zh-CN/docs/Web/API/WebGPU_API)
+
+[Web Neural Network](https://www.w3.org/TR/webnn): <https://webmachinelearning.github.io/webnn-intro>, <https://github.com/webmachinelearning/webnn/blob/main/explainer.md>
+
+<https://www.w3school.com.cn>
+
 ## Tracker
 缺陷管控
 
