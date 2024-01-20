@@ -1,11 +1,98 @@
 # 数学
 
+1. [数学专业最全介绍](https://zhuanlan.zhihu.com/p/399827103)
+
+## 学术组织
+
+1. [International Mathematical Union](https://www.mathunion.org)
+
+2. [中国数学会](http://www.cms.org.cn)
+
+3. [ICCM 2023](https://iccm.tsinghua.edu.cn/iccm2023): 世界华人数学家大会
+
+4. [如何看待国际数学联盟发表声明，取消在俄罗斯圣彼得堡线下举办国际数学家大会？](https://www.zhihu.com/question/519053327)
+
+5. [2022世界数学家大会报告名单公布，能介绍一小时报告的主要工作吗？](https://www.zhihu.com/question/461519507): 国际数学家大会
+
+6. [康托尔的数学人生](https://page.om.qq.com/page/OdnrB-mpOio1ZnPwWq2rDhAA0)：集合论、超无穷、超限数
+
+### 数学学报
+
+## 人物
+
+1. [杰出的26位数学家](https://zhuanlan.zhihu.com/p/448325523)
+
+2. [大数学家](https://www.zhihu.com/question/406144900)
+
+3. [《当代大数学家画传》](https://zhidao.baidu.com/question/1997789083214574187.html)
+
+4. [陶哲轩    ](https://baike.baidu.com/item/陶哲轩)
+5. [张益唐    ](https://baike.baidu.com/item/张益唐)
+
+## 数学史
+
+1. [数学史推参考书荐](https://www.zhihu.com/question/20100262)
+
+2. [数学史浅述](https://zhuanlan.zhihu.com/p/139716871)
+
+## 前沿
+
+1. [2022年数学学科研究前沿](http://www.lib.seu.edu.cn/upload_files/file/20230505/_20230505154139.pdf): 前沿 最新进展 热点问题
+
+2. [数学前沿领域与研究](https://www.zhihu.com/question/313413787)
+
+3. [数学最前沿研究问题](https://www.zhihu.com/question/343456996)
+
+4. [《10000个科学难题》](https://www.zhihu.com/question/422766034)
+
+## 分析
+
+1. [微积分和数学分析引论](http://www.downcc.com/soft/125454.html)
+2. [微积分              ](http://www.downcc.com/k/weijifen)
+
+3. [微积分和数学分析引论](https://poqna.top/book/wei-ji-fen-he-shu-xue-fen-xi-yin-lun-di-1-juan-gong-2-ce/pdf)
+
+4. [微积分和数学分析引论](https://book.sciencereading.cn/shop/book/Booksimple/show.do?id=BAB7F604D6F0F4E58A5D4156F06ABB943000)
+
+5. [如何推导出区间套定理？](https://www.zhihu.com/question/318410151)
+
+6. [高等数学和数学分析之间区别](https://www.zhihu.com/question/370000187)
+7. [数学分析教材或参考书推荐  ](https://www.zhihu.com/question/427922224)
+8. [数学分析                  ](https://www.zhihu.com/topic/19622000)
+
+9. [范式球，范式锥，欧式球，椭球](https://blog.csdn.net/robert_chen1988/article/details/80479813)
+
+10. [凸集](https://zhuanlan.zhihu.com/p/33231654)
+
+11. [半正定锥](https://zhuanlan.zhihu.com/p/570781608)
+
+12. [为什么(xe^(-x))当X趋于无穷时的极限是0啊？怎么算出来的？](https://wenwen.sogou.com/question/q657935015.htm)
+
+13. [反常积分∫xe^-x^2 dx，上限无穷大，下限0 怎么求？](https://www.zhihu.com/question/54539278)
+
+14. [函数（xy/（（x＾2）+（y＾2）））的图像](https://www.zhihu.com/question/370753167)
+
 ## 几何
+
+1. [黎曼几何                                                                          ](https://zhuanlan.zhihu.com/p/49545466)
+2. [从韩信点兵到拉格朗日插值多项式及其推广（二）——额外介绍范德蒙行列式方法            ](https://zhuanlan.zhihu.com/p/563564002)
+3. [从韩信点兵到拉格朗日插值多项式及其推广（三）——埃尔米插值多项式与范德蒙行列式的推广](https://zhuanlan.zhihu.com/p/563566506)
+4. [浙大第四版《概率论与数理统计》课后习题答案解析最全分享                            ](https://zhuanlan.zhihu.com/p/358299124)
+
 - 解析几何
  - 平面解析几何
  - 空间解析几何
 
 ## 代数
+
+1. [代数与几何的关系](https://www.zhihu.com/question/368249691/answer/1020825288)
+
+2. [线性代数之——正定矩阵](https://zhuanlan.zhihu.com/p/93392382)
+3. [对称矩阵及重要性质  ](https://zhuanlan.zhihu.com/p/627861657)
+4. [矩阵求导            ](https://zhuanlan.zhihu.com/p/273729929)
+
+5. [同济大学线性代数第五版课后习题答案](https://www.docin.com/p-1907112302.html)
+
 - 线性代数
 - 布尔代数
  - 逻辑与：1 * 1 = 1, 0 * 1 = 1 * 0 = 0 * 0 = 0
@@ -30,11 +117,21 @@
 
 ## 概率论
 
+1. [概率论与数理统计(浙大四版)](https://github.com/xitongsys/ML/tree/master/books/概率论与数理统计(浙大四版).pdf)
+
+2. [理解gamma分布](https://blog.csdn.net/weixin_39883433/article/details/111222022)
+
+3. [定义数学期望的时候为什么一定要求级数满足绝对收敛呢？](https://www.zhihu.com/question/26566795)
+
+4. [EXCEL2007如何找到数据分析工具](https://jingyan.baidu.com/article/8cdccae99e3247315513cd4a.html)
+
+5. [SPSS——相关分析——Pearson简单相关系数](https://blog.csdn.net/liuyuan_jq/article/details/52517963)
+
+6. [蒲丰投针问题](https://zhuanlan.zhihu.com/p/479953215)
+
 ## 图论
 
 ## 拓扑
-
-## 数学学报
 
 ## 参考
 1. [数学研发网](https://emath.ac.cn)：幻方
@@ -43,122 +140,31 @@
 
 4. [博士数学家园](https://www.math.org.cn)
 
-5. [康托尔的数学人生](https://page.om.qq.com/page/OdnrB-mpOio1ZnPwWq2rDhAA0)：集合论、超无穷、超限数
+5. [USTC学习资料](http://home.ustc.edu.cn/~yx3x/USTCdata.html)
 
-6. [USTC学习资料](http://home.ustc.edu.cn/~yx3x/USTCdata.html)
+6. [数学证明方法概述](https://blog.csdn.net/cnds123/article/details/127186417)
 
-7. [数学证明方法概述](https://blog.csdn.net/cnds123/article/details/127186417)
+7. [0.999...=1？数到底是什么？李永乐老师讲数学公理化](https://www.bilibili.com/video/av44942988)
 
-8. [0.999...=1？数到底是什么？李永乐老师讲数学公理化](https://www.bilibili.com/video/av44942988)
+8. [皮亚诺公理](https://baike.baidu.com/item/皮亚诺公理), [皮亚诺公理](https://mathpedia.huijiwiki.com/wiki/皮亚诺公理), [皮亚诺公理](https://zhuanlan.zhihu.com/p/268017811), [Peano公理](https://zhuanlan.zhihu.com/p/183747004)
 
-9.  [黎曼几何                                                                          ](https://zhuanlan.zhihu.com/p/49545466)
-10. [从韩信点兵到拉格朗日插值多项式及其推广（二）——额外介绍范德蒙行列式方法            ](https://zhuanlan.zhihu.com/p/563564002)
-11. [从韩信点兵到拉格朗日插值多项式及其推广（三）——埃尔米插值多项式与范德蒙行列式的推广](https://zhuanlan.zhihu.com/p/563566506)
-12. [浙大第四版《概率论与数理统计》课后习题答案解析最全分享                            ](https://zhuanlan.zhihu.com/p/358299124)
+9. [数学公理](https://www.zhihu.com/question/61113635)
 
-13. [概率论与数理统计(浙大四版)](https://github.com/xitongsys/ML/tree/master/books/概率论与数理统计(浙大四版).pdf)
+10. [克莱姆法则](https://baike.baidu.com/item/克莱姆法则)
+11. [逆命题    ](https://baike.baidu.com/item/逆命题)
+12. [伽玛函数  ](https://baike.baidu.com/item/伽玛函数)
+13. [欧拉常数  ](https://baike.baidu.com/item/欧拉常数)
+14. [范数      ](https://baike.baidu.com/item/范数)
+15. [进位计数制](https://baike.baidu.com/item/进位计数制)
+16. [科学计数法](https://baike.baidu.com/item/科学计数法/1612882)
 
-14. [同济大学线性代数第五版课后习题答案](https://www.docin.com/p-1907112302.html)
+17. [数学常用希腊字母念法（附字母表）](https://blog.csdn.net/leoleepz/article/details/50313867)
 
-15. [克莱姆法则](https://baike.baidu.com/item/克莱姆法则)
-16. [逆命题    ](https://baike.baidu.com/item/逆命题)
-17. [伽玛函数  ](https://baike.baidu.com/item/伽玛函数)
-18. [范数      ](https://baike.baidu.com/item/范数)
-19. [陶哲轩    ](https://baike.baidu.com/item/陶哲轩)
-20. [张益唐    ](https://baike.baidu.com/item/张益唐)
+18. [numpy中的log和ln函数](https://blog.csdn.net/u011699626/article/details/118885071)
 
-21. [gamma分布 松理解gamma分布](https://blog.csdn.net/weixin_39883433/article/details/111222022)
+19. [MarkDown数学公式](https://zhuanlan.zhihu.com/p/441454622)
 
-22. [数学常用希腊字母念法（附字母表）](https://blog.csdn.net/leoleepz/article/details/50313867)
+20. <https://math.stackexchange.com/questions/1857317/why-deta-1-1-deta>
+21. <https://math.stackexchange.com/questions/842898/is-detab-detba>
 
-23. [为什么(xe^(-x))当X趋于无穷时的极限是0啊？怎么算出来的？](https://wenwen.sogou.com/question/q657935015.htm)
-
-24. [反常积分∫xe^-x^2 dx，上限无穷大，下限0 怎么求？](https://www.zhihu.com/question/54539278)
-
-25. [定义数学期望的时候为什么一定要求级数满足绝对收敛呢？](https://www.zhihu.com/question/26566795)
-
-26. [EXCEL2007如何找到数据分析工具](https://jingyan.baidu.com/article/8cdccae99e3247315513cd4a.html)
-
-27. [numpy中的log和ln函数](https://blog.csdn.net/u011699626/article/details/118885071)
-
-28. [SPSS——相关分析——Pearson简单相关系数](https://blog.csdn.net/liuyuan_jq/article/details/52517963)
-
-29. [进位计数制](https://baike.baidu.com/item/进位计数制)
-
-30. [科学计数法](https://baike.baidu.com/item/科学计数法/1612882)
-
-31. [中国数学会](http://www.cms.org.cn)
-
-32. [线性代数之——正定矩阵](https://zhuanlan.zhihu.com/p/93392382)
-
-33. [MarkDown数学公式](https://zhuanlan.zhihu.com/p/441454622)
-
-34. [范式球，范式锥，欧式球，椭球](https://blog.csdn.net/robert_chen1988/article/details/80479813)
-
-35. [凸集](https://zhuanlan.zhihu.com/p/33231654)
-
-36. [对称矩阵及重要性质](https://zhuanlan.zhihu.com/p/627861657)
-
-37. [半正定锥](https://zhuanlan.zhihu.com/p/570781608)
-
-38. <https://math.stackexchange.com/questions/1857317/why-deta-1-1-deta>
-39. <https://math.stackexchange.com/questions/842898/is-detab-detba>
-
-40. [矩阵求导](https://zhuanlan.zhihu.com/p/273729929)
-
-41. [高等数学和数学分析之间区别](https://www.zhihu.com/question/370000187)
-42. [数学分析教材或参考书推荐  ](https://www.zhihu.com/question/427922224)
-43. [数学分析                  ](https://www.zhihu.com/topic/19622000)
-
-44. [数学专业最全介绍](https://zhuanlan.zhihu.com/p/399827103)
-
-45. [数学史推参考书荐](https://www.zhihu.com/question/20100262)
-
-46. [数学史浅述](https://zhuanlan.zhihu.com/p/139716871)
-
-47. [蒲丰投针问题](https://zhuanlan.zhihu.com/p/479953215)
-
-48. [柯西方程与柯西方法](https://zhuanlan.zhihu.com/p/80543711)
-
-49. [微积分和数学分析引论](http://www.downcc.com/soft/125454.html)
-50. [微积分              ](http://www.downcc.com/k/weijifen)
-
-51. [微积分和数学分析引论](https://poqna.top/book/wei-ji-fen-he-shu-xue-fen-xi-yin-lun-di-1-juan-gong-2-ce/pdf)
-
-52. [微积分和数学分析引论](https://book.sciencereading.cn/shop/book/Booksimple/show.do?id=BAB7F604D6F0F4E58A5D4156F06ABB943000)
-
-53. [如何推导出区间套定理？](https://www.zhihu.com/question/318410151)
-
-54. [皮亚诺公理](https://baike.baidu.com/item/皮亚诺公理)
-
-55. [皮亚诺公理](https://mathpedia.huijiwiki.com/wiki/皮亚诺公理)
-
-56. [皮亚诺公理](https://zhuanlan.zhihu.com/p/268017811)
-
-57. [Peano公理](https://zhuanlan.zhihu.com/p/183747004)
-
-58. [数学公理](https://www.zhihu.com/question/61113635)
-
-59. [杰出的26位数学家](https://zhuanlan.zhihu.com/p/448325523)
-
-60. [大数学家](https://www.zhihu.com/question/406144900)
-
-61. [《当代大数学家画传》](https://zhidao.baidu.com/question/1997789083214574187.html)
-
-62. [代数与几何的关系](https://www.zhihu.com/question/368249691/answer/1020825288)
-
-63. [2022年数学学科研究前沿](http://www.lib.seu.edu.cn/upload_files/file/20230505/_20230505154139.pdf): 前沿 最新进展 热点问题
-
-64. [数学前沿领域与研究](https://www.zhihu.com/question/313413787)
-
-65. [数学最前沿研究问题](https://www.zhihu.com/question/343456996)
-
-66. [《10000个科学难题》](https://www.zhihu.com/question/422766034)
-
-67. [欧拉常数](https://baike.baidu.com/item/欧拉常数)
-
-68. [ICCM 2023](https://iccm.tsinghua.edu.cn/iccm2023): 世界华人数学家大会
-
-69. [2022世界数学家大会报告名单公布，能介绍一小时报告的主要工作吗？](https://www.zhihu.com/question/461519507): 国际数学家大会
-
-70. [International Mathematical Union](https://www.mathunion.org), [如何看待国际数学联盟发表声明，取消在俄罗斯圣彼得堡线下举办国际数学家大会？](https://www.zhihu.com/question/519053327)
+22. [柯西方程与柯西方法](https://zhuanlan.zhihu.com/p/80543711)
