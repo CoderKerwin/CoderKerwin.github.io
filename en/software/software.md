@@ -271,7 +271,7 @@ ssh -p -l
 
 <https://learn.microsoft.com/en-us/windows/console/classic-vs-vt>
 <https://learn.microsoft.com/en-us/windows/console/console-functions>
-<https://learn.microsoft.com/en-us/windows/console/console-virtual-terminal-sequences>, <http://vt100.net, http://invisible-island.net/xterm/ctlseqs/ctlseqs.html>
+<https://learn.microsoft.com/en-us/windows/console/console-virtual-terminal-sequences>, <http://vt100.net>, <http://invisible-island.net/xterm/ctlseqs/ctlseqs.html>
 <https://learn.microsoft.com/en-us/windows/console/ecosystem-roadmap>
 <https://learn.microsoft.com/en-us/windows/console/setconsoletextattribute>
 <https://learn.microsoft.com/en-us/windows/console/using-the-high-level-input-and-output-functions>
@@ -282,6 +282,7 @@ ssh -p -l
 [Console Virtual Terminal Sequences](https://learn.microsoft.com/en-us/windows/console/console-virtual-terminal-sequences?redirectedfrom=MSDN)
 
 Linux对VT100支持较好，其中python在linux上print就可以使用，但windows则不可以。windows就type支持，但如果more来分行的则会被影响。It is bug in windows, have been fixed in WIN11.
+在powershell运行python时，print打印支持vt100,
 
 TeamViewer user profile can set which machine are login, free user can only login two machine
 
