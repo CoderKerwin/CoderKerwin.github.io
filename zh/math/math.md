@@ -14,8 +14,6 @@
 
 5. [2022世界数学家大会报告名单公布，能介绍一小时报告的主要工作吗？](https://www.zhihu.com/question/461519507): 国际数学家大会
 
-6. [康托尔的数学人生](https://page.om.qq.com/page/OdnrB-mpOio1ZnPwWq2rDhAA0)：集合论、超无穷、超限数
-
 ### 数学学报
 
 ## 人物
@@ -28,6 +26,8 @@
 
 4. [陶哲轩    ](https://baike.baidu.com/item/陶哲轩)
 5. [张益唐    ](https://baike.baidu.com/item/张益唐)
+
+6. [康托尔的数学人生](https://page.om.qq.com/page/OdnrB-mpOio1ZnPwWq2rDhAA0)：集合论、超无穷、超限数
 
 ## 数学史
 
