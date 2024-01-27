@@ -21,3 +21,7 @@
 10. [个人独资企业只有老板一人要交社保吗](https://m.findlaw.cn/jingjifa/gerenduzi/zhishi/20210517/1543682.html)
 
 11. [公司的老板社保交法](https://www.zhihu.com/question/322474840)
+
+12. [服务器BIOS和BMC市场分析](https://www.cnblogs.com/qinlulu/p/13204789.html)
+
+14. [集群简介](https://www.cnblogs.com/qinlulu/p/13204858.html)
