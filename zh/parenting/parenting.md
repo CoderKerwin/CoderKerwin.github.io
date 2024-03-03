@@ -66,3 +66,7 @@
 34. [常春藤联盟](https://baike.baidu.com/item/常春藤联盟/1517208)
 
 35. [斯坦福和MIT，为什么不是藤校？](https://zhuanlan.zhihu.com/p/649639367)
+
+36. [慧学南通](http://jyjs.ntjy.net)
+
+37. [江苏智慧教育云平台](https://www.jse.edu.cn)
