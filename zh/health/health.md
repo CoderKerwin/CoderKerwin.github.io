@@ -45,3 +45,7 @@
 22. [国家医保药品目录](https://www.gov.cn/fuwu/2022-01/02/content_5666104.htm)
 
 23. [异地就医的报销比例和上限](https://zhuanlan.zhihu.com/p/145475544)
+
+24. [脚上长水泡很痒还脱皮](https://www.zhihu.com/question/60308362)
+
+25. [脚痒痒～小水泡](https://zhuanlan.zhihu.com/p/156802696)
