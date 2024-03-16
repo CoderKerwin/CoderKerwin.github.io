@@ -197,6 +197,8 @@ TIANOCORE文档采用了github.io与gitbook.io两种方式，关于文档化的W
 [Elixir is online linux source](https://elixir.bootlin.com/linux/latest/source),
 <https://github.com/bootlin/elixir>
 
+[System.map文件](https://www.cnblogs.com/linuxprobe-sarah/p/10435220.html)
+
 ```
  ----- flow ----------------------------------------------
  startup_32 -> startup_64 ->
