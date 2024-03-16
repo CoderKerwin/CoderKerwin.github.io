@@ -442,3 +442,7 @@ windows设置里面，账户选项卡，账户信息里面，账户设置里选�
 ## SECURITY
 
 [Authy](https://mobile.softpedia.com/apk/authy)
+
+## BOOT
+
+[带EFI支持的GRUB2安装全记录](https://www.cnblogs.com/ricksteves/p/11623681.html)
