@@ -184,6 +184,8 @@ etypes : show all type
 
 ### [PLANTUML](https://plantuml.com)
 
+### [MERMAID](https://mermaid.js.org)
+
 ### READTHEDOC
 
 https://about.readthedocs.com
@@ -285,6 +287,8 @@ Linux对VT100支持较好，其中python在linux上print就可以使用，但win
 在powershell运行python时，print打印支持vt100,
 
 TeamViewer user profile can set which machine are login, free user can only login two machine
+
+<https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/tasklist>
 
 ### CREDENTIAL
 
