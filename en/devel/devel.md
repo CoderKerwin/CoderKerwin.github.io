@@ -192,26 +192,84 @@ TIANOCORE文档采用了github.io与gitbook.io两种方式，关于文档化的W
 
 <https://reproducible-builds.org>: <https://github.com/jasonwhite/ducible>
 
+### OS LOADER
+
+[shim启动流程分析](https://zhuanlan.zhihu.com/p/436456032),
+<https://www.gnu.org/software/grub/manual/grub/html_node/UEFI-secure-boot-and-shim.html>,
+<https://github.com/rhboot/shim/blob/main/shim.c>,
+<https://github.com/rhboot/shim/blob/main/fallback.c>
+
+<https://www.gnu.org/software/grub/manual/grub/grub.html#debug>: `debug=all`, `grub-mkimage -d ./grub-core -O x86_64-efi -p=/ -o grub.efi part_gpt hfs hfsplus btrfs fat ext2 iso9660 reiserfs scsi normal configfile chain appleldr linux multiboot boot efi_gop echo cpio cat hexdup ls date minicmd multiboot2 relocator`
+
 ### OS
 
 [Elixir is online linux source](https://elixir.bootlin.com/linux/latest/source),
 <https://github.com/bootlin/elixir>
 
+[x86/earlyprintk](https://lkml.iu.edu/hypermail/linux/kernel/1504.1/00150.html)
+
 [System.map文件](https://www.cnblogs.com/linuxprobe-sarah/p/10435220.html)
 
+[Layout of bzImage](https://zhuanlan.zhihu.com/p/73077391)
+
+[Booting zImage and bzImage](https://www.ibiblio.org/oswg/oswg-nightly/oswg/en_US.ISO_8859-1/articles/alessandro-rubini/boot/boot/zimage.html)
+
+[cpio打包和压包](https://blog.csdn.net/u011774239/article/details/51720817)
+
+`make config` or `make menuconfig` to configure kernel
+
 ```
- ----- flow ----------------------------------------------
- startup_32 -> startup_64 ->
+------ flow ----------------------------------------------
+------ shim ----------------------------------------------
+ efi_main -> init_grub -> should_use_fallback
+------ grub2 ---------------------------------------------
+ multiboot ->
+   grub_cmd_multiboot
+   grub_cmd_module
+------ txt-stat ------------------------------------------
+ main ->
+   display_config_regs
+   display_tboot_log
+------ tboot ---------------------------------------------
+ memlog_init
+ memlog_write
+ launch_kernel
+------ kernel --------------------------------------------
+ startup_32 -> startup_64 -> startup_64 ->
    paging_prepare
    cleanup_trampoline
    initialize_identity_maps
- ----- file ----------------------------------------------
+ startup_32 -> startup_64 -> startup_64 ->
+   reset_early_page_tables
+   kasan_early_init
+   x86_64_start_reservations ->
+     start_kernel ->
+       smp_setup_processor_id
+       boot_cpu_init
+       pr_notice -> _printk -> vprintk -> vprintk_default -> vprintk_emit ->
+         printk_delay
+         vprintk_store
+         preempt_disable
+         console_unlock
+       setup_arch ->
+         x86_init_noop
+         early_reserve_memory
+         setup_initial_init_mm
+         probe_roms
+       [x86_init.paging.pagetable_init] paging_init ->
+         sparse_init
+         zone_sizes_init -> free_area_init -> subsection_map_init -> __nr_to_section
+       arch_call_rest_init -> reset_init -> kernel_init -> kernel_init_freeable -> prepare_namespace -> mount_root -> mount_root_generic -> do_mount_root ->
+         init_mount -> path_mount
+         init_chdir
+------ file ----------------------------------------------
  arch/x86/boot/compressed/head_64.S      |75|  startup_32               function
  arch/x86/boot/compressed/head_64.S      |336| startup_64               function
  arch/x86/boot/compressed/head_64.S      |606| trampoline_32bit_src     function
  arch/x86/boot/compressed/pgtable_64.c   |193| cleanup_trampoline       function
  arch/x86/boot/compressed/ident_map_64.c |110| initialize_identity_maps function
- ----- func ----------------------------------------------
+ arch/x86/kernel/head_64.S               |46|  startup_64               function
+------ func ----------------------------------------------
  1. trampoline_32bit_src will **keep cr3** when 5-level page table been enabled and **set cr3 to trampoline_pgtable** when 5-level page table been disabled.
  2. cleanup_trampoline have defect that when 5-level page table been enabled, CR3 will not set to trampoline_pgtable so will not update it to desired pgtable
  3. initialize_identity_maps will invoke memset to clear memory. there are some problem in here when page table is incorrect. 
@@ -227,6 +285,9 @@ TIANOCORE文档采用了github.io与gitbook.io两种方式，关于文档化的W
 
 <https://github.com/intel/linux-sgx>,
 <https://github.com/intel/SGXDataCenterAttestationPrimitives>
+
+<https://sourceforge.net/p/tboot/code/ci/default/tree>,
+<https://github.com/mateusz-mowka/tboot_live_image>
 
 ## PROGRAMMING LANGUAGE
 
