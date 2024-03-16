@@ -166,3 +166,25 @@ ACRONYM | Meaning
 70. [人工智能](https://zhuanlan.zhihu.com/p/26727470)
 
 71. [人工智能PDF中文教材资源](https://zhuanlan.zhihu.com/p/34312502)
+
+72. [scipy中pdist和squareform](https://blog.csdn.net/qq_20135597/article/details/94212816)
+
+73. [numpy的partition和argpartition](https://www.zhihu.com/question/304282758)
+
+74. [PyTorch 数据处理教程(1)](https://zhuanlan.zhihu.com/p/448064320): <https://pytorch.org/tutorials/beginner/basics/intro.html>, <https://learn.microsoft.com/en-us/training/modules/intro-machine-learning-pytorch/4-model>
+
+75. [Implementing Word2Vec in PyTorch](https://muhark.github.io/python/ml/nlp/2021/10/21/word2vec-from-scratch.html)
+
+76. [使用nltk删除英文停用词](https://zhuanlan.zhihu.com/p/34671514)
+
+77. [NLTK中的Stemmers](https://www.cnblogs.com/patrick-l/p/12251747.html)
+
+78. [Datasets快速使用](https://zhuanlan.zhihu.com/p/548355568)
+
+79. <https://www.nltk.org>
+
+80. <https://tqdm.github.io>
+
+81. <https://hf-mirror.com>
+
+82. <https://github.com/huggingface/datasets>
