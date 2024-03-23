@@ -4,7 +4,28 @@
 
 ### VIM
 
-https://www.vim.org, https://github.com/vim
+<https://www.vim.org>, <https://github.com/vim>
+
+### VSCODE
+
+[Bundling Extensions](https://code.visualstudio.com/api/working-with-extensions/bundling-extension)
+
+[VSCE command](https://michaelcurrin.github.io/dev-cheatsheets/cheatsheets/other/vscode-extensions/vsce-command.html): `vsce package` to generate vsix file
+
+[Find and fix problems in your JavaScript code](https://eslint.org): <https://github.com/microsoft/vscode-eslint>
+
+[发行VSCODE插件](https://zhuanlan.zhihu.com/p/339695661)
+
+```shell
+npm i vsce ts-loader eslint
+./node_modules/.bin/vsce package
+```
+
+```shell
+curl -L -O https://github.com/neovim/neovim/releases/download/v0.9.5/nvim-linux64.tar.gz
+tar xzvf nvim-linux64.tar.gz
+find nvim-linux64 -name nvim
+```
 
 ## CODEVIEWER
 代码浏览
