@@ -186,6 +186,27 @@ TIANOCORE文档采用了github.io与gitbook.io两种方式，关于文档化的W
 
 [Goodbye Gnu-EFI!](https://dvdhrm.github.io/2019/01/31/goodbye-gnuefi), [GNU-EFI](https://wiki.osdev.org/GNU-EFI)
 
+Change Boot Option: `efibootmgr` in linux, `msconfig` in windows, `ipmitool` in bmc, `redfish` in curl, `bcfg` in efi shell
+
+<https://ipxe.org>: <https://github.com/ipxe/ipxe>
+
+### BMC
+
+[常见OpenBMC Redfish接口curl命令](https://zhuanlan.zhihu.com/p/183976500)
+
+[通过 IPMI 设置启动设备](https://geekdaxue.co/read/lwmacct@ipmi/set-the-boot-device-via-ipmi)
+
+<https://medium.com/jacklee26/set-up-pxe-server-on-ubuntu20-04-and-window-10-e69733c1de87>
+
+<https://github.com/PJO2/tftpd64>
+
+Change Boot Option: [`ironic`](https://github.com/openstack/ironic) -> [`set_system_boot_options`](https://github.com/openstack/sushy/blob/master/sushy/resources/system/system.py#L240) -> [`getBootProperties`](https://github.com/openbmc/bmcweb/blob/master/redfish-core/lib/systems.hpp) -> [`ipmiChassisGetSysBootOptions`](https://github.com/openbmc/phosphor-host-ipmid/blob/master/chassishandler.cpp)
+
+```
+ipmitool chassis bootdev bios options=persistent
+ipmitool chassis bootparam get 5
+```
+
 ## SOFTWARE
 
 [C语言教你怎么改变字体颜色](https://blog.csdn.net/qq_31975227/article/details/51758461): dropped by windows
