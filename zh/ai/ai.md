@@ -23,6 +23,13 @@ ACRONYM | Meaning
 在语音识别领域，ChatGPT可以实现更加准确的语音识别，可以应用于智能语音助手、语音翻译等场景。  
 在机器人领域，ChatGPT可以实现更加智能化的机器人控制，可以应用于家庭服务、工业制造等场景。
 
+## 代码
+
+```shell
+python3 -m pip install datasets scipy matplotlib torch torchtext ipywidgets nltk watermark bertviz spacy networkx
+python3 -m spacy download pt_core_news_sm
+```
+
 ## 书单
 1. [李航. 统计学习方法. 清华大学出版社                          ](https://zhuanlan.zhihu.com/p/599249709)
 2. [李航老师《统计学习方法》及相关资源（代码、课件）的汇总及下载](https://blog.csdn.net/master_Shen/article/details/121354650)
@@ -188,3 +195,41 @@ ACRONYM | Meaning
 81. <https://hf-mirror.com>
 
 82. <https://github.com/huggingface/datasets>
+
+83. <https://github.com/xai-org/grok-1>
+
+84. <https://github.com/hpcaitech/Open-Sora>
+
+85. <https://github.com/DataForScience/ChatGPT>
+
+86. [Torchtext Field新版本中被移除](https://zhuanlan.zhihu.com/p/485686510): `python3 -m pip install torch==1.9.0 torchtext=0.10.0`, <https://github.com/pytorch/text/blob/master/examples/legacy_tutorial/migration_tutorial.ipynb>
+
+87. [自然语言处理（spacy）](https://zhuanlan.zhihu.com/p/383933287)
+
+88. [BERT可视化工具bertviz体验](https://zhuanlan.zhihu.com/p/457043243), [BertViz](https://www.cnblogs.com/chinasoft/p/17507405.html)
+
+89. [从零开始实现Transformer](https://zhuanlan.zhihu.com/p/651736596)
+
+90. [Huggingface Transformers](https://zhuanlan.zhihu.com/p/448852278)
+
+91. [Transformer 训练与评估](https://zhuanlan.zhihu.com/p/97451231)
+
+92. <https://github.blog/2023-06-20-how-to-write-better-prompts-for-github-copilot>
+
+93. <https://blog.langchain.dev/retrieval>
+
+94. <https://github.com/microsoft/sample-app-aoai-chatGPT>
+
+95. <https://github.com/Azure-Samples/azure-search-openai-demo>
+
+96. <https://learn.microsoft.com/en-us/training/modules/explore-azure-openai/1-introduction>
+97. <https://learn.microsoft.com/en-us/training/modules/explore-azure-openai/4-how-to-use-azure-openai>
+98. <https://learn.microsoft.com/en-us/training/modules/explore-azure-openai/8a-exercise-openai>
+
+99.  <https://learn.microsoft.com/en-us/azure/ai-services/openai/reference>
+100. <https://learn.microsoft.com/en-us/azure/ai-services/openai/quickstart>
+101. <https://learn.microsoft.com/en-us/azure/ai-services/authentication>
+102. <https://learn.microsoft.com/en-us/azure/ai-services/disable-local-auth>
+
+103. <https://learn.microsoft.com/en-us/entra/identity-platform/quickstart-register-app>
+104. <https://learn.microsoft.com/en-us/entra/identity-platform/howto-restrict-your-app-to-a-set-of-users>
