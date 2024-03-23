@@ -302,7 +302,7 @@ os.path里面是否已经存在自动转换路径的函数？可否将这个方�
 
 57. [Portable password input](https://docs.python.org/3/library/getpass.html)
 
-58. [An email and MIME handling package](https://docs.python.org/3/library/email.html)
+58. [An email and MIME handling package](https://docs.python.org/3/library/email.html): <https://docs.python.org/3/library/email.examples.html>
 
 59. [getpass() and getuser() in Python](https://www.geeksforgeeks.org/getpass-and-getuser-in-python-password-without-echo)
 
@@ -320,7 +320,7 @@ os.path里面是否已经存在自动转换路径的函数？可否将这个方�
 
 66. [Command-line options](https://mrjob.readthedocs.io/en/latest/job.html)
 
-67. [Python 定时任务最佳实践](https://zhuanlan.zhihu.com/p/92152648)
+67. [Python 定时任务最佳实践](https://zhuanlan.zhihu.com/p/92152648): <https://docs.python.org/3/library/sched.html>, <https://github.com/dbader/schedule>
 
 68. [python使用代理的几种方式](https://blog.csdn.net/whatday/article/details/112169945)
 
@@ -336,5 +336,11 @@ os.path里面是否已经存在自动转换路径的函数？可否将这个方�
 
 74. [Errors and Exceptions](https://docs.python.org/3/tutorial/errors.html)
 
-75. [PyPI 镜像使用帮助](https://mirrors.tuna.tsinghua.edu.cn/help/pypi)
-76. [校园网联合镜像站](https://mirrors.cernet.edu.cn/list/pypi)
+75. <https://pypi.org/project/Office365-REST-Python-Client>: <https://github.com/vgrem/Office365-REST-Python-Client>
+76. <https://shareplum.readthedocs.io/en/latest>: <https://blog.csdn.net/mzl87/article/details/107325321>
+
+77. [python 发送邮件/正文插入表格](https://blog.csdn.net/qq_34864753/article/details/120769126)
+78. [用python发送表格数据到邮箱](https://www.jianshu.com/p/a04eafcc2f69)
+
+79. [PyPI 镜像使用帮助](https://mirrors.tuna.tsinghua.edu.cn/help/pypi)
+80. [校园网联合镜像站](https://mirrors.cernet.edu.cn/list/pypi)
