@@ -233,3 +233,10 @@ python3 -m spacy download pt_core_news_sm
 
 103. <https://learn.microsoft.com/en-us/entra/identity-platform/quickstart-register-app>
 104. <https://learn.microsoft.com/en-us/entra/identity-platform/howto-restrict-your-app-to-a-set-of-users>
+105. <https://learn.microsoft.com/en-us/entra/identity-platform/scopes-oidc>
+106. <https://learn.microsoft.com/en-us/entra/identity-platform/consent-types-developer>
+107. <https://learn.microsoft.com/en-us/entra/identity-platform/msal-acquire-cache-tokens>
+
+108. <https://learn.microsoft.com/en-us/graph/api/drive-sharedwithme>
+109. <https://learn.microsoft.com/en-us/graph/api/driveitem-get-content>
+110. <https://learn.microsoft.com/en-us/graph/permissions-reference>
