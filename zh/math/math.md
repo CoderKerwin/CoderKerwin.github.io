@@ -168,3 +168,7 @@
 21. <https://math.stackexchange.com/questions/842898/is-detab-detba>
 
 22. [柯西方程与柯西方法](https://zhuanlan.zhihu.com/p/80543711)
+
+23. <https://numpy.org/devdocs/user/quickstart.html>
+
+24. <https://matplotlib.org/stable/users/getting_started>
