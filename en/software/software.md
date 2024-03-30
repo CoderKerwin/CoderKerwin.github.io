@@ -419,6 +419,14 @@ windows设置里面，账户选项卡，账户信息里面，账户设置里选�
 
 <https://docs.kernel.org>
 
+<https://docs.centos.org/en-US/8-docs/managing-userspace-components/assembly_finding-rhel-8-content>
+
+<https://centos.pkgs.org/8-stream/centos-baseos-x86_64/shim-x64-15-15.el8_2.x86_64.rpm.html>
+
+<https://packages.debian.org/bookworm/shim-unsigned>
+
+<https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/networking_guide/ch-consistent_network_device_naming>
+
 ## BUGTRACKER
 
 ### EIP
@@ -467,3 +475,7 @@ windows设置里面，账户选项卡，账户信息里面，账户设置里选�
 ## BOOT
 
 [带EFI支持的GRUB2安装全记录](https://www.cnblogs.com/ricksteves/p/11623681.html)
+
+## PACKAGE MANAGEMENT
+
+`rpm, yum, dpkg, apt, npm, pip`
