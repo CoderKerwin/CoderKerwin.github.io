@@ -44,9 +44,22 @@ python3 -m spacy download pt_core_news_sm
 9. [邱锡鹏. 神经网络与深度学习. 机械工业出版社                  ]
 10. [《回归分析及其试验设计》华东师范大学出版社                  ]
 
+11. [<<机器翻译统计建模与深度学习方法>>](https://github.com/NiuTrans/MTBook), [<<机器翻译统计建模与深度学习方法>>](https://opensource.niutrans.com/mtbook)
+
+12. [开源项目与评测](https://opensource.niutrans.com/mtbook/section1-7.html)
+
 ## 阅读中
 1. 机器学习实战
 2. 最优化：建模、算法与理论
+
+## 框架
+
+### PYTORCH
+
+1. <https://pytorch.org>, <https://pytorch.org/tutorials/beginner/basics/intro.html>, <https://pytorch.org/docs/stable/generated/torch.nn.Module.html>, <https://pytorch.org/docs/stable/generated/torch.nn.Transformer.html>, <https://pytorch.org/docs/stable/data.html>
+2. [PyTorch 数据处理教程(1)      ](https://zhuanlan.zhihu.com/p/448064320): <https://learn.microsoft.com/en-us/training/modules/intro-machine-learning-pytorch/4-model>
+3. [Torchtext Field新版本中被移除](https://zhuanlan.zhihu.com/p/485686510): `python3 -m pip install torch==1.9.0 torchtext==0.10.0`, <https://github.com/pytorch/text/blob/master/examples/legacy_tutorial/migration_tutorial.ipynb>
+
 
 ## 参考
 1. [Logistic回归和梯度上升算法](https://blog.csdn.net/whai362/article/details/51860379)
@@ -75,168 +88,157 @@ python3 -m spacy download pt_core_news_sm
 
 14. [MOSS and ChatGPT](https://www.infoq.cn/article/Ag3vW0mgvdd9BKyWx1iO)
 
-15. [PyTorch](https://pytorch.org)
+15. [OpenAI](https://openai.com)
 
-16. [OpenAI](https://openai.com)
+16. [ChatGPT 的起源](https://www.sohu.com/a/662849294_121679003)
+17. [用ChatGPT训练羊驼：「白泽」开源，轻松构建专属模型，可在线试玩](https://finance.sina.cn/tech/2023-04-04/detail-imypfhpc2954166.d.html), <https://huggingface.co/spaces/project-baize/chat-with-baize>, <https://github.com/project-baize/baize-chatbot/blob/main/README.md>
+18. [《Baize: An Open-Source Chat Model with Parameter-Efficient Tuning on Self-Chat Data》](https://arxiv.org/abs/2304.01196)
 
-17. [ChatGPT 的起源](https://www.sohu.com/a/662849294_121679003)
-18. [用ChatGPT训练羊驼：「白泽」开源，轻松构建专属模型，可在线试玩](https://finance.sina.cn/tech/2023-04-04/detail-imypfhpc2954166.d.html), <https://huggingface.co/spaces/project-baize/chat-with-baize>, <https://github.com/project-baize/baize-chatbot/blob/main/README.md>
-19. [《Baize: An Open-Source Chat Model with Parameter-Efficient Tuning on Self-Chat Data》](https://arxiv.org/abs/2304.01196)
+19. [马斯克叫停 GPT-5 研究，意大利禁用 ChatGPT ，生成式 AI 最大风险是什么？该如何监管？](https://www.zhihu.com/question/593135336)
 
-20. [马斯克叫停 GPT-5 研究，意大利禁用 ChatGPT ，生成式 AI 最大风险是什么？该如何监管？](https://www.zhihu.com/question/593135336)
+20. [手把手教你注册和使用ChatGPT](https://juejin.cn/post/7199657558834692157)
 
-21. [手把手教你注册和使用ChatGPT](https://juejin.cn/post/7199657558834692157)
+21. [搞懂GPT，只需看这些！](https://zhuanlan.zhihu.com/p/403469926)
+22. [完全图解GPT-2：看完这篇就够了（一）](https://zhuanlan.zhihu.com/p/343922021)
+23. [GPT-4 发布后，你的 NLP 研究发生了怎样的变化？](https://zhuanlan.zhihu.com/p/618587452)
 
-22. [搞懂GPT，只需看这些！](https://zhuanlan.zhihu.com/p/403469926)
-23. [完全图解GPT-2：看完这篇就够了（一）](https://zhuanlan.zhihu.com/p/343922021)
-24. [GPT-4 发布后，你的 NLP 研究发生了怎样的变化？](https://zhuanlan.zhihu.com/p/618587452)
+24. [人工智能领域常用的开源框架和库（含机器学习/深度学习/强化学习/知识图谱/图神经网络）](https://www.cnblogs.com/zhengzhicong/p/12875348.html)
 
-25. [人工智能领域常用的开源框架和库（含机器学习/深度学习/强化学习/知识图谱/图神经网络）](https://www.cnblogs.com/zhengzhicong/p/12875348.html)
+25. [机器学习、深度学习和强化学习的关系和区别是什么？](https://www.zhihu.com/question/279973545)
 
-26. [机器学习、深度学习和强化学习的关系和区别是什么？](https://www.zhihu.com/question/279973545)
+26. [DEEP REINFORCEMENT LEARNING](https://arxiv.org/pdf/1810.06339.pdf)
 
-27. [DEEP REINFORCEMENT LEARNING](https://arxiv.org/pdf/1810.06339.pdf)
+27. <https://github.com/project-baize/baize/blob/main/README.md>
+28. <https://huggingface.co/spaces/project-baize/baize-lora-7B>
 
-28. [<<机器翻译统计建模与深度学习方法>>](https://github.com/NiuTrans/MTBook)
-29. [<<机器翻译统计建模与深度学习方法>>](https://opensource.niutrans.com/mtbook)
+29. <https://www.manning.com/books/machine-learning-in-action>
+30. <https://www.manning.com/downloads/1108> is source code of machine learning in action
 
-30. [开源项目与评测](https://opensource.niutrans.com/mtbook/section1-7.html)
+31. <https://github.com/lencx/ChatGPT>
 
-31. <https://github.com/project-baize/baize/blob/main/README.md>
-32. <https://huggingface.co/spaces/project-baize/baize-lora-7B>
+32. [130页 PPT 深入浅出了解 ChatGPT —— ChatGPT 从 0 到 1](https://zhuanlan.zhihu.com/p/616968861)
+33. ~~[ChatGPT 从入门到精通 最全教程                      ](https://zhuanlan.zhihu.com/p/635434782)~~
 
-33. <https://www.manning.com/books/machine-learning-in-action>
-34. <https://www.manning.com/downloads/1108> is source code of machine learning in action
+34. ~~[《ChatGPT从入门到精通》-群鸟网](https://zhuanlan.zhihu.com/p/612216936):~~ <https://www.qunniao.cn/tags/1539.html>
 
-35. <https://github.com/lencx/ChatGPT>
+35. [对话生成模型总结（解读+开源代码）](https://zhuanlan.zhihu.com/p/53624766)
 
-36. [130页 PPT 深入浅出了解 ChatGPT —— ChatGPT 从 0 到 1](https://zhuanlan.zhihu.com/p/616968861)
-37. ~~[ChatGPT 从入门到精通 最全教程                      ](https://zhuanlan.zhihu.com/p/635434782)~~
+36. [ChatGPT 教程 - 从入门到精通-part1](https://blog.csdn.net/rucoding/article/details/130693578)
+37. [ChatGPT 教程 - 从入门到精通-part2](https://blog.csdn.net/rucoding/article/details/130694108)
 
-38. ~~[《ChatGPT从入门到精通》-群鸟网](https://zhuanlan.zhihu.com/p/612216936):~~ <https://www.qunniao.cn/tags/1539.html>
+38. [ChatGPT学习笔记](https://zhuanlan.zhihu.com/p/619251228)
 
-39. [对话生成模型总结（解读+开源代码）](https://zhuanlan.zhihu.com/p/53624766)
+39. [《Deep Learning》](https://www.zhihu.com/question/37972263)
 
-40. [ChatGPT 教程 - 从入门到精通-part1](https://blog.csdn.net/rucoding/article/details/130693578)
-41. [ChatGPT 教程 - 从入门到精通-part2](https://blog.csdn.net/rucoding/article/details/130694108)
+40. <https://github.com/daviddao/deep-learning-book/blob/master/DeepLearningBook.pdf>
+41. <https://github.com/exacity/deeplearningbook-chinese>
 
-42. [ChatGPT学习笔记](https://zhuanlan.zhihu.com/p/619251228)
+42. <https://www.deeplearningbook.org>
 
-43. [《Deep Learning》](https://www.zhihu.com/question/37972263)
+43. [中国人工智能学会](https://www.caai.cn)
+44. [中国人工智能学会数字图书馆](http://dl.caai.cn)
 
-44. <https://github.com/daviddao/deep-learning-book/blob/master/DeepLearningBook.pdf>
-45. <https://github.com/exacity/deeplearningbook-chinese>
+45. [脑机接口](https://xn--dl-0j6cq11d8ge830c.caai.cn/home/view/show/id/240.html)
 
-46. <https://www.deeplearningbook.org>
+46. <https://yiyan.baidu.com>
+47. <https://yige.baidu.com>
 
-47. [中国人工智能学会](https://www.caai.cn)
-48. [中国人工智能学会数字图书馆](http://dl.caai.cn)
+48. [支持向量机原理       ](https://blog.csdn.net/yuxiaoye03222/article/details/108269311)
+49. [SMO算法笔记及个人理解](https://blog.csdn.net/anchor_jun/article/details/122504065)
 
-49. [脑机接口](https://xn--dl-0j6cq11d8ge830c.caai.cn/home/view/show/id/240.html)
+50. [支持向量机原理解析  ](https://zhuanlan.zhihu.com/p/339929406)
+51. [神经网络与支持向量机](https://zhuanlan.zhihu.com/p/29586189)
 
-50. <https://yiyan.baidu.com>
-51. <https://yige.baidu.com>
+52. [支持向量机神经网络对比分析](https://www.codenong.com/cs107079623)
 
-52. [支持向量机原理       ](https://blog.csdn.net/yuxiaoye03222/article/details/108269311)
-53. [SMO算法笔记及个人理解](https://blog.csdn.net/anchor_jun/article/details/122504065)
+53. [Using Analytic QP and Sparseness to Speed Training of Support Vector Machines](https://proceedings.neurips.cc/paper_files/paper/1998/file/7e1d842d0f7ee600116ffc6b2d87d83f-Paper.pdf)
 
-54. [支持向量机原理解析  ](https://zhuanlan.zhihu.com/p/339929406)
-55. [神经网络与支持向量机](https://zhuanlan.zhihu.com/p/29586189)
+54. <https://huggingface.co>, <https://huggingface.co/docs/transformers/v4.30.0/zh/quicktour>
 
-56. [支持向量机神经网络对比分析](https://www.codenong.com/cs107079623)
+55. [Huggingface简介及BERT代码浅析         ](https://zhuanlan.zhihu.com/p/120315111)
+56. [Hugging Face Hub你探索更多AI模型和应用](https://zhuanlan.zhihu.com/p/623521984)
 
-57. [Using Analytic QP and Sparseness to Speed Training of Support Vector Machines](https://proceedings.neurips.cc/paper_files/paper/1998/file/7e1d842d0f7ee600116ffc6b2d87d83f-Paper.pdf)
+57. [ChatGPT 中文调教指南](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)
 
-58. <https://huggingface.co>, <https://huggingface.co/docs/transformers/v4.30.0/zh/quicktour>
+58. [ChatGPT学习笔记](https://zhuanlan.zhihu.com/p/619251228)
 
-59. [Huggingface简介及BERT代码浅析         ](https://zhuanlan.zhihu.com/p/120315111)
-60. [Hugging Face Hub你探索更多AI模型和应用](https://zhuanlan.zhihu.com/p/623521984)
+59. [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)
 
-61. [ChatGPT 中文调教指南](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)
+60. [神经元BigNeuron脑科学](https://neuromorpho.org), <https://www.nature.com/articles/520013a>, <https://www.nature.com/articles/s41592-023-01848-5>
 
-62. [ChatGPT学习笔记](https://zhuanlan.zhihu.com/p/619251228)
+61. [NiuTensor张量计算库](https://opensource.niutrans.com/niutensor/index.html)
 
-63. [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)
+62. [Transformer模型训练技术简介](https://zhuanlan.zhihu.com/p/438150240)
 
-64. [神经元BigNeuron脑科学](https://neuromorpho.org), <https://www.nature.com/articles/520013a>, <https://www.nature.com/articles/s41592-023-01848-5>
+63. <https://github.com/facebookresearch/llama>
 
-65. [NiuTensor张量计算库](https://opensource.niutrans.com/niutensor/index.html)
+64. <https://github.com/Dao-AILab/flash-attention>
 
-66. [Transformer模型训练技术简介](https://zhuanlan.zhihu.com/p/438150240)
+65. <https://tridao.me/publications/flash2/flash2.pdf>
 
-67. <https://github.com/facebookresearch/llama>
+66. [人工智能](https://zhuanlan.zhihu.com/p/26727470)
 
-68. <https://github.com/Dao-AILab/flash-attention>
+67. [人工智能PDF中文教材资源](https://zhuanlan.zhihu.com/p/34312502)
 
-69. <https://tridao.me/publications/flash2/flash2.pdf>
+68. [scipy中pdist和squareform](https://blog.csdn.net/qq_20135597/article/details/94212816)
 
-70. [人工智能](https://zhuanlan.zhihu.com/p/26727470)
+69. [numpy的partition和argpartition](https://www.zhihu.com/question/304282758)
 
-71. [人工智能PDF中文教材资源](https://zhuanlan.zhihu.com/p/34312502)
+70. [Implementing Word2Vec in PyTorch](https://muhark.github.io/python/ml/nlp/2021/10/21/word2vec-from-scratch.html)
 
-72. [scipy中pdist和squareform](https://blog.csdn.net/qq_20135597/article/details/94212816)
+71. [使用nltk删除英文停用词](https://zhuanlan.zhihu.com/p/34671514)
 
-73. [numpy的partition和argpartition](https://www.zhihu.com/question/304282758)
+72. [NLTK中的Stemmers](https://www.cnblogs.com/patrick-l/p/12251747.html)
 
-74. [PyTorch 数据处理教程(1)](https://zhuanlan.zhihu.com/p/448064320): <https://pytorch.org/tutorials/beginner/basics/intro.html>, <https://learn.microsoft.com/en-us/training/modules/intro-machine-learning-pytorch/4-model>
+73. [Datasets快速使用](https://zhuanlan.zhihu.com/p/548355568)
 
-75. [Implementing Word2Vec in PyTorch](https://muhark.github.io/python/ml/nlp/2021/10/21/word2vec-from-scratch.html)
+74. <https://www.nltk.org>
 
-76. [使用nltk删除英文停用词](https://zhuanlan.zhihu.com/p/34671514)
+75. <https://tqdm.github.io>
 
-77. [NLTK中的Stemmers](https://www.cnblogs.com/patrick-l/p/12251747.html)
+76. <https://hf-mirror.com>
 
-78. [Datasets快速使用](https://zhuanlan.zhihu.com/p/548355568)
+77. <https://github.com/huggingface/datasets>
 
-79. <https://www.nltk.org>
+78. <https://github.com/xai-org/grok-1>
 
-80. <https://tqdm.github.io>
+79. <https://github.com/hpcaitech/Open-Sora>
 
-81. <https://hf-mirror.com>
+80. <https://github.com/DataForScience/ChatGPT>
 
-82. <https://github.com/huggingface/datasets>
+81. [自然语言处理（spacy）](https://zhuanlan.zhihu.com/p/383933287)
 
-83. <https://github.com/xai-org/grok-1>
+82. [BERT可视化工具bertviz体验](https://zhuanlan.zhihu.com/p/457043243), [BertViz](https://www.cnblogs.com/chinasoft/p/17507405.html)
 
-84. <https://github.com/hpcaitech/Open-Sora>
+83. [从零开始实现Transformer](https://zhuanlan.zhihu.com/p/651736596)
 
-85. <https://github.com/DataForScience/ChatGPT>
+84. [Huggingface Transformers](https://zhuanlan.zhihu.com/p/448852278)
 
-86. [Torchtext Field新版本中被移除](https://zhuanlan.zhihu.com/p/485686510): `python3 -m pip install torch==1.9.0 torchtext=0.10.0`, <https://github.com/pytorch/text/blob/master/examples/legacy_tutorial/migration_tutorial.ipynb>
+85. [Transformer 训练与评估](https://zhuanlan.zhihu.com/p/97451231)
 
-87. [自然语言处理（spacy）](https://zhuanlan.zhihu.com/p/383933287)
+86. <https://github.blog/2023-06-20-how-to-write-better-prompts-for-github-copilot>
 
-88. [BERT可视化工具bertviz体验](https://zhuanlan.zhihu.com/p/457043243), [BertViz](https://www.cnblogs.com/chinasoft/p/17507405.html)
+87. <https://blog.langchain.dev/retrieval>
 
-89. [从零开始实现Transformer](https://zhuanlan.zhihu.com/p/651736596)
+88. <https://github.com/microsoft/sample-app-aoai-chatGPT>
 
-90. [Huggingface Transformers](https://zhuanlan.zhihu.com/p/448852278)
+89. <https://github.com/Azure-Samples/azure-search-openai-demo>
 
-91. [Transformer 训练与评估](https://zhuanlan.zhihu.com/p/97451231)
+90. <https://learn.microsoft.com/en-us/training/modules/explore-azure-openai/1-introduction>
+91. <https://learn.microsoft.com/en-us/training/modules/explore-azure-openai/4-how-to-use-azure-openai>
+92. <https://learn.microsoft.com/en-us/training/modules/explore-azure-openai/8a-exercise-openai>
 
-92. <https://github.blog/2023-06-20-how-to-write-better-prompts-for-github-copilot>
+93.  <https://learn.microsoft.com/en-us/azure/ai-services/openai/reference>
+94. <https://learn.microsoft.com/en-us/azure/ai-services/openai/quickstart>
+95. <https://learn.microsoft.com/en-us/azure/ai-services/authentication>
+96. <https://learn.microsoft.com/en-us/azure/ai-services/disable-local-auth>
 
-93. <https://blog.langchain.dev/retrieval>
+97. <https://learn.microsoft.com/en-us/entra/identity-platform/quickstart-register-app>
+98. <https://learn.microsoft.com/en-us/entra/identity-platform/howto-restrict-your-app-to-a-set-of-users>
+99. <https://learn.microsoft.com/en-us/entra/identity-platform/scopes-oidc>
+100. <https://learn.microsoft.com/en-us/entra/identity-platform/consent-types-developer>
+101. <https://learn.microsoft.com/en-us/entra/identity-platform/msal-acquire-cache-tokens>
 
-94. <https://github.com/microsoft/sample-app-aoai-chatGPT>
-
-95. <https://github.com/Azure-Samples/azure-search-openai-demo>
-
-96. <https://learn.microsoft.com/en-us/training/modules/explore-azure-openai/1-introduction>
-97. <https://learn.microsoft.com/en-us/training/modules/explore-azure-openai/4-how-to-use-azure-openai>
-98. <https://learn.microsoft.com/en-us/training/modules/explore-azure-openai/8a-exercise-openai>
-
-99.  <https://learn.microsoft.com/en-us/azure/ai-services/openai/reference>
-100. <https://learn.microsoft.com/en-us/azure/ai-services/openai/quickstart>
-101. <https://learn.microsoft.com/en-us/azure/ai-services/authentication>
-102. <https://learn.microsoft.com/en-us/azure/ai-services/disable-local-auth>
-
-103. <https://learn.microsoft.com/en-us/entra/identity-platform/quickstart-register-app>
-104. <https://learn.microsoft.com/en-us/entra/identity-platform/howto-restrict-your-app-to-a-set-of-users>
-105. <https://learn.microsoft.com/en-us/entra/identity-platform/scopes-oidc>
-106. <https://learn.microsoft.com/en-us/entra/identity-platform/consent-types-developer>
-107. <https://learn.microsoft.com/en-us/entra/identity-platform/msal-acquire-cache-tokens>
-
-108. <https://learn.microsoft.com/en-us/graph/api/drive-sharedwithme>
-109. <https://learn.microsoft.com/en-us/graph/api/driveitem-get-content>
-110. <https://learn.microsoft.com/en-us/graph/permissions-reference>
+102. <https://learn.microsoft.com/en-us/graph/api/drive-sharedwithme>
+103. <https://learn.microsoft.com/en-us/graph/api/driveitem-get-content>
+104. <https://learn.microsoft.com/en-us/graph/permissions-reference>
