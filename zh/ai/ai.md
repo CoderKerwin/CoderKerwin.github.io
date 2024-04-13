@@ -242,3 +242,14 @@ python3 -m spacy download pt_core_news_sm
 102. <https://learn.microsoft.com/en-us/graph/api/drive-sharedwithme>
 103. <https://learn.microsoft.com/en-us/graph/api/driveitem-get-content>
 104. <https://learn.microsoft.com/en-us/graph/permissions-reference>
+
+105. [ChatGPT and Competing LLMs                                                                                ](https://www.oreilly.com/live-events/chatgpt-and-competing-llms/0636920097613): <https://github.com/DataForScience/ChatGPT>
+106. [ChatGPT for Software Engineers                                                                            ](https://www.oreilly.com/live-events/chatgpt-for-software-engineers/0636920090062)
+107. [Prompt Engineering for Generative AI                                                                      ](https://www.oreilly.com/library/view/prompt-engineering-for/9781098153427)
+108. [Language Models in Plain English                                                                          ](https://www.oreilly.com/library/view/language-models-in/9781098109073)
+109. [What Are ChatGPT and Its Friends?                                                                         ](https://www.oreilly.com/library/view/what-are-chatgpt/9781098152604)
+110. [Quick Start Guide to Large Language Models: Strategies and Best Practices for Using ChatGPT and Other LLMs](https://www.oreilly.com/library/view/quick-start-guide/9780138199425)
+111. [Introduction to Transformer Models for NLP                                                                ](https://learning.oreilly.com/course/introduction-to-transformer/9780137923717)
+112. [ChatGPT Shortcuts                                                                                         ](https://learning.oreilly.com/playlists/1a47d633-5de3-4363-9e6e-2ea9ec1a60d5)
+113. [How AI Works                                                                                              ](https://learning.oreilly.com/library/view/how-ai-work/9781098168568)
+114. [Hacking Artificial Intelligence                                                                           ](https://learning.oreilly.com/videos/hacking-artificial-intelligence/9781663719379)
