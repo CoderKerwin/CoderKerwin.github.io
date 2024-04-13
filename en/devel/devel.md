@@ -4,13 +4,25 @@
 
 操作系统、编译器、数据库、编程语言、数据结构与算法
 
+Compatible Issue: Latest need be compatible with old version, Client need be compatible with Server, Linux need be compatible with Windows
+
 [数据结构与算法、计算机网络、操作系统、设计模式](https://blog.csdn.net/weixin_46698891/article/details/113814822)
+
+## ARCHITECT
+
+1. [Software Development Superstream: Becoming a Senior Software Engineer](https://learning.oreilly.com/live-events/software-development-superstream-becoming-a-senior-software-engineer/0790145048891)
+2. [Rethinking Productivity in Software Engineering                      ](https://learning.oreilly.com/library/view/rethinking-productivity-in/9781484242216)
+3. [Efficiency vs. Effectiveness vs. Productivity                        ](https://learning.oreilly.com/library/view/leading-effective-engineering/9781098148232/ch02.html)
 
 ## Coding Style
 
-<http://www.cleancoder.com>
+1. [Clean Code Cookbook](https://learning.oreilly.com/library/view/clean-code-cookbook/9781098144715)
+2. [Clean Code         ](https://learning.oreilly.com/live-events/clean-code/0636920194545): <http://www.cleancoder.com>
 
 ## ALGORITHM
+
+1. [Learning Algorithms                  ](https://learning.oreilly.com/library/view/learning-algorithms/9781492091059)
+2. [Algorithms in a Nutshell, 2nd Edition](https://learning.oreilly.com/library/view/algorithms-in-a/9781491912973)
 
 1. [数据结构：图概念与基本图实现](https://segmentfault.com/a/1190000013223267)
 
@@ -303,6 +315,9 @@ ipmitool chassis bootparam get 5
 ### MIDDLEWARE
 
 ### SECURITY
+
+1. [Cybersecurity: Phishing and Ransomware                    ](https://learning.oreilly.com/playlists/f61eb7a9-5a42-4192-841f-4fc53cb6ffaf)
+2. [How to Measure Anything in Cybersecurity Risk, 2nd Edition](https://learning.oreilly.com/videos/how-to-measure/9781663726698)
 
 <https://github.com/intel/linux-sgx>,
 <https://github.com/intel/SGXDataCenterAttestationPrimitives>
