@@ -41,7 +41,7 @@ python3 -m spacy download pt_core_news_sm
 6. [周志华. 机器学习. 清华大学出版社                            ](https://www.zhihu.com/question/39945249): 作为入门书，不够详尽。作为工具书，不够深入。作为科普书，不够友好。可作为教科书。
 7. [北大新书教材推荐《最优化：建模、算法与理论》](https://zhuanlan.zhihu.com/p/364637287)
 8. [最优化：建模、算法与理论](http://faculty.bicmr.pku.edu.cn/~wenzw/optbook/opt1.pdf)
-9. [邱锡鹏. 神经网络与深度学习. 机械工业出版社                  ]
+9. [邱锡鹏. 神经网络与深度学习. 机械工业出版社                  ](https://nndl.github.io)
 10. [《回归分析及其试验设计》华东师范大学出版社                  ]
 
 11. [<<机器翻译统计建模与深度学习方法>>](https://github.com/NiuTrans/MTBook), [<<机器翻译统计建模与深度学习方法>>](https://opensource.niutrans.com/mtbook)
@@ -245,7 +245,7 @@ python3 -m spacy download pt_core_news_sm
 
 105. [ChatGPT and Competing LLMs                                                                                ](https://www.oreilly.com/live-events/chatgpt-and-competing-llms/0636920097613): <https://github.com/DataForScience/ChatGPT>
 106. [ChatGPT for Software Engineers                                                                            ](https://www.oreilly.com/live-events/chatgpt-for-software-engineers/0636920090062)
-107. [Prompt Engineering for Generative AI                                                                      ](https://www.oreilly.com/library/view/prompt-engineering-for/9781098153427)
+107. [Prompt Engineering for Generative AI                                                                      ](https://www.oreilly.com/library/view/prompt-engineering-for/9781098153427): <https://github.com/BrightPool/prompt-engineering-for-generative-ai-examples.git>
 108. [Language Models in Plain English                                                                          ](https://www.oreilly.com/library/view/language-models-in/9781098109073)
 109. [What Are ChatGPT and Its Friends?                                                                         ](https://www.oreilly.com/library/view/what-are-chatgpt/9781098152604)
 110. [Quick Start Guide to Large Language Models: Strategies and Best Practices for Using ChatGPT and Other LLMs](https://www.oreilly.com/library/view/quick-start-guide/9780138199425)
