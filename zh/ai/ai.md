@@ -62,6 +62,7 @@ python3 -m spacy download pt_core_news_sm
 
 
 ## 参考
+1. [Logit详细解释](https://zhuanlan.zhihu.com/p/27188729)
 1. [Logistic回归和梯度上升算法](https://blog.csdn.net/whai362/article/details/51860379)
 
 2. [局部加权回归（Lowess）](https://www.jianshu.com/p/1ab48eebd2a0)
