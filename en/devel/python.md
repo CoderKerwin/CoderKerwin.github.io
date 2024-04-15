@@ -85,6 +85,7 @@ bytearray
 - binascii
 - filecmp
 - difflib
+- enumerate
 
 ## builtins
 
@@ -211,20 +212,21 @@ os.path里面是否已经存在自动转换路径的函数？可否将这个方�
 ### Official Python Documentation
 1.  <https://docs.python.org/3/tutorial/errors.html>
 2.  <https://docs.python.org/3/reference/datamodel.html>
-3.  <https://docs.python.org/3/c-api/dict.html>
-4.  <https://docs.python.org/3/library/os.html>
-5.  <https://docs.python.org/3/library/netrc.html>
-6.  <https://docs.python.org/3/library/getpass.html>
-7.  <https://docs.python.org/3/library/urllib.html>
-8.  <https://docs.python.org/3/library/itertools.html>
-9.  <https://docs.python.org/3/library/sched.html>
-10. <https://docs.python.org/3/library/timeit.html>
-11. <https://docs.python.org/3/library/asyncio.html>
-12. <https://docs.python.org/3/library/email.html>
-13. <https://docs.python.org/3/library/xml.html>
-14. <https://docs.python.org/3/library/filecmp.html>
-15. <https://docs.python.org/3/library/collections.html>
-16. <https://docs.python.org/3/library/pickle.html>
+3.  <https://docs.python.org/3/library/functions.html>
+4.  <https://docs.python.org/3/c-api/dict.html>
+5.  <https://docs.python.org/3/library/os.html>
+6.  <https://docs.python.org/3/library/netrc.html>
+7.  <https://docs.python.org/3/library/getpass.html>
+8.  <https://docs.python.org/3/library/urllib.html>
+9.  <https://docs.python.org/3/library/itertools.html>
+10. <https://docs.python.org/3/library/sched.html>
+11. <https://docs.python.org/3/library/timeit.html>
+12. <https://docs.python.org/3/library/asyncio.html>
+13. <https://docs.python.org/3/library/email.html>
+14. <https://docs.python.org/3/library/xml.html>
+15. <https://docs.python.org/3/library/filecmp.html>
+16. <https://docs.python.org/3/library/collections.html>
+17. <https://docs.python.org/3/library/pickle.html>
 
 ### Python Package Index
 1. <https://pypi.org/project/requests>: <https://requests.readthedocs.io>
