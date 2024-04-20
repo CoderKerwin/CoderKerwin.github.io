@@ -4,7 +4,13 @@
 
 ### VIM
 
-<https://www.vim.org>, <https://github.com/vim>
+<https://www.vim.org>, <https://github.com/vim>, <https://github.com/neovim/neovim>
+
+<https://github.com/termux/termux-app>, <https://f-droid.org/en/packages/com.termux>
+
+<https://github.com/jackpal/Android-Terminal-Emulator>
+
+<https://github.com/shiftrot/droidvim>
 
 ### VSCODE
 
@@ -367,12 +373,10 @@ submodule必须到对应子目录才能使用git命令查看其内容。
 
 ### [GITHUB](https://github.com)
 
+<https://docs.github.com>, <https://github.com>, <https://github.io>, <https://github.dev>, <https://github.com/settings/tokens>
+
 [怎样通过GitHub REST API v3获得某个项目的所有issue](https://blog.csdn.net/qysh123/article/details/79626894)
 
-<https://github.com>,
-<https://github.io>,
-<https://github.dev>,
-<https://github.com/settings/tokens>
 
 path(pulls, compare, branches, commits, tree, blob) in github:
 <https://github.com/tianocore/edk2/pulls>,
