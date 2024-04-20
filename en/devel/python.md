@@ -227,6 +227,7 @@ os.path里面是否已经存在自动转换路径的函数？可否将这个方�
 15. <https://docs.python.org/3/library/filecmp.html>
 16. <https://docs.python.org/3/library/collections.html>
 17. <https://docs.python.org/3/library/pickle.html>
+18. <https://docs.python.org/3/library/html.html>
 
 ### Python Package Index
 1. <https://pypi.org/project/requests>: <https://requests.readthedocs.io>
