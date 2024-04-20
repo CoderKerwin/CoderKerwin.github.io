@@ -60,6 +60,35 @@ python3 -m spacy download pt_core_news_sm
 2. [PyTorch 数据处理教程(1)      ](https://zhuanlan.zhihu.com/p/448064320): <https://learn.microsoft.com/en-us/training/modules/intro-machine-learning-pytorch/4-model>
 3. [Torchtext Field新版本中被移除](https://zhuanlan.zhihu.com/p/485686510): `python3 -m pip install torch==1.9.0 torchtext==0.10.0`, <https://github.com/pytorch/text/blob/master/examples/legacy_tutorial/migration_tutorial.ipynb>
 
+### [Huggingface](https://huggingface.co)
+
+Mirror: <https://hf-mirror.com>
+
+#### [datasets](https://huggingface.co/docs/datasets)
+
+`datasets.load_dataset("csv", data_files="my_file.csv")`  
+`datasets.load_dataset("text", data_files="my_file.txt")`  
+`datasets.load_dataset("json", data_files="my_file.json")`  
+`datasets.load_dataset("pandas", data_files="my_file.pkl")`
+
+`data_files` can be either a single file path, a list of file paths, a dictionary that maps split names to file path, blob files like unix shell, url to remote file
+
+`datasets.Dataset.unique`, `datasets.Dataset.shuffle`, `datasets.Dataset.select`, `datasets.Dataset.sort`, `datasets.Dataset.add_column`, `datasets.Dataset.train_test_split`, `datasets.Dataset.to_json`, `datasets.Dataset.to_csv`
+
+`dataset.load_dataset("csv", data_files="my_file.csv")["train"].shuffle(seed=10).select(range(10))` where shuffle will randomly select data but seed will make result consistent, select will select the list of data.  
+`dataset.load_dataset("csv", data_files="my_file.csv")["train"].unique("column name")` can return unique data  
+
+`datasets.DatasetDict.rename_column`, `datasets.DatasetDict.map`,  `datasets.DatasetDict.filter`,  `datasets.DatasetDict.set_format`,  `datasets.DatasetDict.reset_format`,  `datasets.DatasetDict.save_to_disk`,  `datasets.load_from_disk`
+
+`dataset.load_dataset("csv", data_files="my_file.csv").map(lambda x: {'normal_data': html.unescape(x['html_data'])}, batched=True)`
+
+1. <https://github.com/huggingface/datasets>
+
+#### [transformers](https://huggingface.co/docs/transformers)
+
+`tokenizer = transformers.AutoTokenizer.from_pretrained('bert-base-cased')`
+
+1. <https://github.com/huggingface/transformers>
 
 ## 参考
 1. [Logit详细解释](https://zhuanlan.zhihu.com/p/27188729)
@@ -196,10 +225,6 @@ python3 -m spacy download pt_core_news_sm
 74. <https://www.nltk.org>
 
 75. <https://tqdm.github.io>
-
-76. <https://hf-mirror.com>
-
-77. <https://github.com/huggingface/datasets>
 
 78. <https://github.com/xai-org/grok-1>
 
