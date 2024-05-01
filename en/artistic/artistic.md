@@ -13,3 +13,7 @@
 6. [钢琴上加线上的B音和D音怎么弹](https://www.zhihu.com/question/386912929)
 
 7. [在五线谱上一样的地方的音，高音谱号和其他谱号有什么区别？](https://www.zhihu.com/question/386912929)
+
+8. [小美满](https://www.bilibili.com/video/BV1VK421b7o5)
+
+9. [小美满](http://www.gangqinqupu.com/8896.html)
