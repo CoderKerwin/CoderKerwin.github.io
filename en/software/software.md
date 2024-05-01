@@ -483,3 +483,9 @@ windows设置里面，账户选项卡，账户信息里面，账户设置里选�
 ## PACKAGE MANAGEMENT
 
 `rpm, yum, dpkg, apt, npm, pip`
+
+## FINANCE
+
+### Gnucash
+
+1. <https://github.com/codinguser/gnucash-android>
