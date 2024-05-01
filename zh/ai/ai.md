@@ -170,8 +170,8 @@ Mirror: <https://hf-mirror.com>
 
 45. [脑机接口](https://xn--dl-0j6cq11d8ge830c.caai.cn/home/view/show/id/240.html)
 
-46. <https://yiyan.baidu.com>
-47. <https://yige.baidu.com>
+46. [文心一言](https://yiyan.baidu.com)
+47. [文心一格](https://yige.baidu.com)
 
 48. [支持向量机原理       ](https://blog.csdn.net/yuxiaoye03222/article/details/108269311)
 49. [SMO算法笔记及个人理解](https://blog.csdn.net/anchor_jun/article/details/122504065)
