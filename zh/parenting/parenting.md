@@ -70,3 +70,7 @@
 36. [慧学南通](http://jyjs.ntjy.net)
 
 37. [江苏智慧教育云平台](https://www.jse.edu.cn)
+
+38. [中小学智慧教育平台](https://basic.smartedu.cn)
+
+39. [国家教育资源公共服务平台](https://www.eduyun.cn)
