@@ -2,6 +2,8 @@
 
 1. [数学专业最全介绍](https://zhuanlan.zhihu.com/p/399827103)
 
+2. [逻辑与直觉](https://zhuanlan.zhihu.com/p/379055049)
+
 ## 学术组织
 
 1. [International Mathematical Union](https://www.mathunion.org)
