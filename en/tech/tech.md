@@ -37,3 +37,7 @@
 20. [拆解角阀](https://haokan.baidu.com/v?vid=6607927891244141381)
 
 21. [Radar Trends to Watch: March 2024](https://www.oreilly.com/library/view/radar-trends-to/9781098170820)
+
+22. [华为如何开启或关闭智慧助手负一屏](https://baijiahao.baidu.com/s?id=1779984390530309631)
+
+23. [iPad和罗技k380的连接出了问题](https://www.zhihu.com/question/370867755)
