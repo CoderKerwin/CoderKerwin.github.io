@@ -17,3 +17,7 @@
 8. [小美满](https://www.bilibili.com/video/BV1VK421b7o5)
 
 9. [小美满](http://www.gangqinqupu.com/8896.html)
+
+10. [小汤1陪练，文字+视频](https://zhuanlan.zhihu.com/p/343935518)
+
+10. 《飞的更高-汪峰》
