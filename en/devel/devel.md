@@ -308,6 +308,10 @@ ipmitool chassis bootparam get 5
  3. initialize_identity_maps will invoke memset to clear memory. there are some problem in here when page table is incorrect. 
 ```
 
+#### HarmonyOS
+
+1. [HarmonyOS（鸿蒙）真机签名获取](https://ost.51cto.com/posts/7990), [应用签名](https://blog.csdn.net/qq3892997/article/details/132731730)
+
 ### LIBRARY
 
 #### STDLIB
