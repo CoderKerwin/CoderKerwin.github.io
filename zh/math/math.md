@@ -131,6 +131,9 @@
 
 ## 图论
 
+1. [图论（原书第五版）- 迪斯特尔（Reinhard Diestel）- ISBN 9787030648075]
+2. [现代图论 - Bela Bollobas](https://book.sciencereading.cn/shop/book/Booksimple/show.do?id=BD520332872E44B0184D6B6B24FD57BA0000)
+
 ## 拓扑
 
 ## 参考
