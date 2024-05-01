@@ -25,3 +25,8 @@
 12. [服务器BIOS和BMC市场分析](https://www.cnblogs.com/qinlulu/p/13204789.html)
 
 14. [集群简介](https://www.cnblogs.com/qinlulu/p/13204858.html)
+
+15. [证券时报  ](https://www.stcn.com)
+16. [证券日报  ](http://www.zqrb.cn)
+17. [中国证券网](https://www.cs.com.cn)
+18. [巨潮资讯网](http://www.cninfo.com.cn)
