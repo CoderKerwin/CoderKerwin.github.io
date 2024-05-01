@@ -49,3 +49,7 @@
 24. [脚上长水泡很痒还脱皮](https://www.zhihu.com/question/60308362)
 
 25. [脚痒痒～小水泡](https://zhuanlan.zhihu.com/p/156802696)
+
+26. [白天没事一到晚上就发烧](https://www.youlai.cn/yyk/article/428089.html)
+
+27. [肚脐周围各种痛](https://zhuanlan.zhihu.com/p/520895012)
