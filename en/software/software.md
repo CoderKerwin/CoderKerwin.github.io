@@ -489,3 +489,10 @@ windows设置里面，账户选项卡，账户信息里面，账户设置里选�
 ### Gnucash
 
 1. <https://github.com/codinguser/gnucash-android>
+
+## FILE MANAGER
+
+### VHD
+
+1. [VHD更新命令](https://blog.csdn.net/weixin_34270865/article/details/94530997)
+
