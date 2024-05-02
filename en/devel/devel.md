@@ -34,6 +34,14 @@ Compatible Issue: Latest need be compatible with old version, Client need be com
 
 6. [图论：有向图和无向图，有环和无环](https://www.cnblogs.com/2008nmj/p/14265436.html)
 
+7. [Microsoft Automatic Graph Layout](https://www.microsoft.com/en-us/research/project/microsoft-automatic-graph-layout/code-samples)
+
+8. [用networkx学习图论](https://zhuanlan.zhihu.com/p/371818115)
+
+9. [全面介绍图论及其应用](https://zhuanlan.zhihu.com/p/34442520)
+
+10. [介绍几个图论和复杂网络的程序库](https://blog.csdn.net/a358463121/article/details/51319098)
+
 ### SORT
 
 ### SEARCH
