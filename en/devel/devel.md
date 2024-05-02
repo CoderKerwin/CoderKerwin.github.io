@@ -257,6 +257,12 @@ ipmitool chassis bootparam get 5
 
 [cpio打包和压包](https://blog.csdn.net/u011774239/article/details/51720817)
 
+[64-bit kernel 4级页表 、5级页表 & 地址计算](https://www.jianshu.com/p/6533f55c4401)
+
+[内存管理机制-分页](https://zhuanlan.zhihu.com/p/393005902)
+
+[CR3控制寄存器详解](https://blog.csdn.net/SweeNeil/article/details/106171361)
+
 `make config` or `make menuconfig` to configure kernel
 
 ```
