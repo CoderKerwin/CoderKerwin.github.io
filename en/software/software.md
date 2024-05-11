@@ -474,7 +474,8 @@ windows设置里面，账户选项卡，账户信息里面，账户设置里选�
 
 ## SECURITY
 
-[Authy](https://mobile.softpedia.com/apk/authy)
+1. [Authy](https://mobile.softpedia.com/apk/authy)
+2. <https://keepass.info>, <https://github.com/PhilippC/keepass2android/releases>
 
 ## BOOT
 
