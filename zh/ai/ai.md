@@ -90,6 +90,9 @@ Mirror: <https://hf-mirror.com>
 
 1. <https://github.com/huggingface/transformers>
 
+### Repository
+1. <https://github.com/topics/machine-learning>
+
 ## 参考
 1. [Logit详细解释](https://zhuanlan.zhihu.com/p/27188729)
 1. [Logistic回归和梯度上升算法](https://blog.csdn.net/whai362/article/details/51860379)
