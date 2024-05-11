@@ -231,6 +231,9 @@ os.path里面是否已经存在自动转换路径的函数？可否将这个方�
 
 ### Python Package Index
 
+#### Visualization
+1. <https://pypi.org/project/matplotlib>, <https://github.com/matplotlib/matplotlib>
+
 #### Data Science
 1. <https://pypi.org/project/pandas>, <https://github.com/pandas-dev/pandas>
 2. <https://pypi.org/project/numpy>,  <https://github.com/numpy/numpy>
