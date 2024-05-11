@@ -212,8 +212,8 @@ os.path里面是否已经存在自动转换路径的函数？可否将这个方�
 ### Official Python Documentation
 1.  <https://docs.python.org/3/tutorial/errors.html>
 2.  <https://docs.python.org/3/reference/datamodel.html>
-3.  <https://docs.python.org/3/library/functions.html>
 4.  <https://docs.python.org/3/c-api/dict.html>
+3.  <https://docs.python.org/3/library/functions.html>
 5.  <https://docs.python.org/3/library/os.html>
 6.  <https://docs.python.org/3/library/netrc.html>
 7.  <https://docs.python.org/3/library/getpass.html>
@@ -230,14 +230,34 @@ os.path里面是否已经存在自动转换路径的函数？可否将这个方�
 18. <https://docs.python.org/3/library/html.html>
 
 ### Python Package Index
-1. <https://pypi.org/project/requests>: <https://requests.readthedocs.io>
+
+#### Data Science
+1. <https://pypi.org/project/pandas>, <https://github.com/pandas-dev/pandas>
+2. <https://pypi.org/project/numpy>,  <https://github.com/numpy/numpy>
+3. <https://pypi.org/project/scipy>,  <https://github.com/scipy/scipy>
+
+#### Machine Learning
+1. <https://pypi.org/project/datasets>
+2. <https://pypi.org/project/transformers>, <https://github.com/huggingface/transformers>
+3. <https://pypi.org/project/torch>,        <https://github.com/pytorch/pytorch>
+4. <https://pypi.org/project/tensorflow>,   <https://github.com/tensorflow/tensorflow>
+5. <https://pypi.org/project/chatbotAI>
+
+#### Graph Theory
+1. <https://pypi.org/project/networkx>, <https://github.com/networkx/networkx>
+
+#### Network
+1. <https://pypi.org/project/requests>: <https://github.com/psf/requests>
 2. <https://pypi.org/project/pycurl-requests>
-3. <https://pypi.org/project/keyring>
-4. <https://pypi.org/project/keyrings.cryptfile>: Need call `keyring.set_keyring(CryptFileKeyring())` to set this as backend
-5. <https://pypi.org/project/credentials>
-6. <https://pypi.org/project/cryptography>
-7. <https://pypi.org/project/chatbotAI>
-8. <https://pypi.org/project/Office365-REST-Python-Client>: <https://github.com/vgrem/Office365-REST-Python-Client>
+
+#### Security
+1. <https://pypi.org/project/keyring>
+2. <https://pypi.org/project/keyrings.cryptfile>: Need call `keyring.set_keyring(CryptFileKeyring())` to set this as backend
+3. <https://pypi.org/project/credentials>
+4. <https://pypi.org/project/cryptography>
+
+#### Miscellanous
+1. <https://pypi.org/project/Office365-REST-Python-Client>: <https://github.com/vgrem/Office365-REST-Python-Client>
 
 ### Github Python Repository
 1. <https://github.com/python/cpython/blob/main/Lib/os.py>
@@ -269,7 +289,7 @@ os.path里面是否已经存在自动转换路径的函数？可否将这个方�
 23. [python 发送邮件/正文插入表格                                         ](https://blog.csdn.net/qq_34864753/article/details/120769126)
 24. [使用Python与Sharepoint进行交互                                       ](https://blog.csdn.net/mzl87/article/details/107325321): <https://shareplum.readthedocs.io/en/latest>
 
-### Zhihu
+### ZHIHU
 1. [tkinter学习教程（一）                          ](https://zhuanlan.zhihu.com/p/143478496)
 2. [OpenCV+深度学习预训练模型，简单搞定图像识别教程](https://zhuanlan.zhihu.com/p/28703867)
 3. [使用 OpenCV 对图像进行特征检测、描述和匹配     ](https://zhuanlan.zhihu.com/p/401188363)
