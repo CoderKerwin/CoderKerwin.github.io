@@ -41,3 +41,7 @@
 22. [华为如何开启或关闭智慧助手负一屏](https://baijiahao.baidu.com/s?id=1779984390530309631)
 
 23. [iPad和罗技k380的连接出了问题](https://www.zhihu.com/question/370867755)
+
+24. [10款后座放倒全平的车](https://chejiahao.autohome.com.cn/info/4268830)
+
+25. [适合床车自驾游的SUV推荐](https://www.dongchedi.com/article/7144579247435252232)
