@@ -85,23 +85,14 @@ bytearray
 - binascii
 - filecmp
 - difflib
-- enumerate
 
 ## builtins
 
 - builtins
- - open
- - exec
- - input
- - locals
- - vars
  - globals
   - globals().setdefault('load_entry_point', importlib_load_entry_point)
  - next
   - next(matches).load()
- - super
- - all
- - any
 
 ### classes
 
@@ -118,29 +109,10 @@ bytearray
 - bytearray()
  - byte_arrary()
 
-- range()
-
-- type()
-
-- help()
-
 - exit()
 - quit()
 
-- map()
- - list(map())
-
 - filter()
-
-### functions
-
-- hex()
-- len()
-- vars()
-
-- input()
-
-- locals()
 
 ## Packages
 
@@ -213,7 +185,7 @@ os.path里面是否已经存在自动转换路径的函数？可否将这个方�
 1.  <https://docs.python.org/3/tutorial/errors.html>
 2.  <https://docs.python.org/3/reference/datamodel.html>
 3.  <https://docs.python.org/3/c-api/dict.html>
-4.  <https://docs.python.org/3/library/functions.html>
+4.  <https://docs.python.org/3/library/functions.html>: range(), map(), reversed(), set(), enumerate(), all(), any(), sum(), super(), vars(), zip(), input(), iter(), next(), chr(), ord(), locals(), hex(), len(), help(), type(), open(), exec(), globals(), format(), etc
 5.  <https://docs.python.org/3/library/unittest.html>
 6.  <https://docs.python.org/3/library/os.html>
 7.  <https://docs.python.org/3/library/netrc.html>
@@ -229,6 +201,12 @@ os.path里面是否已经存在自动转换路径的函数？可否将这个方�
 17. <https://docs.python.org/3/library/collections.html>
 18. <https://docs.python.org/3/library/pickle.html>
 19. <https://docs.python.org/3/library/html.html>
+20. <https://docs.python.org/3/library/string.html>: asciis string constants and format string syntax
+21. <https://docs.python.org/3/library/stdtypes.html>: str.format()
+
+### Github Python Repository
+1. <https://github.com/python/cpython/blob/main/Lib/os.py>
+2. <https://github.com/python/cpython/blob/main/Modules/posixmodule.c>
 
 ### Python Package Index
 
@@ -248,7 +226,7 @@ os.path里面是否已经存在自动转换路径的函数？可否将这个方�
 5. <https://pypi.org/project/chatbotAI>
 
 #### Graph Theory
-1. <https://pypi.org/project/networkx>, <https://github.com/networkx/networkx>
+1. <https://pypi.org/project/networkx>, <https://github.com/networkx/networkx>: all_simple_paths()
 
 #### Network
 1. <https://pypi.org/project/requests>: <https://github.com/psf/requests>
@@ -263,9 +241,10 @@ os.path里面是否已经存在自动转换路径的函数？可否将这个方�
 #### Miscellanous
 1. <https://pypi.org/project/Office365-REST-Python-Client>: <https://github.com/vgrem/Office365-REST-Python-Client>
 
-### Github Python Repository
-1. <https://github.com/python/cpython/blob/main/Lib/os.py>
-2. <https://github.com/python/cpython/blob/main/Modules/posixmodule.c>
+### RUNOOB
+1. [Python format 格式化函数](https://www.runoob.com/python/att-string-format.html)
+2. [python3正则表达式       ](https://www.runoob.com/Python3/python-reg-expressions.html)
+3. [Python map() 函数       ](https://www.runoob.com/python/python-func-map.html)
 
 ### CSDN
 1.  [python解析XML                                                        ](https://blog.csdn.net/qdPython/article/details/115520713)
@@ -312,29 +291,26 @@ os.path里面是否已经存在自动转换路径的函数？可否将这个方�
 5. [AttributeError: 'FigureCanvasTkAgg' object has no attribute 'show' and ValueError: Masked arrays must be 1-D](https://www.cnblogs.com/zhhy236400/p/9958889.html)
 
 ### Miscellaneous
-1. [python3正则表达式](https://www.runoob.com/Python3/python-reg-expressions.html)
-2. [Python map() 函数](https://www.runoob.com/python/python-func-map.html)
+1. [用python发送表格数据到邮箱](https://www.jianshu.com/p/a04eafcc2f69)
 
-3. [用python发送表格数据到邮箱](https://www.jianshu.com/p/a04eafcc2f69)
+2. [matplotlib中plot.show()不显示图片的问题：如何把backend=Agg配置为TkAgg](https://blog.51cto.com/SpaceVision/3086976)
 
-4. [matplotlib中plot.show()不显示图片的问题：如何把backend=Agg配置为TkAgg](https://blog.51cto.com/SpaceVision/3086976)
+3. [difflib — 字符比较](https://learnku.com/docs/pymotw/difflib-character-comparison)
 
-5. [difflib — 字符比较](https://learnku.com/docs/pymotw/difflib-character-comparison)
+4. [Python实现Tab自动补全和历史命令管理的方法](https://www.ycpai.cn/python/Fv2T2Rgw.html)
 
-6. [Python实现Tab自动补全和历史命令管理的方法](https://www.ycpai.cn/python/Fv2T2Rgw.html)
+5. [JSON](http://json.org/json-en.html)
 
-7. [JSON](http://json.org/json-en.html)
+6. [在 Python 中使用 requests 模块实现 Curl 命令](https://www.delftstack.com/zh/howto/python/implement-curl-commands-using-requests-module-in-python)
 
-8. [在 Python 中使用 requests 模块实现 Curl 命令](https://www.delftstack.com/zh/howto/python/implement-curl-commands-using-requests-module-in-python)
+7. [getpass() and getuser() in Python](https://www.geeksforgeeks.org/getpass-and-getuser-in-python-password-without-echo)
 
-9. [getpass() and getuser() in Python](https://www.geeksforgeeks.org/getpass-and-getuser-in-python-password-without-echo)
+8. [Secure Password or Token on Windows – Python](https://techwizard.cloud/2022/02/09/secure-password-or-token-on-windows-python)
 
-10. [Secure Password or Token on Windows – Python](https://techwizard.cloud/2022/02/09/secure-password-or-token-on-windows-python)
+9. [Python SMTP.starttls方法代码示例](https://vimsky.com/examples/detail/python-ex-smtplib-SMTP-starttls-method.html)
 
-11. [Python SMTP.starttls方法代码示例](https://vimsky.com/examples/detail/python-ex-smtplib-SMTP-starttls-method.html)
+10. [How to fix certificate verify failed](https://community.ibm.com/community/user/ibmz-and-linuxone/blogs/sheng-jie-han/2021/06/03/how-to-fix-certificate-verify-failed-self-signed-c)
 
-12. [How to fix certificate verify failed](https://community.ibm.com/community/user/ibmz-and-linuxone/blogs/sheng-jie-han/2021/06/03/how-to-fix-certificate-verify-failed-self-signed-c)
+11. [Command-line options](https://mrjob.readthedocs.io/en/latest/job.html)
 
-13. [Command-line options](https://mrjob.readthedocs.io/en/latest/job.html)
-
-14. [Working with Excel Files in Python](https://www.python-excel.org): [openpyxl](https://openpyxl.readthedocs.io/en/stable/tutorial.html)
+12. [Working with Excel Files in Python](https://www.python-excel.org): [openpyxl](https://openpyxl.readthedocs.io/en/stable/tutorial.html)
