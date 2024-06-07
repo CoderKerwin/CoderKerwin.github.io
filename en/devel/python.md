@@ -60,9 +60,6 @@ bytearray
 - subprocess
 - threading
 - json
-- ctypes
- - int.from_bytes
- - int.from_buffer
 - pathlib
 - importlib
  - importlib.import_module
@@ -75,7 +72,6 @@ bytearray
   - urllib.request.build_opener
   - urllib.request.Request
 - uuid
-- struct
 - turtle
 - tkinter
 - math
@@ -203,6 +199,8 @@ os.path里面是否已经存在自动转换路径的函数？可否将这个方�
 19. <https://docs.python.org/3/library/html.html>
 20. <https://docs.python.org/3/library/string.html>: asciis string constants and format string syntax
 21. <https://docs.python.org/3/library/stdtypes.html>: str.format()
+22. <https://docs.python.org/3/library/ctypes.html>: from_buffer
+23. <https://docs.python.org/3/library/struct.html>: pack
 
 ### Github Python Repository
 1. <https://github.com/python/cpython/blob/main/Lib/os.py>
