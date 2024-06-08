@@ -181,7 +181,7 @@ os.path里面是否已经存在自动转换路径的函数？可否将这个方�
 1.  <https://docs.python.org/3/tutorial/errors.html>
 2.  <https://docs.python.org/3/reference/datamodel.html>
 3.  <https://docs.python.org/3/c-api/dict.html>
-4.  <https://docs.python.org/3/library/functions.html>: range(), map(), reversed(), set(), enumerate(), all(), any(), sum(), super(), vars(), zip(), input(), iter(), next(), chr(), ord(), locals(), hex(), len(), help(), type(), open(), exec(), globals(), format(), etc
+4.  <https://docs.python.org/3/library/functions.html>: range(), map(), reversed(), set(), enumerate(), all(), any(), sum(), super(), vars(), zip(), input(), iter(), next(), chr(), ord(), locals(), hex(), len(), help(), type(), open(), exec(), globals(), format(), sorted(), etc
 5.  <https://docs.python.org/3/library/unittest.html>
 6.  <https://docs.python.org/3/library/os.html>
 7.  <https://docs.python.org/3/library/netrc.html>
