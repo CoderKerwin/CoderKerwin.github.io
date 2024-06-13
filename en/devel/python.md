@@ -57,8 +57,6 @@ bytearray
  - argparse.FileType
 - shutil
  - shutil.copy
-- subprocess
-- threading
 - json
 - pathlib
 - importlib
@@ -198,9 +196,11 @@ os.path里面是否已经存在自动转换路径的函数？可否将这个方�
 18. <https://docs.python.org/3/library/pickle.html>
 19. <https://docs.python.org/3/library/html.html>
 20. <https://docs.python.org/3/library/string.html>: asciis string constants and format string syntax
-21. <https://docs.python.org/3/library/stdtypes.html>: str.format()
+21. <https://docs.python.org/3/library/stdtypes.html>: str.format(), bytes.decode()
 22. <https://docs.python.org/3/library/ctypes.html>: from_buffer
 23. <https://docs.python.org/3/library/struct.html>: pack
+24. <https://docs.python.org/3/library/subprocess.html>: run()
+25. <https://docs.python.org/3/library/threading.html>
 
 ### Github Python Repository
 1. <https://github.com/python/cpython/blob/main/Lib/os.py>
