@@ -196,11 +196,12 @@ os.path里面是否已经存在自动转换路径的函数？可否将这个方�
 18. <https://docs.python.org/3/library/pickle.html>
 19. <https://docs.python.org/3/library/html.html>
 20. <https://docs.python.org/3/library/string.html>: asciis string constants and format string syntax
-21. <https://docs.python.org/3/library/stdtypes.html>: str.format(), bytes.decode()
+21. <https://docs.python.org/3/library/stdtypes.html>: str.format(), bytes.decode(), dict.update()
 22. <https://docs.python.org/3/library/ctypes.html>: from_buffer
 23. <https://docs.python.org/3/library/struct.html>: pack
 24. <https://docs.python.org/3/library/subprocess.html>: run()
 25. <https://docs.python.org/3/library/threading.html>
+26. <https://docs.python.org/3/library/csv.html>: fileld_size_limit(), DictWriter()
 
 ### Github Python Repository
 1. <https://github.com/python/cpython/blob/main/Lib/os.py>
@@ -209,10 +210,10 @@ os.path里面是否已经存在自动转换路径的函数？可否将这个方�
 ### Python Package Index
 
 #### Visualization
-1. <https://pypi.org/project/matplotlib>, <https://github.com/matplotlib/matplotlib>
+1. <https://pypi.org/project/matplotlib>, <https://github.com/matplotlib/matplotlib>, <https://matplotlib.org/stable/users>
 
 #### Data Science
-1. <https://pypi.org/project/pandas>, <https://github.com/pandas-dev/pandas>
+1. <https://pypi.org/project/pandas>, <https://github.com/pandas-dev/pandas>, <https://pandas.pydata.org/docs/user_guide>
 2. <https://pypi.org/project/numpy>,  <https://github.com/numpy/numpy>
 3. <https://pypi.org/project/scipy>,  <https://github.com/scipy/scipy>
 
