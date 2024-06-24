@@ -43,7 +43,6 @@ bytearray
  - sys.stdin
  - sys.stdout
 - platform
-- time
 - re
  - re.compile
  - re.findall
@@ -51,12 +50,6 @@ bytearray
 - hashlib
 - socket
 - ipaddress
-- argparse
- - argparse.ArgumentParser
- - argparse.add_argument
- - argparse.FileType
-- shutil
- - shutil.copy
 - json
 - pathlib
 - importlib
@@ -69,11 +62,8 @@ bytearray
   - urllib.request.urlopen
   - urllib.request.build_opener
   - urllib.request.Request
-- uuid
 - turtle
 - tkinter
-- math
-- random
 - traceback
  - traceback.print_exc
 - binascii
@@ -202,6 +192,12 @@ os.path里面是否已经存在自动转换路径的函数？可否将这个方�
 24. <https://docs.python.org/3/library/subprocess.html>: run()
 25. <https://docs.python.org/3/library/threading.html>
 26. <https://docs.python.org/3/library/csv.html>: fileld_size_limit(), DictWriter()
+27. <https://docs.python.org/3/library/shutil.html>: copyfile(), copy2()
+28. <https://docs.python.org/3/library/argparse.html>: ArgumentParser(), add_argument()
+29. <https://docs.python.org/3/library/uuid.html>
+30. <https://docs.python.org/3/library/math.html>
+31. <https://docs.python.org/3/library/time.html>: ctime()
+32. <https://docs.python.org/3/library/random.html>: rand()
 
 ### Github Python Repository
 1. <https://github.com/python/cpython/blob/main/Lib/os.py>
