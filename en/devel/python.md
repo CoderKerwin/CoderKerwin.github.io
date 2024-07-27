@@ -28,56 +28,6 @@ set,
 bytes,
 bytearray
 
-## modules
-
-- os
- - os.path
- - os.sep
- - os.popen
- - os.system
- - os.unlink
- - os.symlink
- - os.getcwd()
-- sys
- - sys.path  : Search module from this path, can append path to make module can be searched
- - sys.stdin
- - sys.stdout
-- platform
-- re
- - re.compile
- - re.findall
- - re.match
-- hashlib
-- socket
-- ipaddress
-- json
-- pathlib
-- importlib
- - importlib.import_module
- - importlib.metadata
-  - distribution(dist_name).entry_points
- - importlib.reload
-- urllib
- - urllib.request
-  - urllib.request.urlopen
-  - urllib.request.build_opener
-  - urllib.request.Request
-- turtle
-- tkinter
-- traceback
- - traceback.print_exc
-- binascii
-- filecmp
-- difflib
-
-## builtins
-
-- builtins
- - globals
-  - globals().setdefault('load_entry_point', importlib_load_entry_point)
- - next
-  - next(matches).load()
-
 ### classes
 
 - str()
@@ -171,33 +121,47 @@ os.path里面是否已经存在自动转换路径的函数？可否将这个方�
 3.  <https://docs.python.org/3/c-api/dict.html>
 4.  <https://docs.python.org/3/library/functions.html>: range(), map(), reversed(), set(), enumerate(), all(), any(), sum(), super(), vars(), zip(), input(), iter(), next(), chr(), ord(), locals(), hex(), len(), help(), type(), open(), exec(), globals(), format(), sorted(), etc
 5.  <https://docs.python.org/3/library/unittest.html>
-6.  <https://docs.python.org/3/library/os.html>
-7.  <https://docs.python.org/3/library/netrc.html>
-8.  <https://docs.python.org/3/library/getpass.html>
-9.  <https://docs.python.org/3/library/urllib.html>
-10. <https://docs.python.org/3/library/itertools.html>
-11. <https://docs.python.org/3/library/sched.html>
-12. <https://docs.python.org/3/library/timeit.html>
-13. <https://docs.python.org/3/library/asyncio.html>
-14. <https://docs.python.org/3/library/email.html>
-15. <https://docs.python.org/3/library/xml.html>
-16. <https://docs.python.org/3/library/filecmp.html>
-17. <https://docs.python.org/3/library/collections.html>
-18. <https://docs.python.org/3/library/pickle.html>
-19. <https://docs.python.org/3/library/html.html>
-20. <https://docs.python.org/3/library/string.html>: asciis string constants and format string syntax
-21. <https://docs.python.org/3/library/stdtypes.html>: str.format(), bytes.decode(), dict.update()
-22. <https://docs.python.org/3/library/ctypes.html>: from_buffer
-23. <https://docs.python.org/3/library/struct.html>: pack
-24. <https://docs.python.org/3/library/subprocess.html>: run()
-25. <https://docs.python.org/3/library/threading.html>
-26. <https://docs.python.org/3/library/csv.html>: fileld_size_limit(), DictWriter()
-27. <https://docs.python.org/3/library/shutil.html>: copyfile(), copy2()
-28. <https://docs.python.org/3/library/argparse.html>: ArgumentParser(), add_argument()
-29. <https://docs.python.org/3/library/uuid.html>
-30. <https://docs.python.org/3/library/math.html>
-31. <https://docs.python.org/3/library/time.html>: ctime()
-32. <https://docs.python.org/3/library/random.html>: rand()
+6.  <https://docs.python.org/3/library/os.html>: path, sep, popen(), system(), unlink(), symlink(), getcwd()
+7.  <https://docs.python.org/3/library/sys.html>: path, stdin, stdout
+8.  <https://docs.python.org/3/library/platform.html>
+9.  <https://docs.python.org/3/library/netrc.html>
+10. <https://docs.python.org/3/library/getpass.html>
+11. <https://docs.python.org/3/library/urllib.html>: request, urlopen(), Request()
+12. <https://docs.python.org/3/library/itertools.html>
+13. <https://docs.python.org/3/library/sched.html>
+14. <https://docs.python.org/3/library/timeit.html>
+15. <https://docs.python.org/3/library/asyncio.html>
+16. <https://docs.python.org/3/library/email.html>
+17. <https://docs.python.org/3/library/xml.html>
+18. <https://docs.python.org/3/library/filecmp.html>
+19. <https://docs.python.org/3/library/collections.html>
+20. <https://docs.python.org/3/library/pickle.html>
+21. <https://docs.python.org/3/library/html.html>
+22. <https://docs.python.org/3/library/string.html>: asciis string constants and format string syntax
+23. <https://docs.python.org/3/library/stdtypes.html>: str.format(), bytes.decode(), dict.update()
+24. <https://docs.python.org/3/library/ctypes.html>: from_buffer
+25. <https://docs.python.org/3/library/struct.html>: pack
+26. <https://docs.python.org/3/library/subprocess.html>: run()
+27. <https://docs.python.org/3/library/threading.html>
+28. <https://docs.python.org/3/library/csv.html>: fileld_size_limit(), DictWriter()
+29. <https://docs.python.org/3/library/shutil.html>: copyfile(), copy2()
+30. <https://docs.python.org/3/library/argparse.html>: ArgumentParser(), add_argument()
+31. <https://docs.python.org/3/library/uuid.html>
+32. <https://docs.python.org/3/library/math.html>
+33. <https://docs.python.org/3/library/time.html>: ctime()
+34. <https://docs.python.org/3/library/random.html>: rand()
+35. <https://docs.python.org/3/library/re.html>: compile(), findall(), match()
+36. <https://docs.python.org/3/library/difflib.html>
+37. <https://docs.python.org/3/library/hashlib.html>
+38. <https://docs.python.org/3/library/pathlib.html>
+39. <https://docs.python.org/3/library/turtle.html>
+40. <https://docs.python.org/3/library/tkinter.html>
+41. <https://docs.python.org/3/library/binascii.html>
+42. <https://docs.python.org/3/library/json.html>: <http://json.org>
+43. <https://docs.python.org/3/library/socket.html>
+44. <https://docs.python.org/3/library/ipaddress.html>
+45. <https://docs.python.org/3/library/traceback.html>: print_exc()
+46. <https://docs.python.org/3/library/importlib.html>: metadata, import_mode(), reload()
 
 ### Github Python Repository
 1. <https://github.com/python/cpython/blob/main/Lib/os.py>
@@ -293,8 +257,6 @@ os.path里面是否已经存在自动转换路径的函数？可否将这个方�
 3. [difflib — 字符比较](https://learnku.com/docs/pymotw/difflib-character-comparison)
 
 4. [Python实现Tab自动补全和历史命令管理的方法](https://www.ycpai.cn/python/Fv2T2Rgw.html)
-
-5. [JSON](http://json.org/json-en.html)
 
 6. [在 Python 中使用 requests 模块实现 Curl 命令](https://www.delftstack.com/zh/howto/python/implement-curl-commands-using-requests-module-in-python)
 
