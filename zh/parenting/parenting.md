@@ -74,3 +74,5 @@
 38. [中小学智慧教育平台](https://basic.smartedu.cn)
 
 39. [国家教育资源公共服务平台](https://www.eduyun.cn)
+
+40. [48部亲子共看电影全片单！基于心理学和教育学的专业推荐](https://new.qq.com/rain/a/20220203A04NBH00)
