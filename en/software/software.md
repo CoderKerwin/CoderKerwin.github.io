@@ -431,6 +431,10 @@ windows设置里面，账户选项卡，账户信息里面，账户设置里选�
 
 <https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/networking_guide/ch-consistent_network_device_naming>
 
+[Linux守护进程的启动方法](https://www.ruanyifeng.com/blog/2016/02/linux-daemon.html),
+[Systemd入门教程        ](https://ruanyifeng.com/blog/2016/03/systemd-tutorial-commands.html),
+[init进程详解](https://blog.csdn.net/hxpjava1/article/details/79825674)
+
 ## BUGTRACKER
 
 ### EIP
