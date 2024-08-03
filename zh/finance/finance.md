@@ -30,3 +30,5 @@
 16. [证券日报  ](http://www.zqrb.cn)
 17. [中国证券网](https://www.cs.com.cn)
 18. [巨潮资讯网](http://www.cninfo.com.cn)
+
+19. [中国注册会计师协会](https://www.cicpa.org.cn)
