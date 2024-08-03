@@ -47,3 +47,10 @@
 25. [适合床车自驾游的SUV推荐](https://www.dongchedi.com/article/7144579247435252232)
 
 26. [国家地理信息服务平台](https://www.tianditu.gov.cn)
+
+27. [完全图解RAID存储技术](https://cloud.tencent.com/developer/article/2304179)
+
+28. [Linux程序运行找不到动态库.so文件的三种解决办法](https://blog.csdn.net/u010333084/article/details/86506361)
+29. [libcrypto.so.1.1依赖问题](https://blog.csdn.net/m0_58530510/article/details/130442081): 软连接要使用绝对路径
+
+30. [中关村在线服务器](https://detail.zol.com.cn/server)
