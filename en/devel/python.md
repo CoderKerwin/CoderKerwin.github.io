@@ -164,6 +164,8 @@ os.path里面是否已经存在自动转换路径的函数？可否将这个方�
 46. <https://docs.python.org/3/library/importlib.html>: metadata, import_mode(), reload()
 47. <https://docs.python.org/3/library/glob.html>
 48. <https://docs.python.org/3/library/codecs.html#standard-encodings>
+49. <https://docs.python.org/3/library/gzip.html>
+50. <https://docs.python.org/3/library/pprint.html>
 
 ### Github Python Repository
 1. <https://github.com/python/cpython/blob/main/Lib/os.py>
@@ -185,12 +187,13 @@ os.path里面是否已经存在自动转换路径的函数？可否将这个方�
 3. <https://pypi.org/project/torch>,        <https://github.com/pytorch/pytorch>
 4. <https://pypi.org/project/tensorflow>,   <https://github.com/tensorflow/tensorflow>
 5. <https://pypi.org/project/chatbotAI>
+6. <https://www.nltk.org>, <https://nltk.readthedocs.io>
 
 #### Graph Theory
 1. <https://pypi.org/project/networkx>, <https://github.com/networkx/networkx>: all_simple_paths()
 
 #### Network
-1. <https://pypi.org/project/requests>: <https://github.com/psf/requests>
+1. <https://pypi.org/project/requests>: <https://github.com/psf/requests>, <https://requests.readthedocs.io>
 2. <https://pypi.org/project/pycurl-requests>
 
 #### Security
