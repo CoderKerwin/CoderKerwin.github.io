@@ -173,6 +173,9 @@ os.path里面是否已经存在自动转换路径的函数？可否将这个方�
 
 ### Python Package Index
 
+#### Environment
+1. <https://pypi.org/project/jupyterlab>, <https://jupyter.org>, <https://docs.jupyter.org>
+
 #### Visualization
 1. <https://pypi.org/project/matplotlib>, <https://github.com/matplotlib/matplotlib>, <https://matplotlib.org/stable/users>
 
@@ -188,6 +191,7 @@ os.path里面是否已经存在自动转换路径的函数？可否将这个方�
 4. <https://pypi.org/project/tensorflow>,   <https://github.com/tensorflow/tensorflow>
 5. <https://pypi.org/project/chatbotAI>
 6. <https://www.nltk.org>, <https://nltk.readthedocs.io>
+7. <https://pypi.org/project/jieba>
 
 #### Graph Theory
 1. <https://pypi.org/project/networkx>, <https://github.com/networkx/networkx>: all_simple_paths()
