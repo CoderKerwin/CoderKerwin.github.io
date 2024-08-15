@@ -280,3 +280,5 @@ os.path里面是否已经存在自动转换路径的函数？可否将这个方�
 11. [Command-line options](https://mrjob.readthedocs.io/en/latest/job.html)
 
 12. [Working with Excel Files in Python](https://www.python-excel.org): [openpyxl](https://openpyxl.readthedocs.io/en/stable/tutorial.html)
+
+13. [Jupyter渲染网页的3种方式](https://www.cnblogs.com/chenqionghe/p/12373387.html)
