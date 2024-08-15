@@ -438,6 +438,8 @@ windows设置里面，账户选项卡，账户信息里面，账户设置里选�
 
 [如何编写一个systemd service](https://segmentfault.com/a/1190000014740871): <https://systemd.io>, <https://github.com/systemd/systemd>, <https://www.freedesktop.org/wiki/Software/systemd>, <https://packages.debian.org/bookworm/systemd-sysv>
 
+[Linux内核为什么会发生soft lockup？](https://blog.csdn.net/21cnbao/article/details/108250786)
+
 #### NETWORKING
 `systemctl status networking`, `/etc/systemd/system/network*`, `/lib/systemd/system/network*`, `/sbin/ifup`, `/etc/network/if-up.d`, `/etc/network/interfaces`
 
