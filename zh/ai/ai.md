@@ -36,7 +36,7 @@ python3 -m spacy download pt_core_news_sm
 
 ### [PYTORCH](https://pytorch.org)
 
-1. [Introduction](https://pytorch.org/tutorials/beginner/basics/intro.html), [nn.Module]((https://pytorch.org/docs/stable/generated/torch.nn.Module.html), [nn.Transformer](https://pytorch.org/docs/stable/generated/torch.nn.Transformer.html), [data.DataLoader](https://pytorch.org/docs/stable/data.html), [nn.Linear](http://pytorch.org/docs/stable/generated/torch.nn.Linear.html), [nn.Embedding](https://pytorch.org/docs/stable/generated/torch.nn.Embedding.html)
+1. [Introduction](https://pytorch.org/tutorials/beginner/basics/intro.html), [nn.Module]((https://pytorch.org/docs/stable/generated/torch.nn.Module.html), [nn.Transformer](https://pytorch.org/docs/stable/generated/torch.nn.Transformer.html), [data.DataLoader](https://pytorch.org/docs/stable/data.html), [nn.Linear](http://pytorch.org/docs/stable/generated/torch.nn.Linear.html), [nn.Embedding](https://pytorch.org/docs/stable/generated/torch.nn.Embedding.html), [nn.CrossEntropyLoss.html](https://pytorch.org/docs/stable/generated/torch.nn.CrossEntropyLoss.html)
 2. [PyTorch 数据处理教程(1)      ](https://zhuanlan.zhihu.com/p/448064320): <https://learn.microsoft.com/en-us/training/modules/intro-machine-learning-pytorch/4-model>
 3. [Torchtext Field新版本中被移除](https://zhuanlan.zhihu.com/p/485686510): `python3 -m pip install torch==1.9.0 torchtext==0.10.0`, <https://github.com/pytorch/text/blob/master/examples/legacy_tutorial/migration_tutorial.ipynb>
 
@@ -234,37 +234,41 @@ Mirror: <https://hf-mirror.com>
 
 69. [Transformer 训练与评估](https://zhuanlan.zhihu.com/p/97451231)
 
-70. <https://github.blog/2023-06-20-how-to-write-better-prompts-for-github-copilot>
+70. [交叉熵（cross-entropy）损失函数求导过程推导](https://blog.csdn.net/weixin_43846347/article/details/94363273)
+71. [关于损失函数的一些前置知识                 ](https://blog.csdn.net/weixin_42426841/article/details/139886542)
+72. [交叉熵损失函数详解和要点提醒               ](https://blog.csdn.net/weixin_42426841/article/details/139889247)
 
-71. <https://blog.langchain.dev/retrieval>
+73. <https://github.blog/2023-06-20-how-to-write-better-prompts-for-github-copilot>
 
-71. <https://learn.microsoft.com/en-us/training/modules/explore-azure-openai/1-introduction>
-72. <https://learn.microsoft.com/en-us/training/modules/explore-azure-openai/4-how-to-use-azure-openai>
-73. <https://learn.microsoft.com/en-us/training/modules/explore-azure-openai/8a-exercise-openai>
+74. <https://blog.langchain.dev/retrieval>
 
-74.  <https://learn.microsoft.com/en-us/azure/ai-services/openai/reference>
-75. <https://learn.microsoft.com/en-us/azure/ai-services/openai/quickstart>
-76. <https://learn.microsoft.com/en-us/azure/ai-services/authentication>
-77. <https://learn.microsoft.com/en-us/azure/ai-services/disable-local-auth>
+74. <https://learn.microsoft.com/en-us/training/modules/explore-azure-openai/1-introduction>
+75. <https://learn.microsoft.com/en-us/training/modules/explore-azure-openai/4-how-to-use-azure-openai>
+76. <https://learn.microsoft.com/en-us/training/modules/explore-azure-openai/8a-exercise-openai>
 
-78. <https://learn.microsoft.com/en-us/entra/identity-platform/quickstart-register-app>
-79. <https://learn.microsoft.com/en-us/entra/identity-platform/howto-restrict-your-app-to-a-set-of-users>
-80. <https://learn.microsoft.com/en-us/entra/identity-platform/scopes-oidc>
-81. <https://learn.microsoft.com/en-us/entra/identity-platform/consent-types-developer>
-82. <https://learn.microsoft.com/en-us/entra/identity-platform/msal-acquire-cache-tokens>
+77.  <https://learn.microsoft.com/en-us/azure/ai-services/openai/reference>
+78. <https://learn.microsoft.com/en-us/azure/ai-services/openai/quickstart>
+79. <https://learn.microsoft.com/en-us/azure/ai-services/authentication>
+80. <https://learn.microsoft.com/en-us/azure/ai-services/disable-local-auth>
 
-83. <https://learn.microsoft.com/en-us/graph/api/drive-sharedwithme>
-84. <https://learn.microsoft.com/en-us/graph/api/driveitem-get-content>
-85. <https://learn.microsoft.com/en-us/graph/permissions-reference>
+81. <https://learn.microsoft.com/en-us/entra/identity-platform/quickstart-register-app>
+82. <https://learn.microsoft.com/en-us/entra/identity-platform/howto-restrict-your-app-to-a-set-of-users>
+83. <https://learn.microsoft.com/en-us/entra/identity-platform/scopes-oidc>
+84. <https://learn.microsoft.com/en-us/entra/identity-platform/consent-types-developer>
+85. <https://learn.microsoft.com/en-us/entra/identity-platform/msal-acquire-cache-tokens>
 
-86. [ChatGPT and Competing LLMs                                                                                ](https://www.oreilly.com/live-events/chatgpt-and-competing-llms/0636920097613): <https://github.com/DataForScience/ChatGPT>
-87. [ChatGPT for Software Engineers                                                                            ](https://www.oreilly.com/live-events/chatgpt-for-software-engineers/0636920090062)
-88. [Prompt Engineering for Generative AI                                                                      ](https://www.oreilly.com/library/view/prompt-engineering-for/9781098153427): <https://github.com/BrightPool/prompt-engineering-for-generative-ai-examples.git>
-89. [Language Models in Plain English                                                                          ](https://www.oreilly.com/library/view/language-models-in/9781098109073)
-90. [What Are ChatGPT and Its Friends?                                                                         ](https://www.oreilly.com/library/view/what-are-chatgpt/9781098152604)
-91. [Quick Start Guide to Large Language Models: Strategies and Best Practices for Using ChatGPT and Other LLMs](https://www.oreilly.com/library/view/quick-start-guide/9780138199425)
-92. [Introduction to Transformer Models for NLP                                                                ](https://learning.oreilly.com/course/introduction-to-transformer/9780137923717)
-93. [Natural Language Processing, 2nd Edition                                                                  ](https://learning.oreilly.com/course/natural-language-processing/9780137670222)
-94. [ChatGPT Shortcuts                                                                                         ](https://learning.oreilly.com/playlists/1a47d633-5de3-4363-9e6e-2ea9ec1a60d5)
-95. [How AI Works                                                                                              ](https://learning.oreilly.com/library/view/how-ai-work/9781098168568)
-96. [Hacking Artificial Intelligence                                                                           ](https://learning.oreilly.com/videos/hacking-artificial-intelligence/9781663719379)
+86. <https://learn.microsoft.com/en-us/graph/api/drive-sharedwithme>
+87. <https://learn.microsoft.com/en-us/graph/api/driveitem-get-content>
+88. <https://learn.microsoft.com/en-us/graph/permissions-reference>
+
+89. [ChatGPT and Competing LLMs                                                                                ](https://www.oreilly.com/live-events/chatgpt-and-competing-llms/0636920097613): <https://github.com/DataForScience/ChatGPT>
+90. [ChatGPT for Software Engineers                                                                            ](https://www.oreilly.com/live-events/chatgpt-for-software-engineers/0636920090062)
+91. [Prompt Engineering for Generative AI                                                                      ](https://www.oreilly.com/library/view/prompt-engineering-for/9781098153427): <https://github.com/BrightPool/prompt-engineering-for-generative-ai-examples.git>
+92. [Language Models in Plain English                                                                          ](https://www.oreilly.com/library/view/language-models-in/9781098109073)
+93. [What Are ChatGPT and Its Friends?                                                                         ](https://www.oreilly.com/library/view/what-are-chatgpt/9781098152604)
+94. [Quick Start Guide to Large Language Models: Strategies and Best Practices for Using ChatGPT and Other LLMs](https://www.oreilly.com/library/view/quick-start-guide/9780138199425)
+95. [Introduction to Transformer Models for NLP                                                                ](https://learning.oreilly.com/course/introduction-to-transformer/9780137923717)
+96. [Natural Language Processing, 2nd Edition                                                                  ](https://learning.oreilly.com/course/natural-language-processing/9780137670222)
+97. [ChatGPT Shortcuts                                                                                         ](https://learning.oreilly.com/playlists/1a47d633-5de3-4363-9e6e-2ea9ec1a60d5)
+98. [How AI Works                                                                                              ](https://learning.oreilly.com/library/view/how-ai-work/9781098168568)
+99. [Hacking Artificial Intelligence                                                                           ](https://learning.oreilly.com/videos/hacking-artificial-intelligence/9781663719379)
