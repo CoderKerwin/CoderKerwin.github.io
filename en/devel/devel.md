@@ -8,6 +8,25 @@ Compatible Issue: Latest need be compatible with old version, Client need be com
 
 [数据结构与算法、计算机网络、操作系统、设计模式](https://blog.csdn.net/weixin_46698891/article/details/113814822)
 
+## PROGRAMMING LANGUAGE
+
+### C & C++
+
+1. [The GNU C Reference Manual](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html)
+2. [ISO/IEC 14882:2020](https://isocpp.org/std/the-standard)
+3. [ISO/IEC 9899:2018 ](https://www.open-std.org/jtc1/sc22/wg14/www/docs/n2310.pdf)
+4. [History of C](https://en.cppreference.com/w/c/language/history)
+
+#### Online Compiler
+
+1. <https://godbolt.org>
+
+#### References
+1. [C++知识回顾之`__stdcall`和`__cdecl`和`__fastcall`三者的区别](https://www.cnblogs.com/yejianyong/p/7506465.html): C calling convention
+2. [C的隐式类型转换](https://www.veaxen.com/c的隐式类型转换.html)
+3. [C语言32个关键字-最详解释                      ](https://blog.csdn.net/qq_38972634/article/details/108398953)
+4. [open-source formatting library providing a fast and safe alternative to C stdio and C++ iostreams](https://fmt.dev)
+
 ## ARCHITECT
 
 1. [Software Development Superstream: Becoming a Senior Software Engineer](https://learning.oreilly.com/live-events/software-development-superstream-becoming-a-senior-software-engineer/0790145048891)
@@ -343,16 +362,7 @@ ipmitool chassis bootparam get 5
 <https://sourceforge.net/p/tboot/code/ci/default/tree>,
 <https://github.com/mateusz-mowka/tboot_live_image>
 
-## PROGRAMMING LANGUAGE
-
-### C/C++
-[C++知识回顾之`__stdcall`和`__cdecl`和`__fastcall`三者的区别](https://www.cnblogs.com/yejianyong/p/7506465.html): C calling convention
-
-[C的隐式类型转换](https://www.veaxen.com/c的隐式类型转换.html)
-
-[C语言32个关键字-最详解释                      ](https://blog.csdn.net/qq_38972634/article/details/108398953)
-
-[open-source formatting library providing a fast and safe alternative to C stdio and C++ iostreams](https://fmt.dev)
+## MARKUP LANGUAGE
 
 ### MARKDOWN
 [Markdown 官方教程](https://markdown.com.cn)
