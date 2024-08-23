@@ -166,6 +166,9 @@ os.path里面是否已经存在自动转换路径的函数？可否将这个方�
 48. <https://docs.python.org/3/library/codecs.html#standard-encodings>
 49. <https://docs.python.org/3/library/gzip.html>
 50. <https://docs.python.org/3/library/pprint.html>
+51. <https://docs.python.org/3/library/http.html>
+52. <https://docs.python.org/3/library/http.server.html>
+53. <https://docs.python.org/3/library/datetime.html>: today()
 
 ### Github Python Repository
 1. <https://github.com/python/cpython/blob/main/Lib/os.py>
