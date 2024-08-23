@@ -119,6 +119,8 @@ Compatible Issue: Latest need be compatible with old version, Client need be com
 
 [红外遥控接收发射原理](https://zhuanlan.zhihu.com/p/314987528)
 
+[FREE VGA](http://www.osdever.net/FreeVGA/home.htm)
+
 <https://www.nordicsemi.com>
 
 ### BATTERY
@@ -251,6 +253,8 @@ ipmitool chassis bootparam get 5
 [C语言教你怎么改变字体颜色](https://blog.csdn.net/qq_31975227/article/details/51758461): dropped by windows
 
 <https://reproducible-builds.org>: <https://github.com/jasonwhite/ducible>
+
+[PE Format](https://learn.microsoft.com/en-us/windows/win32/debug/pe-format)
 
 ### OS LOADER
 
@@ -449,7 +453,8 @@ software:
 <https://github.com/git>,
 <https://github.com/vim>,
 <https://github.com/universal-ctags>,
-<https://github.com/wireshark>
+<https://github.com/wireshark>,
+<https://github.com/rhysd/vim.wasm>
 
 <https://github.com/oracle/opengrok>
 
