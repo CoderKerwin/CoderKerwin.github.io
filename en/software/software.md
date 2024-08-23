@@ -270,10 +270,14 @@ Tianocore项目使用了github.io来做为文档展示，参考这个来构建gi
 
 ## REMOTE
 
+### RDP
 `mstsc` is command for connecting to remote machine. should enable remote feature in windows first
 
 `vncserver` is command for enabling deamon in server side
 
+<https://www.realvnc.com>
+
+### SSH
 `ssh` and `scp` are command that can be used between different system. should enable ssh-server in windows first. should install openssh-server in linux first.
 
 [win10 开启ssh server服务 远程登录](https://blog.csdn.net/weixin_43064185/article/details/90080815)
@@ -285,10 +289,9 @@ Tianocore项目使用了github.io来做为文档展示，参考这个来构建gi
 
 [保持ssh session在断开连接后保持运行的五种方法](https://blog.csdn.net/qq_34769162/article/details/107948168)
 
-[xvfb 初步探究](https://blog.csdn.net/span76/article/details/11473315)
+[xvfb初步探究](https://blog.csdn.net/span76/article/details/11473315)
 
-<https://www.openssh.com>,
-<https://www.realvnc.com>
+<https://www.openssh.com>
 
 <https://github.com/openssh/openssh-portable>,
 <https://github.com/PowerShell/openssh-portable>
@@ -298,24 +301,28 @@ ssh -p -l
 
 [warning: agent returned different signature type ssh-rsa (expected rsa-sha2-512) when key registered with ssh-agent](https://github.com/PowerShell/Win32-OpenSSH/issues/1551): 使用ssh -V发现笔记本是8x的ssh没有这个问题，台式机是7x的有问题。这个问题导致了不能免密码登录。可以用git里面的ssh，试过没有问题。
 
-<https://learn.microsoft.com/en-us/windows/console/classic-vs-vt>
-<https://learn.microsoft.com/en-us/windows/console/console-functions>
-<https://learn.microsoft.com/en-us/windows/console/console-virtual-terminal-sequences>, <http://vt100.net>, <http://invisible-island.net/xterm/ctlseqs/ctlseqs.html>
-<https://learn.microsoft.com/en-us/windows/console/ecosystem-roadmap>
-<https://learn.microsoft.com/en-us/windows/console/setconsoletextattribute>
+### [VT100](http://vt100.net)
+
+<https://invisible-island.net/xterm/ctlseqs/ctlseqs.html>
+
+LINUX VT100:
+<https://man7.org/linux/man-pages/man4/console_codes.4.html>
+
+WINDOWS VT100:
+<https://learn.microsoft.com/en-us/windows/console/classic-vs-vt>,
+<https://learn.microsoft.com/en-us/windows/console/console-functions>,
+<https://learn.microsoft.com/en-us/windows/console/console-virtual-terminal-sequences>,
+<https://learn.microsoft.com/en-us/windows/console/ecosystem-roadmap>,
+<https://learn.microsoft.com/en-us/windows/console/setconsoletextattribute>,
 <https://learn.microsoft.com/en-us/windows/console/using-the-high-level-input-and-output-functions>
 
-[VT100控制码说明](https://blog.csdn.net/fantian_/article/details/82256776),
-[SecureCRT 中的终端选择 VT100 VT102 VT200 Xterm linux Vshell 等都有什么区别啊？](https://zhidao.baidu.com/question/352524515.html),
-[什么是vt100？ -技术百科的定义](https://cn.theastrologypage.com/vt100),
-[Console Virtual Terminal Sequences](https://learn.microsoft.com/en-us/windows/console/console-virtual-terminal-sequences?redirectedfrom=MSDN)
+Some basic knowledge:
+[SecureCRT中的终端选择VT100 VT102 VT200 Xterm linux Vshell](https://zhidao.baidu.com/question/352524515.html),
+[什么是vt100？ -技术百科的定义](https://cn.theastrologypage.com/vt100)
 
-Linux对VT100支持较好，其中python在linux上print就可以使用，但windows则不可以。windows就type支持，但如果more来分行的则会被影响。It is bug in windows, have been fixed in WIN11.
-在powershell运行python时，print打印支持vt100,
-
-TeamViewer user profile can set which machine are login, free user can only login two machine
-
-<https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/tasklist>
+NOTEs:  
+Linux对VT100支持较好，其中python在linux上print就可以使用，但windows则不可以。  
+Windows对VT100支持不太好，但WIN11开始改进很多，其中使用`type`可以输出包含VT100编码的文本，但如果more来分行的则会被影响。 Powershell运行python时，print打印支持VT100，这个可以做为WIN10的WA。
 
 ### CREDENTIAL
 
@@ -354,6 +361,9 @@ TeamViewer user profile can set which machine are login, free user can only logi
 [最佳 Linux 远程桌面客户端 | Linux 中国](https://zhuanlan.zhihu.com/p/586858767)
 [Remmina](https://remmina.org)
 [Best RDP (Remote Desktop) Clients for Linux](https://www.tecmint.com/best-linux-rdp-remote-desktop-clients)
+
+### OTHER REMOTE SOLUTION
+1. TEAMVIEWER: TeamViewer user profile can set which machine are login, free user can only login two machine
 
 ## VERSIONCONTROL
 
@@ -416,6 +426,8 @@ windows设置里面，账户选项卡，账户信息里面，账户设置里选�
 <https://learn.microsoft.com/en-us/windows-hardware/drivers/devtest/certmgr>
 
 <https://docs.microsoft.com/en-us/windows-hardware/drivers/devtest/boot-options-in-windows>
+
+<https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/tasklist>
 
 ### LINUX
 
