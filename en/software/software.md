@@ -368,6 +368,7 @@ Windows对VT100支持不太好，但WIN11开始改进很多，其中使用`type`
 ## VERSIONCONTROL
 
 ### [GIT](https://git-scm.com)
+GIT官网的说明文档可能会比bending的落后
 
 [Send a collection of patches as emails](https://git-scm.com/docs/git-send-email)
 
