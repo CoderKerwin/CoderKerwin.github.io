@@ -6,7 +6,8 @@ repos: <https://pypi.org>
 support: windows/linux  
 uefi-python: <https://github.com/tianocore/edk2-libc/tree/master/AppPkg/Applications/Python/Python-3.6.8>
 
-Python is one of the most popular programming languages in use today. It has become the de-facto programming language for test automation, dev-ops, AI/ML and various other use cases
+Python is one of the most popular programming languages in use today.
+It has become the de-facto programming language for test automation, dev-ops, AI/ML and various other use cases
 
 ## install
 linux: `apt install python3`, `apt install python3-pip`  
@@ -17,36 +18,7 @@ linux: `python3`, `python3 -m pip`
 windows: `py -3`, `py -3 -m pip`
 
 ## data type
-
-int,
-float,
-str,
-tuple,
-list,
-dict,
-set,
-bytes,
-bytearray
-
-### classes
-
-- str()
- - copy
-- int()
-- float()
-- list()
- - index() for example `print('percent %d'.format(list).index(item)/len(list))` pay attention that it only show **first matched item** so make sure that there are **no same item** in list
-- dict()
- - items() will return tuple. you can not use dict() as list directly because it just mean keys(). can use list(dict()) and list(dict().items()) to know the difference
-- bytes()
- - copy_from_buffer
-- bytearray()
- - byte_arrary()
-
-- exit()
-- quit()
-
-- filter()
+[`int, float, str, tuple, list, dict, set, bytes, bytearray`](https://docs.python.org/3/library/stdtypes.html)
 
 ## Packages
 
@@ -119,10 +91,10 @@ os.path里面是否已经存在自动转换路径的函数？可否将这个方�
 1.  <https://docs.python.org/3/tutorial/errors.html>
 2.  <https://docs.python.org/3/reference/datamodel.html>
 3.  <https://docs.python.org/3/c-api/dict.html>
-4.  <https://docs.python.org/3/library/functions.html>: `range(), map(), reversed(), set(), enumerate(), all(), any(), sum(), super(), vars(), zip(), input(), iter(), next(), chr(), ord(), locals(), hex(), len(), help(), type(), open(), exec(), globals(), format(), sorted(), etc`
+4.  <https://docs.python.org/3/library/functions.html>: `range(), map(), reversed(), set(), enumerate(), all(), any(), sum(), super(), vars(), zip(), input(), iter(), next(), chr(), ord(), locals(), hex(), len(), help(), type(), open(), exec(), globals(), format(), sorted(), filter(), quit(), exit(), etc`
 5.  <https://docs.python.org/3/library/unittest.html>
 6.  <https://docs.python.org/3/library/os.html>: `path, sep, popen(), system(), unlink(), symlink(), getcwd()`
-7.  <https://docs.python.org/3/library/sys.html>: path, stdin, stdout
+7.  <https://docs.python.org/3/library/sys.html>: `path, stdin, stdout, argv`
 8.  <https://docs.python.org/3/library/platform.html>
 9.  <https://docs.python.org/3/library/netrc.html>
 10. <https://docs.python.org/3/library/getpass.html>
@@ -150,7 +122,7 @@ os.path里面是否已经存在自动转换路径的函数？可否将这个方�
 32. <https://docs.python.org/3/library/math.html>
 33. <https://docs.python.org/3/library/time.html>: ctime()
 34. <https://docs.python.org/3/library/random.html>: rand()
-35. <https://docs.python.org/3/library/re.html>: compile(), findall(), match()
+35. <https://docs.python.org/3/library/re.html>: `compile(), findall(), match()`
 36. <https://docs.python.org/3/library/difflib.html>
 37. <https://docs.python.org/3/library/hashlib.html>
 38. <https://docs.python.org/3/library/pathlib.html>
