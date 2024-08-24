@@ -1,5 +1,12 @@
 # science
 
+十三门类科学：语数外物化生天地政经法哲史
+其它门类：心里学
+
+实践类学科：计量学
+
+书籍：《地球大龟裂.唐春安》
+
 1. [公益学术平台](https://pubscholar.cn)
 
 2. [国际电联](https://www.itu.int), <https://www.ieee.org>, <https://www.jedec.org>, <https://www.iana.org>, <https://www.ietf.org>
