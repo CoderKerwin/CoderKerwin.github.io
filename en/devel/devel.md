@@ -9,16 +9,17 @@ Compatible Issue: Latest need be compatible with old version, Client need be com
 [数据结构与算法、计算机网络、操作系统、设计模式](https://blog.csdn.net/weixin_46698891/article/details/113814822)
 
 ## PROGRAMMING LANGUAGE
+<https://spectrum.ieee.org/top-programming-languages-2024>
 
-### C & C++
-
+### C
 1. [The GNU C Reference Manual](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html)
 2. [ISO/IEC 14882:2020](https://isocpp.org/std/the-standard)
 3. [ISO/IEC 9899:2018 ](https://www.open-std.org/jtc1/sc22/wg14/www/docs/n2310.pdf)
-4. [History of C](https://en.cppreference.com/w/c/language/history)
+
+### CPP
+1. [History of C](https://en.cppreference.com/w/c/language/history)
 
 #### Online Compiler
-
 1. <https://godbolt.org>
 
 #### References
@@ -26,6 +27,14 @@ Compatible Issue: Latest need be compatible with old version, Client need be com
 2. [C的隐式类型转换](https://www.veaxen.com/c的隐式类型转换.html)
 3. [C语言32个关键字-最详解释                      ](https://blog.csdn.net/qq_38972634/article/details/108398953)
 4. [open-source formatting library providing a fast and safe alternative to C stdio and C++ iostreams](https://fmt.dev)
+
+### RUST
+
+### SHELL
+
+### BATCH
+
+### POWERSHELL
 
 ## ARCHITECT
 
@@ -122,6 +131,40 @@ Compatible Issue: Latest need be compatible with old version, Client need be com
 [FREE VGA](http://www.osdever.net/FreeVGA/home.htm)
 
 <https://www.nordicsemi.com>
+
+[CPU片内总线的进化之路](https://zhuanlan.zhihu.com/p/32216294)
+
+### ACRONYM
+BOM      : Bill of Material  
+PCB      : Printed Circuit Board
+
+BSP      : Boot Strap Processor  
+SBSP     : System BSP  
+PBSP     : Platform BSP  
+NBSP     : Node BSP
+
+VP       : Virtual Platform  
+PSS      : Pre-Silicon System
+
+VM       : Virtual Machine  
+VPS      : Virtual Personal Server
+
+VPN      : Virtual Private Network
+
+BM       : Bare Metal
+
+CBMR     : Cloud Bare Metal Recovery
+
+LCC      : Low Core Count  
+MCC      : Middle Core Count  
+HCC      : High Core Count  
+UCC      : Ultra Core Count   (超级核心数)  
+XCC      : eXtreme Core Count (极限核心数)
+
+### TERMINOLOGY
+性能     : 单位时间计算能力，比如每秒百万指令  
+耗能     : 单位时间能耗，瓦特  
+效能     : 性能与耗能比值
 
 ### BATTERY
 
