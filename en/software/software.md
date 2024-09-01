@@ -268,6 +268,46 @@ Tianocore项目使用了github.io来做为文档展示，参考这个来构建gi
 [谁才是世界上最好的 CI/CD 工具？](https://zhuanlan.zhihu.com/p/67805669)
 [Azure DevOps](https://azure.microsoft.com/en-us/products/devops)
 
+## NETWORK
+
+### VPS
+<https://www.vpstop.cn>
+
+### FRP
+<https://github.com/fatedier/frp/releases>
+
+### OPENVPN
+<https://ubuntu.com/server/docs/how-to-install-and-use-openvpn>,
+<https://documentation.ubuntu.com/server/how-to/security/install-openvpn>,
+<https://github.com/openvpn>,
+<https://openvpn.net/community>,
+<https://www.doncaprio.com/how-to-create-a-personal-vpn-openvpn-on-your-vps>,
+[OpenVPN配置代理路由实现局部代理](https://www.luisimon.com/2020/04/25/318),
+[手把手教你搭建OpenVPN](https://blog.admin4j.com/linux/vpn),
+[openvpn配置实现服务器代理上网](https://blog.csdn.net/java_linux_dev/article/details/135879838),
+[搭建OpenVpn实现服务器代理上网](https://blog.csdn.net/weixin_44105868/article/details/139463173)
+
+**tap、tun、虚拟网卡、网桥**:
+[重拾 Linux 网络（一）：iptables                                    ](https://pandaychen.github.io/2023/08/01/A-IPTABLES-REVIEW),
+[重拾 Linux 网络（二）：网卡 / 虚拟网卡、tap/tun 那些事](https://pandaychen.github.io/2023/08/02/NETWORK-REVIEW),
+
+### DNS
+Command: `nslookup, dig`:
+
+[Debian上使用Dnsmasq设置本地DNS](https://cn.linux-console.net/?p=30658),
+[Debian修改DNS服务器](https://www.cnblogs.com/edgecode/p/Debian11-Change-DNS-Server.html)
+
+### X11
+X11 GUI: Putty + Xming
+
+[error: X11 forwarding request failed on channel 0](https://linux.cn/article-4014-1.html)
+
+<https://serverfault.com/questions/422908/how-can-i-prevent-the-warning-no-xauth-data-using-fake-authentication-data-for>,
+<https://askubuntu.com/questions/1040108/ssh-uses-fake-authentication-for-x11-forwarding>,
+
+<https://x410.dev>,
+<https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html>
+
 ## REMOTE
 
 ### RDP
@@ -431,6 +471,12 @@ windows设置里面，账户选项卡，账户信息里面，账户设置里选�
 <https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/tasklist>
 
 ### LINUX
+<https://www.debian.org/distrib/packages>,
+<https://packages.debian.org/bookworm/easy-rsa>,
+<https://packages.ubuntu.com>,
+<https://centos.org>,
+<https://www.suse.com>,
+<https://www.redhat.com>
 
 [Linux文件系统详解](http://c.biancheng.net/view/880.html)
 
