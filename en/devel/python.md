@@ -111,7 +111,7 @@ os.path里面是否已经存在自动转换路径的函数？可否将这个方�
 21. <https://docs.python.org/3/library/html.html>
 22. <https://docs.python.org/3/library/string.html>: asciis string constants and format string syntax
 23. <https://docs.python.org/3/library/stdtypes.html>: str.format(), bytes.decode(), dict.update()
-24. <https://docs.python.org/3/library/ctypes.html>: from_buffer
+24. <https://docs.python.org/3/library/ctypes.html>: `from_buffer, from_buffer_copy`
 25. <https://docs.python.org/3/library/struct.html>: pack
 26. <https://docs.python.org/3/library/subprocess.html>: run()
 27. <https://docs.python.org/3/library/threading.html>
@@ -120,7 +120,7 @@ os.path里面是否已经存在自动转换路径的函数？可否将这个方�
 30. <https://docs.python.org/3/library/argparse.html>: ArgumentParser(), add_argument()
 31. <https://docs.python.org/3/library/uuid.html>
 32. <https://docs.python.org/3/library/math.html>
-33. <https://docs.python.org/3/library/time.html>: ctime()
+33. <https://docs.python.org/3/library/time.html>: `ctime(), _pack_`
 34. <https://docs.python.org/3/library/random.html>: rand()
 35. <https://docs.python.org/3/library/re.html>: `compile(), findall(), match()`
 36. <https://docs.python.org/3/library/difflib.html>
@@ -141,12 +141,17 @@ os.path里面是否已经存在自动转换路径的函数？可否将这个方�
 51. <https://docs.python.org/3/library/http.html>
 52. <https://docs.python.org/3/library/http.server.html>
 53. <https://docs.python.org/3/library/datetime.html>: today()
+54. <https://docs.python.org/3/library/calendar.html>
+
 
 ### Github Python Repository
 1. <https://github.com/python/cpython/blob/main/Lib/os.py>
 2. <https://github.com/python/cpython/blob/main/Modules/posixmodule.c>
 
 ### Python Package Index
+
+#### Remote
+1. <https://pypi.org/project/pyserial>, <https://pythonhosted.org/pyserial/shortintro.html>
 
 #### Environment
 1. <https://pypi.org/project/jupyterlab>, <https://jupyter.org>, <https://docs.jupyter.org>
