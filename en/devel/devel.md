@@ -299,6 +299,11 @@ ipmitool chassis bootparam get 5
 
 [PE Format](https://learn.microsoft.com/en-us/windows/win32/debug/pe-format)
 
+[The RSDS pdb format](http://www.godevtool.com/Other/pdb.htm),
+[The PDB File Format](https://llvm.org/docs/PDB/index.html),
+[RSDS pdb格式](https://www.cnblogs.com/yilang/p/11962914.html),
+[PDB符号文件详解](https://www.jianshu.com/p/7ad20a047bb4)
+
 ### OS LOADER
 
 [shim启动流程分析](https://zhuanlan.zhihu.com/p/436456032),
