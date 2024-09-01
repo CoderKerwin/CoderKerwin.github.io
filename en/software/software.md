@@ -269,12 +269,23 @@ Tianocore项目使用了github.io来做为文档展示，参考这个来构建gi
 [Azure DevOps](https://azure.microsoft.com/en-us/products/devops)
 
 ## NETWORK
+`systemctl status networking`, `/etc/systemd/system/network*`, `/lib/systemd/system/network*`, `/sbin/ifup`, `/etc/network/if-up.d`, `/etc/network/interfaces`
+
+`/lib/systemd/system/networking.service`会调用`ifup`，`ifup`会调用`/etc/network/if-up.d/wpasupplicant`，但因为`/etc/network/interfaces`里面没有wpa相关配置，所以wpasupplicant只跑了`start()`就退出了。  
+`networking.service`在`wpa_supplicant.service`之前运行，所以networking由于wpa为准备好无法正常配置dhcp。  
+当前暂时改了`/etc/network/interfaces`与`wpasupplicant`两个文件解决debian无法配置开机自动配置wifi问题。
+
+`/sbin/init`是指向`/sbin/systemd`的软链接
 
 ### VPS
 <https://www.vpstop.cn>
 
 ### FRP
+[frp内网穿透](https://itlanyan.com/frp-tunnel-tutorial)
 <https://github.com/fatedier/frp/releases>
+
+### PROXY
+[Linux配置成代理服务器](https://www.cnblogs.com/caopeng/p/17909476.html)
 
 ### OPENVPN
 <https://ubuntu.com/server/docs/how-to-install-and-use-openvpn>,
@@ -498,15 +509,6 @@ windows设置里面，账户选项卡，账户信息里面，账户设置里选�
 [如何编写一个systemd service](https://segmentfault.com/a/1190000014740871): <https://systemd.io>, <https://github.com/systemd/systemd>, <https://www.freedesktop.org/wiki/Software/systemd>, <https://packages.debian.org/bookworm/systemd-sysv>
 
 [Linux内核为什么会发生soft lockup？](https://blog.csdn.net/21cnbao/article/details/108250786)
-
-#### NETWORKING
-`systemctl status networking`, `/etc/systemd/system/network*`, `/lib/systemd/system/network*`, `/sbin/ifup`, `/etc/network/if-up.d`, `/etc/network/interfaces`
-
-`/lib/systemd/system/networking.service`会调用`ifup`，`ifup`会调用`/etc/network/if-up.d/wpasupplicant`，但因为`/etc/network/interfaces`里面没有wpa相关配置，所以wpasupplicant只跑了`start()`就退出了。  
-`networking.service`在`wpa_supplicant.service`之前运行，所以networking由于wpa为准备好无法正常配置dhcp。  
-当前暂时改了`/etc/network/interfaces`与`wpasupplicant`两个文件解决debian无法配置开机自动配置wifi问题。
-
-`/sbin/init`是指向`/sbin/systemd`的软链接
 
 ## BUGTRACKER
 
