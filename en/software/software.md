@@ -481,7 +481,22 @@ windows设置里面，账户选项卡，账户信息里面，账户设置里选�
 
 <https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/tasklist>
 
+#### Native Command Line
+| Name                                                                                                    | Description                                      |
+|---------------------------------------------------------------------------------------------------------|--------------------------------------------------|
+| [`type`](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/type)         | Display contents of file, similar as linux `cat` |
+| [`msinfo32`](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/msinfo32) | Comprehensive view of the hardware               |
+| [`msconfig`](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands)          | Change the boot option                           |
+| [`bootsect`](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands)          | NA                                               |
+| [`bcdedit`](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/bcdedit)   | Managing BCD store                               |
+| [`bootcfg`](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/bootcfg)   | Change Boot.ini                                  |
+| [`cd`](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/cd)             | Change directory                                 |
+| [`dir`](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/dir)           | Displays a list of a files and subdirectories    |
+| [`whoami`](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/whoami)     | Display user name                                |
+| [`hostname`](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/hostname) | Display host name                                |
+
 ### LINUX
+
 <https://www.debian.org/distrib/packages>,
 <https://packages.debian.org/bookworm/easy-rsa>,
 <https://packages.ubuntu.com>,
@@ -509,6 +524,19 @@ windows设置里面，账户选项卡，账户信息里面，账户设置里选�
 [如何编写一个systemd service](https://segmentfault.com/a/1190000014740871): <https://systemd.io>, <https://github.com/systemd/systemd>, <https://www.freedesktop.org/wiki/Software/systemd>, <https://packages.debian.org/bookworm/systemd-sysv>
 
 [Linux内核为什么会发生soft lockup？](https://blog.csdn.net/21cnbao/article/details/108250786)
+
+#### Native Command Line
+| Name                                                      | Description                                         |
+|-----------------------------------------------------------|-----------------------------------------------------|
+| [`cat`](https://packages.debian.org/buster/coreutils)     | Display contents of file, similar as windows `type` |
+| [`dir`](https://packages.debian.org/buster/coreutils)     | Displays a list of a files and subdirectories       |
+| [`ls`](https://packages.debian.org/buster/coreutils)      | Displays a list of a files and subdirectories       |
+| [`whoami`](https://packages.debian.org/buster/coreutils)  | Display user name                                   |
+| [`hostname`](https://packages.debian.org/buster/hostname) | Display host name                                   |
+| [`sh`](https://packages.debian.org/buster/dash)           | compatible with posix shell                         |
+| [`bash`](https://packages.debian.org/buster/bash)         | shell interpreter                                   |
+| [`type`](https://packages.debian.org/buster/dash)         | interpretion as a commnd name, shell builtin        |
+| [`cd`](https://packages.debian.org/buster/dash)           | Change directory, shell builtin                     |
 
 ## BUGTRACKER
 
