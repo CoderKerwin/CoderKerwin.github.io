@@ -139,6 +139,9 @@
 
 ## 拓扑
 
+## 证明
+证明主要是依靠对定义与性质的掌握。主要有反证法，数学归纳法，三段论
+
 ## 参考
 1. [数学研发网](https://emath.ac.cn)：幻方
 2. [汇心几何学](https://bbs.emath.ac.cn/forum.php?tid=18164&mod=viewthread)
