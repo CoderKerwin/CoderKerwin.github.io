@@ -134,6 +134,12 @@ Compatible Issue: Latest need be compatible with old version, Client need be com
 
 [CPU片内总线的进化之路](https://zhuanlan.zhihu.com/p/32216294)
 
+[五大免费开源NAS操作系统](https://www.jianshu.com/p/54041425b4fe),
+[常见开源NAS 操作系统以及简单的安装体验](https://post.smzdm.com/p/az6q9ze0),
+[家庭NAS](https://sspai.com/post/88810),
+[What is NAS](https://www.techtarget.com/searchstorage/definition/network-attached-storage),
+[NAS选型与搭建过程](https://jysperm.me/2020/11/my-opensource-nas-build)
+
 ### ACRONYM
 BOM      : Bill of Material  
 PCB      : Printed Circuit Board
