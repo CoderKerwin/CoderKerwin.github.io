@@ -32,3 +32,10 @@
 18. [巨潮资讯网](http://www.cninfo.com.cn)
 
 19. [中国注册会计师协会](https://www.cicpa.org.cn)
+
+20. [2024年注册会计师全国统一考试报名简章](https://www.cicpa.org.cn/xxfb/tzgg/202403/t20240301_64710.html)
+21. [2024年cpa考试时间及科目安排表](https://www.gaodun.com/cpa/1446693.html)
+22. [注册会计师考试教材](http://www.canet.com.cn/zhukuai/zhinan/kaoshijiaocai.html)
+23. [2024年注会cpa教材pdf百度网盘下载](https://www.yulukc.com/?p=1657)
+
+24. 工商管理硕士
