@@ -12,6 +12,13 @@
 
 <https://github.com/shiftrot/droidvim>
 
+<https://github.com/rhysd/vim.wasm>,
+<https://neovim.discourse.group/t/run-neovim-in-browser-via-wasm/3997>,
+<https://neovim.discourse.group/t/compile-to-webassembly/2736>,
+<https://nvim.nry.app>
+
+不能通过`@*`方式向ssh的vim传递剪切板，只能通过右键或Ctrl_V方式传递，相当于一个个字符输入
+
 ### VSCODE
 
 [Bundling Extensions](https://code.visualstudio.com/api/working-with-extensions/bundling-extension)
@@ -277,12 +284,17 @@ Tianocore项目使用了github.io来做为文档展示，参考这个来构建gi
 
 `/sbin/init`是指向`/sbin/systemd`的软链接
 
+### IPTABLES
+<https://packages.debian.org/buster/iptables>,
+<https://www.netfilter.org>,
+<https://www.frozentux.net/iptables-tutorial/iptables-tutorial.html>
+
 ### VPS
 <https://www.vpstop.cn>
 
 ### FRP
-[frp内网穿透](https://itlanyan.com/frp-tunnel-tutorial)
-<https://github.com/fatedier/frp/releases>
+[frp内网穿透](https://itlanyan.com/frp-tunnel-tutorial),
+<https://github.com/fatedier/frp/releases>,
 
 ### PROXY
 [Linux配置成代理服务器](https://www.cnblogs.com/caopeng/p/17909476.html)
