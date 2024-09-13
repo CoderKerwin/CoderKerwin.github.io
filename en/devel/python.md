@@ -73,14 +73,6 @@ python -m pip config set global.extra-index-url "<url1> <url2>..."
 python -m pip --proxy {proxy_server} install {module}
 ```
 
-``os.path.sep.join('/'.join(r'\a/b/c\d\e\f'.split(r'\')).split('/'))``可用于将windows与linux混合路径转化为系统特定路径  
-``r'\a/b/c\d\e\f'.split(r'\')``转换字符串为列表['','a/b/c','d','e','f']  
-``'/'.join(r'\a/b/c\d\e\f'.split(r'\'))``转换列表为字符串'/a/b/c/d/e/f'  
-``'/'.join(r'\a/b/c\d\e\f'.split(r'\')).split('/')``再次转换字符串为列表['','a','b','c','d','e','f']  
-``'->'.join('/'.join(r'\a/b/c\d\e\f'.split(r'\')).split('/'))``转换字符串为'->a->b->c->d->e->f'  
-``os.path.sep``是特定系统的分隔符  
-os.path里面是否已经存在自动转换路径的函数？可否将这个方法加到os.path里面？
-
 ## References
 
 ### Mirror
@@ -91,64 +83,65 @@ os.path里面是否已经存在自动转换路径的函数？可否将这个方�
 1.  <https://docs.python.org/3/tutorial/errors.html>
 2.  <https://docs.python.org/3/reference/datamodel.html>
 3.  <https://docs.python.org/3/c-api/dict.html>
-4.  <https://docs.python.org/3/library/functions.html>: `range(), map(), reversed(), set(), enumerate(), all(), any(), sum(), super(), vars(), zip(), input(), iter(), next(), chr(), ord(), locals(), hex(), len(), help(), type(), open(), exec(), globals(), format(), sorted(), filter(), quit(), exit(), etc`
-5.  <https://docs.python.org/3/library/unittest.html>
-6.  <https://docs.python.org/3/library/os.html>: `path, sep, popen(), system(), unlink(), symlink(), getcwd()`
-7.  <https://docs.python.org/3/library/sys.html>: `path, stdin, stdout, argv`
-8.  <https://docs.python.org/3/library/platform.html>
-9.  <https://docs.python.org/3/library/netrc.html>
-10. <https://docs.python.org/3/library/getpass.html>
-11. <https://docs.python.org/3/library/urllib.html>: request, urlopen(), Request()
-12. <https://docs.python.org/3/library/itertools.html>
-13. <https://docs.python.org/3/library/sched.html>
-14. <https://docs.python.org/3/library/timeit.html>
-15. <https://docs.python.org/3/library/asyncio.html>
-16. <https://docs.python.org/3/library/email.html>
-17. <https://docs.python.org/3/library/smtplib.html>
-18. <https://docs.python.org/3/library/smtpd.html>
-19. <https://docs.python.org/3/library/poplib.html>
-20. <https://docs.python.org/3/library/imaplib.html>
-21. <https://docs.python.org/3/library/nntplib.html>
-22. <https://docs.python.org/3/library/mailbox.html>
-23. <https://docs.python.org/3/library/xml.html>
-24. <https://docs.python.org/3/library/filecmp.html>
-25. <https://docs.python.org/3/library/collections.html>
-26. <https://docs.python.org/3/library/pickle.html>
-27. <https://docs.python.org/3/library/html.html>
-28. <https://docs.python.org/3/library/string.html>: asciis string constants and format string syntax
-29. <https://docs.python.org/3/library/stdtypes.html>: str.format(), bytes.decode(), dict.update()
-30. <https://docs.python.org/3/library/ctypes.html>: `from_buffer, from_buffer_copy`
-31. <https://docs.python.org/3/library/struct.html>: pack
-32. <https://docs.python.org/3/library/subprocess.html>: run()
-33. <https://docs.python.org/3/library/threading.html>
-34. <https://docs.python.org/3/library/csv.html>: fileld_size_limit(), DictWriter()
-35. <https://docs.python.org/3/library/shutil.html>: copyfile(), copy2()
-36. <https://docs.python.org/3/library/argparse.html>: ArgumentParser(), add_argument()
-37. <https://docs.python.org/3/library/uuid.html>
-38. <https://docs.python.org/3/library/math.html>
-39. <https://docs.python.org/3/library/time.html>: `ctime(), _pack_`
-40. <https://docs.python.org/3/library/random.html>: rand()
-41. <https://docs.python.org/3/library/re.html>: `compile(), findall(), match()`
-42. <https://docs.python.org/3/library/difflib.html>
-43. <https://docs.python.org/3/library/hashlib.html>
-44. <https://docs.python.org/3/library/pathlib.html>
-45. <https://docs.python.org/3/library/turtle.html>
-46. <https://docs.python.org/3/library/tkinter.html>
-47. <https://docs.python.org/3/library/binascii.html>
-48. <https://docs.python.org/3/library/json.html>: <http://json.org>
-49. <https://docs.python.org/3/library/socket.html>
-50. <https://docs.python.org/3/library/ipaddress.html>
-51. <https://docs.python.org/3/library/traceback.html>: print_exc()
-52. <https://docs.python.org/3/library/importlib.html>: metadata, import_mode(), reload()
-53. <https://docs.python.org/3/library/glob.html>
-54. <https://docs.python.org/3/library/codecs.html#standard-encodings>
-55. <https://docs.python.org/3/library/gzip.html>
-56. <https://docs.python.org/3/library/pprint.html>
-57. <https://docs.python.org/3/library/http.html>
-58. <https://docs.python.org/3/library/http.server.html>
-59. <https://docs.python.org/3/library/datetime.html>: today()
-60. <https://docs.python.org/3/library/calendar.html>
-61. <https://docs.python.org/3/library/logging.html>
+4.  <https://docs.python.org/3/library>
+5.  <https://docs.python.org/3/library/functions.html>: `range(), map(), reversed(), set(), enumerate(), all(), any(), sum(), super(), vars(), zip(), input(), iter(), next(), chr(), ord(), locals(), hex(), len(), help(), type(), open(), exec(), globals(), format(), sorted(), filter(), quit(), exit(), etc`
+6.  <https://docs.python.org/3/library/unittest.html>
+7.  <https://docs.python.org/3/library/os.html>: `path, sep, popen(), system(), unlink(), symlink(), getcwd()`
+8.  <https://docs.python.org/3/library/sys.html>: `path, stdin, stdout, argv`
+9.  <https://docs.python.org/3/library/platform.html>
+10.  <https://docs.python.org/3/library/netrc.html>
+11. <https://docs.python.org/3/library/getpass.html>
+12. <https://docs.python.org/3/library/urllib.html>: request, urlopen(), Request()
+13. <https://docs.python.org/3/library/itertools.html>
+14. <https://docs.python.org/3/library/sched.html>
+15. <https://docs.python.org/3/library/timeit.html>
+16. <https://docs.python.org/3/library/asyncio.html>
+17. <https://docs.python.org/3/library/email.html>
+18. <https://docs.python.org/3/library/smtplib.html>
+19. <https://docs.python.org/3/library/smtpd.html>
+20. <https://docs.python.org/3/library/poplib.html>
+21. <https://docs.python.org/3/library/imaplib.html>
+22. <https://docs.python.org/3/library/nntplib.html>
+23. <https://docs.python.org/3/library/mailbox.html>
+24. <https://docs.python.org/3/library/xml.html>
+25. <https://docs.python.org/3/library/filecmp.html>
+26. <https://docs.python.org/3/library/collections.html>
+27. <https://docs.python.org/3/library/pickle.html>
+28. <https://docs.python.org/3/library/html.html>
+29. <https://docs.python.org/3/library/string.html>: asciis string constants and format string syntax
+30. <https://docs.python.org/3/library/stdtypes.html>: str.format(), bytes.decode(), dict.update()
+31. <https://docs.python.org/3/library/ctypes.html>: `from_buffer, from_buffer_copy`
+32. <https://docs.python.org/3/library/struct.html>: pack
+33. <https://docs.python.org/3/library/subprocess.html>: run()
+34. <https://docs.python.org/3/library/threading.html>
+35. <https://docs.python.org/3/library/csv.html>: fileld_size_limit(), DictWriter()
+36. <https://docs.python.org/3/library/shutil.html>: copyfile(), copy2()
+37. <https://docs.python.org/3/library/argparse.html>: ArgumentParser(), add_argument()
+38. <https://docs.python.org/3/library/uuid.html>
+39. <https://docs.python.org/3/library/math.html>
+40. <https://docs.python.org/3/library/time.html>: `ctime(), _pack_`
+41. <https://docs.python.org/3/library/random.html>: rand()
+42. <https://docs.python.org/3/library/re.html>: `compile(), findall(), match()`
+43. <https://docs.python.org/3/library/difflib.html>
+44. <https://docs.python.org/3/library/hashlib.html>
+45. <https://docs.python.org/3/library/pathlib.html>
+46. <https://docs.python.org/3/library/turtle.html>
+47. <https://docs.python.org/3/library/tkinter.html>
+48. <https://docs.python.org/3/library/binascii.html>
+49. <https://docs.python.org/3/library/json.html>: <http://json.org>
+50. <https://docs.python.org/3/library/socket.html>
+51. <https://docs.python.org/3/library/ipaddress.html>
+52. <https://docs.python.org/3/library/traceback.html>: print_exc()
+53. <https://docs.python.org/3/library/importlib.html>: metadata, import_mode(), reload()
+54. <https://docs.python.org/3/library/glob.html>
+55. <https://docs.python.org/3/library/codecs.html#standard-encodings>
+56. <https://docs.python.org/3/library/gzip.html>
+57. <https://docs.python.org/3/library/pprint.html>
+58. <https://docs.python.org/3/library/http.html>
+59. <https://docs.python.org/3/library/http.server.html>
+60. <https://docs.python.org/3/library/datetime.html>: today()
+61. <https://docs.python.org/3/library/calendar.html>
+62. <https://docs.python.org/3/library/logging.html>
 
 ### Github Python Repository
 1. <https://github.com/python/cpython/blob/main/Lib/os.py>
@@ -268,3 +261,6 @@ os.path里面是否已经存在自动转换路径的函数？可否将这个方�
 12. [Working with Excel Files in Python](https://www.python-excel.org): [openpyxl](https://openpyxl.readthedocs.io/en/stable/tutorial.html)
 
 13. [Jupyter渲染网页的3种方式](https://www.cnblogs.com/chenqionghe/p/12373387.html)
+
+14. <https://www.pythonrequests.com/python-requests-unable-to-get-local-issuer-certificate>
+15. <https://plainenglish.io/blog/python-simple-http-server-with-ssl-certificate-encrypted-traffic-73ffd491a876>
