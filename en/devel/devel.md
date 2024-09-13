@@ -106,7 +106,9 @@ Compatible Issue: Latest need be compatible with old version, Client need be com
 ### RISCV
 
 [RISC-V](https://riscv.org),
-<https://github.com/riscv/riscv-isa-manual>
+<https://riscv.org/technical/specifications>,
+<https://github.com/riscv/riscv-isa-manual>,
+<https://github.com/riscv-non-isa/riscv-asm-manual>
 
 ## HARDWARE
 
