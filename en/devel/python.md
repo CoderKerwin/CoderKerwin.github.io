@@ -218,6 +218,7 @@ python -m pip --proxy {proxy_server} install {module}
 22. [如何使用python发送一条短信                                           ](https://blog.csdn.net/qq_41501331/article/details/106365515)
 23. [python 发送邮件/正文插入表格                                         ](https://blog.csdn.net/qq_34864753/article/details/120769126)
 24. [使用Python与Sharepoint进行交互                                       ](https://blog.csdn.net/mzl87/article/details/107325321): <https://shareplum.readthedocs.io/en/latest>
+25. [OpenCV最详细入门（一）                                               ](https://blog.csdn.net/WUHU648/article/details/118491096)
 
 ### ZHIHU
 1. [tkinter学习教程（一）                          ](https://zhuanlan.zhihu.com/p/143478496)
