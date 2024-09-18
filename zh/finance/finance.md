@@ -38,4 +38,6 @@
 22. [注册会计师考试教材](http://www.canet.com.cn/zhukuai/zhinan/kaoshijiaocai.html)
 23. [2024年注会cpa教材pdf百度网盘下载](https://www.yulukc.com/?p=1657)
 
-24. 工商管理硕士
+24. [竞品分析报告 | 高德地图 vs 百度地图 vs 腾讯地图](https://www.woshipm.com/evaluating/3867852.html)
+
+25. 工商管理硕士
