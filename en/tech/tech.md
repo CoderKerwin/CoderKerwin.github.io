@@ -54,3 +54,5 @@
 29. [libcrypto.so.1.1依赖问题](https://blog.csdn.net/m0_58530510/article/details/130442081): 软连接要使用绝对路径
 
 30. [中关村在线服务器](https://detail.zol.com.cn/server)
+
+31. [自驾游导航神器](https://post.smzdm.com/p/ar6rz5ng)
