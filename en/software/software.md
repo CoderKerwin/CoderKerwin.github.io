@@ -489,9 +489,11 @@ windows设置里面，账户选项卡，账户信息里面，账户设置里选�
 <https://learn.microsoft.com/en-us/windows-hardware/drivers/devtest/pnputil-examples>
 <https://learn.microsoft.com/en-us/windows-hardware/drivers/devtest/certmgr>
 
-<https://docs.microsoft.com/en-us/windows-hardware/drivers/devtest/boot-options-in-windows>
-
 <https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/tasklist>
+
+<https://learn.microsoft.com/zh-cn/sysinternals/downloads/bginfo>
+
+<https://docs.microsoft.com/en-us/windows-hardware/drivers/devtest/boot-options-in-windows>
 
 #### Native Command Line
 | Name                                                                                                    | Description                                      |
