@@ -606,6 +606,8 @@ windows设置里面，账户选项卡，账户信息里面，账户设置里选�
 
 `rpm, yum, dpkg, apt, npm, pip`
 
+<https://guozh.net/google-play-apk-download>, <apkcombo.com>, <apkpure.com>
+
 ## FINANCE
 
 ### Gnucash
