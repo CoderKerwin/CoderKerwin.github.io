@@ -40,4 +40,9 @@
 
 24. [竞品分析报告 | 高德地图 vs 百度地图 vs 腾讯地图](https://www.woshipm.com/evaluating/3867852.html)
 
-25. 工商管理硕士
+25. [初学者怎么买USDT               ](https://www.120btc.com/baike/coin/323067088.html)
+26. [欧易（OKX）身份认证全流程指南  ](https://wealthwindvane.com/欧易（okx）身份认证全流程指南)
+27. [欧易（OKX）实名认证相关问题解答](https://www.120btc.com/baike/pingtai/239039899.html)
+28. [在中国大陆如何下载欧易App      ](https://www.qukuai520.com/html/485)
+
+29. 工商管理硕士
