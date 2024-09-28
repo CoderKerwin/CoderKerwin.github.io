@@ -290,6 +290,8 @@ Tianocore项目使用了github.io来做为文档展示，参考这个来构建gi
 <https://www.netfilter.org>,
 <https://www.frozentux.net/iptables-tutorial/iptables-tutorial.html>
 
+[Windows配置双网卡多网卡路由表](https://www.cnblogs.com/Chary/p/13957475.html)
+
 ### VPS
 <https://www.vpstop.cn>
 
@@ -662,6 +664,8 @@ windows设置里面，账户选项卡，账户信息里面，账户设置里选�
 [KVM XEN](https://ww.cnblogs.com/qinlulu/p/13204849.html),
 [QEMU vs KVM](https://www.linuxmi.com/qemu-vs-kvm.html)
 
+[linux下挂载VHD等虚拟磁盘文件](https://www.cnblogs.com/oloroso/p/6385398.html)
+
 ### [QEMU](https://www.qemu.org)
 Docs:
 [usb   ](https://www.qemu.org/docs/master/system/devices/usb.html),
@@ -704,3 +708,6 @@ Refs:
 
 <https://developers.weixin.qq.com/miniprogram/dev>,
 <https://developers.weixin.qq.com/community/develop>
+
+## COMPRESS
+[Linux下常用压缩解压命令和压缩比率对比](https://blog.csdn.net/buknow/article/details/115053065)
