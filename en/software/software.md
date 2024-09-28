@@ -47,7 +47,8 @@ find nvim-linux64 -name nvim
 [OPENGROK](https://opengrok.github.io)
 
 ### CODE-SERVER
-[CODE-SERVER](https://github.com/coder/code-server)
+[CODE-SERVER](https://github.com/coder/code-server):
+<https://github.com/coder/coder/releases>
 
 ### CSCOPE
 [CSCOPE](https://github.com/yifengyou/cscope)
@@ -364,6 +365,11 @@ ssh -p -l
 
 [warning: agent returned different signature type ssh-rsa (expected rsa-sha2-512) when key registered with ssh-agent](https://github.com/PowerShell/Win32-OpenSSH/issues/1551): 使用ssh -V发现笔记本是8x的ssh没有这个问题，台式机是7x的有问题。这个问题导致了不能免密码登录。可以用git里面的ssh，试过没有问题。
 
+<https://www.baeldung.com/linux/ssh-authentication-methods>,
+<https://www.ssh.com/academy/ssh/host-key>,
+<https://www.ruanyifeng.com/blog/2020/07/ssh-certificate.html>,
+<https://unix.stackexchange.com/questions/102502/meaning-of-connection-closed-by-xxx-preauth-in-sshd-logs>
+
 ### [VT100](http://vt100.net)
 
 <https://invisible-island.net/xterm/ctlseqs/ctlseqs.html>
@@ -495,6 +501,9 @@ windows设置里面，账户选项卡，账户信息里面，账户设置里选�
 
 <https://docs.microsoft.com/en-us/windows-hardware/drivers/devtest/boot-options-in-windows>
 
+<https://developer.microsoft.com/en-us/graph/quick-start>,
+<https://learn.microsoft.com/en-us/graph/overview>
+
 #### Native Command Line
 | Name                                                                                                    | Description                                      |
 |---------------------------------------------------------------------------------------------------------|--------------------------------------------------|
@@ -538,6 +547,8 @@ windows设置里面，账户选项卡，账户信息里面，账户设置里选�
 [如何编写一个systemd service](https://segmentfault.com/a/1190000014740871): <https://systemd.io>, <https://github.com/systemd/systemd>, <https://www.freedesktop.org/wiki/Software/systemd>, <https://packages.debian.org/bookworm/systemd-sysv>
 
 [Linux内核为什么会发生soft lockup？](https://blog.csdn.net/21cnbao/article/details/108250786)
+
+<https://cdimage.debian.org/cdimage/cloud/sid/daily>, <https://cdimage.ubuntu.com/releases>
 
 #### Native Command Line
 | Name                                                      | Description                                         |
@@ -597,6 +608,11 @@ windows设置里面，账户选项卡，账户信息里面，账户设置里选�
 
 1. [Authy](https://mobile.softpedia.com/apk/authy)
 2. <https://keepass.info>, <https://github.com/PhilippC/keepass2android/releases>
+3. [Kerberos安装教程与命令详解](https://zcs2312.blog.csdn.net/article/details/135245018)
+4. [Kerberos中常用命令](https://blog.csdn.net/weixin_38233104/article/details/130912374): `krb5-user, libkrb5-dev`
+5. <https://wentzwu.com/2021/02/01/active-directory-domains-and-kerberos-reals>
+6. <https://web.mit.edu/kerberos/kfw-4.1/kfw-4.1/kfw-4.1-help/html/kerberos_terminology.htm>
+7. <https://kb.mit.edu/confluence/display/glossary/Kerberos>
 
 ## BOOT
 
@@ -623,3 +639,68 @@ windows设置里面，账户选项卡，账户信息里面，账户设置里选�
 ## Graph Theory
 
 1. <https://cytoscape.org>: can import file with `.graphml` prefix
+
+## Virtualization
+[**XEN VMWARE QEMU OVMF KVM SIMICS HYPERVISOR**](https://wiki.xenproject.org/wiki/OVMF)
+
+[创建镜像image、启动容器container、删除容器、进入容器](https://blog.csdn.net/pearl8899/article/details/113757377),
+[Linux 容器化技术详解](https://blog.csdn.net/daocaokafei/article/details/118075369),
+[Docker](https://docker-practice.github.io/zh-cn/basic_concept/image.html),
+[Debian install Xen](https://www.mryunwei.com/254056.html),
+[VPS超售](https://blog.csdn.net/bingbob/article/details/105803431),
+[VPS超售](https://www.evec.cc/2019/02/06/vpsovercommit)
+
+[KVM - Kernel based Virtual Machine](https://wiki.archlinux.org/title/KVM),
+[QEMU                              ](https://wiki.archlinux.org/title/QEMU)
+
+[KVM vs Xen](https://www.techtarget.com/searchitoperations/tip/Xen-vs-KVM-What-are-the-differences),
+[QEMU vs XEN](https://superuser.com/questions/170768/difference-between-qemu-kvm-and-xen-virt-manager),
+[OVMF](https://cloud-atlas.readthedocs.io/zh_CN/latest/kvm/iommu/ovmf.html),
+[UEFI / OVMF](https://wiki.ubuntu.com/UEFI/OVMF),
+[Compare between Xen KVM](https://www.researchgate.net/figure/A-comparison-chart-between-Xen-KVM-VirtualBox-and-VMWare-ESX_fig2_224257050),
+[Xen KVM Qemu](https://blog.csdn.net/ysbj123/article/details/51166343),
+[KVM XEN](https://ww.cnblogs.com/qinlulu/p/13204849.html),
+[QEMU vs KVM](https://www.linuxmi.com/qemu-vs-kvm.html)
+
+### [QEMU](https://www.qemu.org)
+Docs:
+[usb   ](https://www.qemu.org/docs/master/system/devices/usb.html),
+[images](https://www.qemu.org/docs/master/system/images.html),
+[gdb   ](https://www.qemu.org/docs/master/system/gdb.html),
+[xen   ](https://www.qemu.org/docs/master/system/i386/xen.html)
+
+Repos:
+<https://github.com/qemu/qemu>
+
+Refs:
+1. <https://wiki.debian.org/Cloud>, <https://wiki.debian.org/ThomasChung/CloudImage>, <https://wiki.debian.org/Cloud/SystemsComparison>
+2. <https://leux.cc/doc/Debian官方qcow2镜像修改root密码.html>
+
+3. <https://cloudinit.readthedocs.io/en/latest/tutorial/qemu.html>
+4. <https://cloudinit.readthedocs.io/en/latest/reference/network-config.html>
+5. <https://cloudinit.readthedocs.io/en/latest/reference/datasources/nocloud.html>
+6. <https://cloudinit.readthedocs.io/en/latest/reference/modules.html#users-and-groups>
+
+[qemu fat](https://ww.emaculation.com/forum/viewtopic.php),
+[qemu drive parameter](https://www.cnblogs.com/honpey/p/8505550.html),
+[QEMU img](https://www.cnblogs.com/wyzhou/p/9602606.html),
+[qemu - img convert](https://blog.csdn.net/allway2/article/details/122213307),
+[Converting image format](https://docs.openstack.org/image-guide/convert-images.html),
+[QEMU Start](https://blog.csdn.net/fontthrone/article/details/104157859),
+
+## STREAM
+[本地搭建RTMP服务](https://blog.csdn.net/yelin042/article/details/106448111),
+[直播推流操作手册](https://blog.csdn.net/lovebird321/article/details/105532759),
+ 
+[无人值守直播工具](https://github.com/withsalt/BilibiliLiveTools)
+
+[OBS定时自动推流设置](https://www.bilibili.com/read/cv19838044)
+
+[7×24无人值守直播推流软件开发实战](https://blog.csdn.net/blogtime/article/details/133862103)
+
+[7x24小时自动推流服务器搭建](https://www.jianshu.com/p/f5a53bdbf2a9)
+
+<https://www.obsproject.com.cn/obs/265.html>
+
+<https://developers.weixin.qq.com/miniprogram/dev>,
+<https://developers.weixin.qq.com/community/develop>
