@@ -108,9 +108,29 @@ Compatible Issue: Latest need be compatible with old version, Client need be com
 [RISC-V](https://riscv.org),
 <https://riscv.org/technical/specifications>,
 <https://github.com/riscv/riscv-isa-manual>,
-<https://github.com/riscv-non-isa/riscv-asm-manual>
+<https://github.com/riscv-non-isa/riscv-asm-manual>,
+<https://github.com/riscv-non-isa/riscv-asm-manual/blob/main/src/asm-manual.adoc>
+
+<https://cn.ubuntu.com/download/risc-v>,
+<https://wiki.ubuntu.com/RISC-V/QEMU>,
+<https://cn.ubuntu.com/blog/canonical-enables-ubuntu-on-milk-v-mars_cn>
+
+<https://people.debian.org/~mafm/posts/2018/20180402_debian-gnulinux-port-for-risc-v-64-bit-riscv64-in-debian-infrastructure-debian-ports>,
+<https://wiki.debian.org/RISC-V>, <https://ports.debian.org>,
+<https://packages.debian.org/bookworm/debootstrap>
+
+<https://github.com/tianocore/edk2/tree/master/OvmfPkg/RiscVVirt>,
+<https://github.com/tianocore/edk2/blob/master/OvmfPkg/RiscVVirt/RiscVVirt.dsc.inc>
+
+<https://llvm.org/docs/RISCVUsage.html>,
+<https://apt.llvm.org>
+
+[StarFive RISCV NAS](https://www.elecfans.com/d/3088819.html)
+[RISCV NAS](https://www.xda-developers.com/building-a-risc-v-nas)
 
 ## HARDWARE
+
+[SATA Controller](https://www.jmicron.com/zh-cn/products/list/16)
 
 [量子兔 alphapi 硬件拆解分析 尝试自己从头写库](https://blog.csdn.net/jd3096/article/details/127000637)
 
@@ -281,6 +301,8 @@ TIANOCORE文档采用了github.io与gitbook.io两种方式，关于文档化的W
 Change Boot Option: `efibootmgr` in linux, `msconfig` in windows, `ipmitool` in bmc, `redfish` in curl, `bcfg` in efi shell
 
 <https://ipxe.org>: <https://github.com/ipxe/ipxe>
+
+<https://github.com/Kostr/UEFI-Lessons>
 
 ### BMC
 
