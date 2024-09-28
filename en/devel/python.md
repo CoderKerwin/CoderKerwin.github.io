@@ -184,6 +184,8 @@ python -m pip --proxy {proxy_server} install {module}
 2. <https://pypi.org/project/keyrings.cryptfile>: Need call `keyring.set_keyring(CryptFileKeyring())` to set this as backend
 3. <https://pypi.org/project/credentials>
 4. <https://pypi.org/project/cryptography>
+5. <https://pypi.org/project/requests-kerberos>: `HTTPKerberosAuth`
+6. <https://pypi.org/project/certifi>: `InsecureRequestWarning`
 
 #### Miscellanous
 1. <https://pypi.org/project/Office365-REST-Python-Client>: <https://github.com/vgrem/Office365-REST-Python-Client>
