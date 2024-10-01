@@ -267,3 +267,5 @@ python -m pip --proxy {proxy_server} install {module}
 
 14. <https://www.pythonrequests.com/python-requests-unable-to-get-local-issuer-certificate>
 15. <https://plainenglish.io/blog/python-simple-http-server-with-ssl-certificate-encrypted-traffic-73ffd491a876>
+
+16. <https://realpython.com/python-chainmap>
