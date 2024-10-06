@@ -1,4 +1,4 @@
-# software
+# APPLICATION SOFTWARE
 
 ## EDITOR
 
@@ -41,7 +41,6 @@ find nvim-linux64 -name nvim
 ```
 
 ## CODEVIEWER
-代码浏览
 
 ### OPENGROK
 [OPENGROK](https://opengrok.github.io)
@@ -51,33 +50,12 @@ find nvim-linux64 -name nvim
 <https://github.com/coder/coder/releases>
 
 ### CSCOPE
-[CSCOPE](https://github.com/yifengyou/cscope)
-[CSCOPE](https://github.com/Hyeonykim/cscope)
-[CSCOPE](https://github.com/youyuanwu/cscope)
+[CSCOPE](https://github.com/yifengyou/cscope),
+[CSCOPE](https://github.com/Hyeonykim/cscope),
+[CSCOPE](https://github.com/youyuanwu/cscope),
 [CSCOPE](https://github.com/Smattr/clink)
 
-## ANALYSIS
-静态分析
-
-### COVERITY
-
-### KLOCKWORK
-
-## UNITTEST
-单元测试：以数据为中心进行测试
-
-[OpenCppCoverage](https://github.com/OpenCppCoverage/OpenCppCoverage)
-[C++开源代码覆盖率工具OpenCppCoverage介绍(Windows)](https://www.cnblogs.com/coderzh/p/OpenCppCoverage.html)
-[GCOV使用    ](https://blog.csdn.net/lishenglong666/article/details/8056777)
-[gcov使用小节](https://blog.csdn.net/weixin_41910194/article/details/80759473)
-
-### CMOCKA
-
 ## COMPILER
-
-### ASSEMBLER
-
-#### NASM
 
 ### C/C++ COMPILER
 
@@ -85,16 +63,12 @@ find nvim-linux64 -name nvim
 
 [MSVC编译器参考](https://learn.microsoft.com/zh-cn/cpp/build/reference/compiling-a-c-cpp-program?view=msvc-170)
 
-Zi, /debug
-
 #### GCC
 
-[GNU Compiler Collection          ](https://gcc.gnu.org)
+[GNU Compiler Collection          ](https://gcc.gnu.org),
 [Options That Control Optimization](https://gcc.gnu.org/onlinedocs/gcc/Optimize-Options.html)
 
 [GCC基本使用](https://zhuanlan.zhihu.com/p/404682058)
-
--g
 
 #### CLANG
 
@@ -106,11 +80,26 @@ Zi, /debug
 
 ## JAVA COMPILER
 
-Bing: OpenJDK download
-<https://jdk.java.net/archive>
+Bing: OpenJDK download,
+<https://jdk.java.net/archive>,
 <https://download.java.net/java/GA/jdk11/9/GPL/openjdk-11.0.2_windows-x64_bin.zip>
 
 ### OPENJDK
+
+## ANALYSIS
+
+### COVERITY
+
+### KLOCKWORK
+
+## UNITTEST
+
+[OpenCppCoverage](https://github.com/OpenCppCoverage/OpenCppCoverage),
+[C++开源代码覆盖率工具OpenCppCoverage介绍(Windows)](https://www.cnblogs.com/coderzh/p/OpenCppCoverage.html),
+[GCOV使用    ](https://blog.csdn.net/lishenglong666/article/details/8056777),
+[gcov使用小节](https://blog.csdn.net/weixin_41910194/article/details/80759473)
+
+### CMOCKA
 
 ## DISASSEMBER
 readelf, nm, objdump, dumpbin
@@ -130,52 +119,56 @@ readelf, nm, objdump, dumpbin
 
 [gdb调试用法](https://www.cnblogs.com/ims-/p/10529393.html)
 
-gdb命令`b/bt/c/d/h/i/n/p/q/r/s/x/mem/display`，详细如下
-b  : break at
-bt : stack trace
-c  : continue
-d  : delete breakpoints
-h  : help
-i  : info, belong status query
-i b: info breaks
-i r: info registers
-n  : next
-p  : print /FMT
-q  : quit
-r  : run
-s  : step
+编译选项：-g
+
+gdb命令`b/bt/c/d/h/i/n/p/q/r/s/x/mem/display`，详细如下  
+b  : break at  
+bt : stack trace  
+c  : continue  
+d  : delete breakpoints  
+h  : help  
+i  : info, belong status query  
+i b: info breaks  
+i r: info registers  
+n  : next  
+p  : print /FMT  
+q  : quit  
+r  : run  
+s  : step  
 x  : examine /FMT is /x /c /d /b etc
 
 symbol-file : load symbol. ``symbol-file -o `offset` `FILE` ``
 
-mem         : show memory
-display     : display variable
-disassemble : disassemble. /r /s modifier
+mem         : show memory  
+display     : display variable  
+disassemble : disassemble. /r /s modifier  
 list        : list source of function or line
 
 [GDB用法详解](https://www.cnblogs.com/lvdongjie/p/8994092.html)
 
 ### WINDBG
 
+编译选项：Zi, /debug
+
 windbg命令`bp/d/g/gc/k/p/q/r/t/x`，详细如下
-bp  : break
-d   : display memory.
-dt  : display type
-dv  : display local variable
-dx  : display C++ expression. `dx -r1 (*((Test!_EFI_PLATFORM_INFO *)0x0))`
-g   : go
-gc  : go in condition
-k   : stack frame
-lm  : load module. !lmi can show information as well
-p   : single instruction
-q   : quit
-r   : register
-t   : trace
-u   : unassemble
-ub  : unassemble
-uu  : unassemble
-uf  : unassemble function
-x   : examine symbol. /D /t /v
+bp  : break  
+d   : display memory.  
+dt  : display type  
+dv  : display local variable  
+dx  : display C++ expression. `dx -r1 (*((Test!_EFI_PLATFORM_INFO *)0x0))`  
+g   : go  
+gc  : go in condition  
+k   : stack frame  
+lm  : load module. !lmi can show information as well  
+p   : single instruction  
+q   : quit  
+r   : register  
+t   : trace  
+u   : unassemble  
+ub  : unassemble  
+uu  : unassemble  
+uf  : unassemble function  
+x   : examine symbol. /D /t /v  
 .hh : help
 
 [Debugging Tools for Windows (WinDbg, KD, CDB, NTSD)](https://learn.microsoft.com/en-us/windows-hardware/drivers/debugger)
@@ -193,6 +186,10 @@ x      : enum symbol
 q      : quit
 r      : show source file
 etypes : show all type
+
+## ASSEMBLER
+
+### NASM
 
 ## BUILDER
 软件构建：ant/nant/gradle/cmake/make/nmake/msbuild
@@ -240,7 +237,7 @@ https://www.sphinx-doc.org
 Tianocore项目使用了github.io来做为文档展示，参考这个来构建github.io网页：
 [github.io](https://pages.github.com),
 [Quickstart for GitHub Pages](https://docs.github.com/en/pages/quickstart),
-[Approving a pull request with required reviews](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/approving-a-pull-request-with-required-reviews)
+[Approving a pull request with required reviews](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/approving-a-pull-request-with-required-reviews),
 [Pulls](https://docs.github.com/en/rest/pulls/pulls?apiVersion=2022-11-28)
 
 ### CONFLUENCE
@@ -271,9 +268,9 @@ Tianocore项目使用了github.io来做为文档展示，参考这个来构建gi
 ## CI
 持续开发(CI/CD)
 
-[TeamCity](https://www.jetbrains.com/teamcity)
-[TeamCity VS Jenkins：选择正确的CI / CD工具](https://cloud.tencent.com/developer/article/1664894)
-[谁才是世界上最好的 CI/CD 工具？](https://zhuanlan.zhihu.com/p/67805669)
+[TeamCity](https://www.jetbrains.com/teamcity),
+[TeamCity VS Jenkins：选择正确的CI / CD工具](https://cloud.tencent.com/developer/article/1664894),
+[谁才是世界上最好的 CI/CD 工具？](https://zhuanlan.zhihu.com/p/67805669),
 [Azure DevOps](https://azure.microsoft.com/en-us/products/devops)
 
 ## NETWORK
@@ -300,7 +297,8 @@ Tianocore项目使用了github.io来做为文档展示，参考这个来构建gi
 <https://github.com/fatedier/frp/releases>,
 
 ### PROXY
-[Linux配置成代理服务器](https://www.cnblogs.com/caopeng/p/17909476.html)
+[Linux配置成代理服务器](https://www.cnblogs.com/caopeng/p/17909476.html),
+<https://www.digitalocean.com/community/tutorials/how-to-set-up-squid-proxy-for-private-connections-on-debian-11>,
 
 ### OPENVPN
 <https://ubuntu.com/server/docs/how-to-install-and-use-openvpn>,
@@ -311,11 +309,21 @@ Tianocore项目使用了github.io来做为文档展示，参考这个来构建gi
 [OpenVPN配置代理路由实现局部代理](https://www.luisimon.com/2020/04/25/318),
 [手把手教你搭建OpenVPN](https://blog.admin4j.com/linux/vpn),
 [openvpn配置实现服务器代理上网](https://blog.csdn.net/java_linux_dev/article/details/135879838),
-[搭建OpenVpn实现服务器代理上网](https://blog.csdn.net/weixin_44105868/article/details/139463173)
+[搭建OpenVpn实现服务器代理上网](https://blog.csdn.net/weixin_44105868/article/details/139463173),
+<https://blog.desdelinux.net/zh-CN/如何创建您的VPN服务器>,
+[Debian10搭建openvpn](https://blog.csdn.net/m0_57832432/article/details/124412513),
+<https://www.debian.org/doc/manuals/debian-handbook/network-infrastructure.zh-cn.html>,
+<https://www.debian.org/doc/manuals/debian-handbook/sect.virtual-private-network.zh-cn.html>,
+<https://www.debian.org/doc/manuals/debian-handbook/sect.x509-cert.zh-cn.html>
 
 **tap、tun、虚拟网卡、网桥**:
 [重拾 Linux 网络（一）：iptables                                    ](https://pandaychen.github.io/2023/08/01/A-IPTABLES-REVIEW),
 [重拾 Linux 网络（二）：网卡 / 虚拟网卡、tap/tun 那些事](https://pandaychen.github.io/2023/08/02/NETWORK-REVIEW),
+[理解Linux虚拟网卡设备tun/tap的一切](https://www.junmajinlong.com/virtual/network/all_about_tun_tap/index.html),
+
+<https://mangohost.net/blog/tap-vs-tun-a-comprehensive-guide>
+
+<https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/7/html/networking_guide/sec-configuring_ip_networking_with_ip_commands>
 
 ### DNS
 Command: `nslookup, dig`:
@@ -334,6 +342,17 @@ X11 GUI: Putty + Xming
 <https://x410.dev>,
 <https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html>
 
+<https://zhuanlan.zhihu.com/p/66075449>,
+<https://zhuanlan.zhihu.com/p/157479678>
+
+<https://some-natalie.dev/blog/ssh-x11-forwarding>
+
+<https://mobaxterm.mobatek.net>
+
+<https://locall.host/windows-ssh-with-x11-forwarding/?expand_article=1>
+
+<https://bytebitebit.com/operating-system/linux/how-to-set-display-variable-in-linux>
+
 ## REMOTE
 
 ### RDP
@@ -348,7 +367,7 @@ X11 GUI: Putty + Xming
 
 [win10 开启ssh server服务 远程登录](https://blog.csdn.net/weixin_43064185/article/details/90080815)
 
-[Key-based authentication in OpenSSH for Windows](https://learn.microsoft.com/en-us/windows-server/administration/openssh/openssh_keymanagement): `authorized_keys, administrators_authorized_keys`
+[Key-based authentication in OpenSSH for Windows](https://learn.microsoft.com/en-us/windows-server/administration/openssh/openssh_keymanagement): `authorized_keys, administrators_authorized_keys`,
 [Get started with OpenSSH for Windows           ](https://learn.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse)
 
 [Linux系统SSH客户端断开后保持进程继续运行配置方法](https://help.aliyun.com/document_detail/42523.html)
@@ -417,20 +436,20 @@ Windows对VT100支持不太好，但WIN11开始改进很多，其中使用`type`
 
 ### [PUTTY](https://putty.org)
 
-[Ubuntu 18.04 LTS 使用xrdp远程桌面配置说明](https://www.cnblogs.com/varden/p/13954575.html)
-[Can't connect to xrdp as normal user, connecting as root is fine](https://unix.stackexchange.com/questions/629505)
-[xrdp方式windows 10连接ubuntu 18.04](https://zhuanlan.zhihu.com/p/40937988)
-[Issues with xRDP and Ubuntu 18.04.2 – How to fix it](http://c-nergy.be/blog/?p=13390)
-[windows用xrdp方式远程桌面连接ubuntu](https://blog.csdn.net/devil6636252/article/details/109616851)
+[Ubuntu 18.04 LTS 使用xrdp远程桌面配置说明](https://www.cnblogs.com/varden/p/13954575.html),
+[Can't connect to xrdp as normal user, connecting as root is fine](https://unix.stackexchange.com/questions/629505),
+[xrdp方式windows 10连接ubuntu 18.04](https://zhuanlan.zhihu.com/p/40937988),
+[Issues with xRDP and Ubuntu 18.04.2 – How to fix it](http://c-nergy.be/blog/?p=13390),
+[windows用xrdp方式远程桌面连接ubuntu](https://blog.csdn.net/devil6636252/article/details/109616851),
 [使用 Windows 远程 Linux 主机 @20210130](https://blog.csdn.net/u013670453/article/details/113423956)
 
-[wpa_supplicant 常用操作及其wpa_cli无法运行的原因Could not connect to wpa_supplicant](https://blog.csdn.net/qq_32348883/article/details/123156401)
+[wpa_supplicant 常用操作及其wpa_cli无法运行的原因Could not connect to wpa_supplicant](https://blog.csdn.net/qq_32348883/article/details/123156401),
 [systemctl开机启动wpa_supplicant](https://blog.csdn.net/u010049696/article/details/48765999)
 
 [ngrok的使用(超详细)](https://blog.csdn.net/liunianqingshi/article/details/108049441)
 
-[最佳 Linux 远程桌面客户端 | Linux 中国](https://zhuanlan.zhihu.com/p/586858767)
-[Remmina](https://remmina.org)
+[最佳 Linux 远程桌面客户端 | Linux 中国](https://zhuanlan.zhihu.com/p/586858767),
+[Remmina](https://remmina.org),
 [Best RDP (Remote Desktop) Clients for Linux](https://www.tecmint.com/best-linux-rdp-remote-desktop-clients)
 
 ### OTHER REMOTE SOLUTION
@@ -474,103 +493,13 @@ fork in github:
 <https://github.com/tianocore/edk2/forks>,
 <https://github.com/tianocore/edk2/network/members>
 
-## OS
-Operation System are system software, include windows, linux.  
-system software vendor include microsoft, ubuntu, debian, centos, redhat, etc  
-Vendor websites are <microsoft.com>, <ubuntu.com>, <debian.org>, <centos.org>, <redhat.com>
-linux kernel is very important, the website is <kernel.org>
-
-### WINDOWS
-
-windows设置里面，账户选项卡，账户信息里面，账户设置里选择改用本地设置可以在本地与微软账户切换。
-在控制面板里面，可以删除保存的密码，这样浏览器就不会自动登录。
-
-[win10搜索框的热门搜索怎么关闭?](https://www.zhihu.com/question/563437571)
-
-[windows10如何关闭搜索功能中展示的热门搜索？](https://answers.microsoft.com/zh-hans/windows/forum/all/windows10%e5%a6%82%e4%bd%95%e5%85%b3%e9%97%ad/4c89657e-f0c7-45f9-9908-3b1657aa76e0)
-
-[win11微软拼音输入法选字候选框无法显示](https://zhuanlan.zhihu.com/p/430128136)
-
-<https://learn.microsoft.com>
-
-<https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/systeminfo>
-<https://learn.microsoft.com/en-us/windows-hardware/drivers/devtest/pnputil-examples>
-<https://learn.microsoft.com/en-us/windows-hardware/drivers/devtest/certmgr>
-
-<https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/tasklist>
-
-<https://learn.microsoft.com/zh-cn/sysinternals/downloads/bginfo>
-
-<https://docs.microsoft.com/en-us/windows-hardware/drivers/devtest/boot-options-in-windows>
-
-<https://developer.microsoft.com/en-us/graph/quick-start>,
-<https://learn.microsoft.com/en-us/graph/overview>
-
-#### Native Command Line
-| Name                                                                                                    | Description                                      |
-|---------------------------------------------------------------------------------------------------------|--------------------------------------------------|
-| [`type`](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/type)         | Display contents of file, similar as linux `cat` |
-| [`msinfo32`](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/msinfo32) | Comprehensive view of the hardware               |
-| [`msconfig`](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands)          | Change the boot option                           |
-| [`bootsect`](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands)          | NA                                               |
-| [`bcdedit`](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/bcdedit)   | Managing BCD store                               |
-| [`bootcfg`](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/bootcfg)   | Change Boot.ini                                  |
-| [`cd`](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/cd)             | Change directory                                 |
-| [`dir`](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/dir)           | Displays a list of a files and subdirectories    |
-| [`whoami`](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/whoami)     | Display user name                                |
-| [`hostname`](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/hostname) | Display host name                                |
-
-### LINUX
-
-<https://www.debian.org/distrib/packages>,
-<https://packages.debian.org/bookworm/easy-rsa>,
-<https://packages.ubuntu.com>,
-<https://centos.org>,
-<https://www.suse.com>,
-<https://www.redhat.com>
-
-[Linux文件系统详解](http://c.biancheng.net/view/880.html)
-
-<https://docs.kernel.org>
-
-<https://docs.centos.org/en-US/8-docs/managing-userspace-components/assembly_finding-rhel-8-content>
-
-<https://centos.pkgs.org/8-stream/centos-baseos-x86_64/shim-x64-15-15.el8_2.x86_64.rpm.html>
-
-<https://packages.debian.org/bookworm/shim-unsigned>
-
-<https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/networking_guide/ch-consistent_network_device_naming>
-
-[Linux守护进程的启动方法](https://www.ruanyifeng.com/blog/2016/02/linux-daemon.html),
-[Systemd入门教程        ](https://ruanyifeng.com/blog/2016/03/systemd-tutorial-commands.html),
-[init进程详解](https://blog.csdn.net/hxpjava1/article/details/79825674),
-[/etc/profile详解](https://blog.csdn.net/hao745580264_dawei/article/details/140341667)
-
-[如何编写一个systemd service](https://segmentfault.com/a/1190000014740871): <https://systemd.io>, <https://github.com/systemd/systemd>, <https://www.freedesktop.org/wiki/Software/systemd>, <https://packages.debian.org/bookworm/systemd-sysv>
-
-[Linux内核为什么会发生soft lockup？](https://blog.csdn.net/21cnbao/article/details/108250786)
-
-<https://cdimage.debian.org/cdimage/cloud/sid/daily>, <https://cdimage.ubuntu.com/releases>
-
-#### Native Command Line
-| Name                                                      | Description                                         |
-|-----------------------------------------------------------|-----------------------------------------------------|
-| [`cat`](https://packages.debian.org/buster/coreutils)     | Display contents of file, similar as windows `type` |
-| [`dir`](https://packages.debian.org/buster/coreutils)     | Displays a list of a files and subdirectories       |
-| [`ls`](https://packages.debian.org/buster/coreutils)      | Displays a list of a files and subdirectories       |
-| [`whoami`](https://packages.debian.org/buster/coreutils)  | Display user name                                   |
-| [`hostname`](https://packages.debian.org/buster/hostname) | Display host name                                   |
-| [`sh`](https://packages.debian.org/buster/dash)           | compatible with posix shell                         |
-| [`bash`](https://packages.debian.org/buster/bash)         | shell interpreter                                   |
-| [`type`](https://packages.debian.org/buster/dash)         | interpretion as a commnd name, shell builtin        |
-| [`cd`](https://packages.debian.org/buster/dash)           | Change directory, shell builtin                     |
-
 ## BUGTRACKER
 
 ### EIP
 
 ### BUGZILLA
-缺陷管理
+
+### JIRA
 
 ## SEARCH
 
@@ -711,3 +640,99 @@ Refs:
 
 ## COMPRESS
 [Linux下常用压缩解压命令和压缩比率对比](https://blog.csdn.net/buknow/article/details/115053065)
+
+## HOTKEYS
+1. `CTRL + TAB/PAGEUP/PAGEDOWN`: Switch pages in EDGE/CHROME explorer
+
+# SYSTEM SOFTWARE
+
+## OS
+Operation System are system software, include windows, linux.  
+system software vendor include microsoft, ubuntu, debian, centos, redhat, etc  
+Vendor websites are <microsoft.com>, <ubuntu.com>, <debian.org>, <centos.org>, <redhat.com>
+linux kernel is very important, the website is <kernel.org>
+
+### WINDOWS
+
+windows设置里面，账户选项卡，账户信息里面，账户设置里选择改用本地设置可以在本地与微软账户切换。
+在控制面板里面，可以删除保存的密码，这样浏览器就不会自动登录。
+
+[win10搜索框的热门搜索怎么关闭?](https://www.zhihu.com/question/563437571)
+
+[windows10如何关闭搜索功能中展示的热门搜索？](https://answers.microsoft.com/zh-hans/windows/forum/all/windows10%e5%a6%82%e4%bd%95%e5%85%b3%e9%97%ad/4c89657e-f0c7-45f9-9908-3b1657aa76e0)
+
+[win11微软拼音输入法选字候选框无法显示](https://zhuanlan.zhihu.com/p/430128136)
+
+<https://learn.microsoft.com>
+
+<https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/systeminfo>
+<https://learn.microsoft.com/en-us/windows-hardware/drivers/devtest/pnputil-examples>
+<https://learn.microsoft.com/en-us/windows-hardware/drivers/devtest/certmgr>
+
+<https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/tasklist>
+
+<https://learn.microsoft.com/zh-cn/sysinternals/downloads/bginfo>
+
+<https://docs.microsoft.com/en-us/windows-hardware/drivers/devtest/boot-options-in-windows>
+
+<https://developer.microsoft.com/en-us/graph/quick-start>,
+<https://learn.microsoft.com/en-us/graph/overview>
+
+#### Native Command Line
+| Name                                                                                                    | Description                                      |
+|---------------------------------------------------------------------------------------------------------|--------------------------------------------------|
+| [`type`](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/type)         | Display contents of file, similar as linux `cat` |
+| [`msinfo32`](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/msinfo32) | Comprehensive view of the hardware               |
+| [`msconfig`](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands)          | Change the boot option                           |
+| [`bootsect`](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands)          | NA                                               |
+| [`bcdedit`](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/bcdedit)   | Managing BCD store                               |
+| [`bootcfg`](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/bootcfg)   | Change Boot.ini                                  |
+| [`cd`](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/cd)             | Change directory                                 |
+| [`dir`](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/dir)           | Displays a list of a files and subdirectories    |
+| [`whoami`](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/whoami)     | Display user name                                |
+| [`hostname`](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/hostname) | Display host name                                |
+
+### LINUX
+
+<https://www.debian.org/distrib/packages>,
+<https://packages.debian.org/bookworm/easy-rsa>,
+<https://packages.ubuntu.com>,
+<https://centos.org>,
+<https://www.suse.com>,
+<https://www.redhat.com>
+
+[Linux文件系统详解](http://c.biancheng.net/view/880.html)
+
+<https://docs.kernel.org>
+
+<https://docs.centos.org/en-US/8-docs/managing-userspace-components/assembly_finding-rhel-8-content>
+
+<https://centos.pkgs.org/8-stream/centos-baseos-x86_64/shim-x64-15-15.el8_2.x86_64.rpm.html>
+
+<https://packages.debian.org/bookworm/shim-unsigned>
+
+<https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/networking_guide/ch-consistent_network_device_naming>
+
+[Linux守护进程的启动方法](https://www.ruanyifeng.com/blog/2016/02/linux-daemon.html),
+[Systemd入门教程        ](https://ruanyifeng.com/blog/2016/03/systemd-tutorial-commands.html),
+[init进程详解](https://blog.csdn.net/hxpjava1/article/details/79825674),
+[/etc/profile详解](https://blog.csdn.net/hao745580264_dawei/article/details/140341667)
+
+[如何编写一个systemd service](https://segmentfault.com/a/1190000014740871): <https://systemd.io>, <https://github.com/systemd/systemd>, <https://www.freedesktop.org/wiki/Software/systemd>, <https://packages.debian.org/bookworm/systemd-sysv>
+
+[Linux内核为什么会发生soft lockup？](https://blog.csdn.net/21cnbao/article/details/108250786)
+
+<https://cdimage.debian.org/cdimage/cloud/sid/daily>, <https://cdimage.ubuntu.com/releases>
+
+#### Native Command Line
+| Name                                                      | Description                                         |
+|-----------------------------------------------------------|-----------------------------------------------------|
+| [`cat`](https://packages.debian.org/buster/coreutils)     | Display contents of file, similar as windows `type` |
+| [`dir`](https://packages.debian.org/buster/coreutils)     | Displays a list of a files and subdirectories       |
+| [`ls`](https://packages.debian.org/buster/coreutils)      | Displays a list of a files and subdirectories       |
+| [`whoami`](https://packages.debian.org/buster/coreutils)  | Display user name                                   |
+| [`hostname`](https://packages.debian.org/buster/hostname) | Display host name                                   |
+| [`sh`](https://packages.debian.org/buster/dash)           | compatible with posix shell                         |
+| [`bash`](https://packages.debian.org/buster/bash)         | shell interpreter                                   |
+| [`type`](https://packages.debian.org/buster/dash)         | interpretion as a commnd name, shell builtin        |
+| [`cd`](https://packages.debian.org/buster/dash)           | Change directory, shell builtin                     |
