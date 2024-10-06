@@ -56,3 +56,14 @@
 30. [中关村在线服务器](https://detail.zol.com.cn/server)
 
 31. [自驾游导航神器](https://post.smzdm.com/p/ar6rz5ng)
+
+32. [大疆宣布放弃教育业务](https://new.qq.com/rain/a/20240108A020Z700)
+33. [RoboMasterTT编队飞行套装](https://www.dji.com/cn/robomaster-tt-combo)
+34. <https://mindplus.dfrobot.com.cn/RMTT>
+35. <https://makelog.dfrobot.com.cn/article-309552.html>
+36. <https://www.ryzerobotics.com/cn/tello>
+37. [大疆TT用什么编程](https://worktile.com/kb/ask/2268969.html)
+38. [特洛Tello无人机](https://post.smzdm.com/p/a5e8zq2k)
+
+39. [升力](https://www.zgbk.com/ecph/words?SiteID=1&ID=58731&SubID=63844)
+40. [飞机的升力](https://www.baike.com/wikiid/1811981608355099114)
