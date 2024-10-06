@@ -45,6 +45,12 @@
 27. [欧易（OKX）实名认证相关问题解答](https://www.120btc.com/baike/pingtai/239039899.html)
 28. [在中国大陆如何下载欧易App      ](https://www.qukuai520.com/html/485)
 
-29. [2023年中国石墨烯产业链图谱研究分析](https://www.seccw.com/Document/detail/id/25405.html)
+29. <https://switchere.com/guides/what-is-usdt>
+30. <https://cn.cointelegraph.com/tether-price-index>
+31. <https://jiemahao.com/what-is-usdt>
 
-30. 工商管理硕士
+32. [什么是USDT](https://zhuanlan.zhihu.com/p/692359988)
+
+33. [2023年中国石墨烯产业链图谱研究分析](https://www.seccw.com/Document/detail/id/25405.html)
+
+34. 工商管理硕士
