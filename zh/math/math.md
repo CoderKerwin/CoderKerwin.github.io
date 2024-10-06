@@ -139,6 +139,28 @@
 
 ## 拓扑
 
+## 微分几何与密触阶
+[接触应力计算公式](https://www.mechtool.cn/formular/contactstress.html),
+[密切圆与曲率](https://blog.csdn.net/universsky2015/article/details/135812320),
+[微分几何初步课后答案(陈维桓著)](https://www.docin.com/p-2274177623.html),
+[空间曲面与其密切球面  ](https://www.doc88.com/p-3252247843099.html),
+[空间曲面与其密切球面  ](https://www.doc88.com/p-85129104872880.html),
+[空间曲线在一点的密切圆](https://www.doc88.com/p-999532487944.html),
+[曲线的切触](https://wuli.wiki/changed/CofCur.html),
+[相似的阶数与区别的层次](https://bbs.pinggu.org/thread-1085073-1-1.html),
+[陈维桓](https://www.math.pku.edu.cn/xyxw/154576.htm),
+[《微分几何》教材与参考书推荐](https://www.zhihu.com/question/435828067),
+[整体微分几何初步](https://lib2.buct.edu.cn/bookInfo_01h0020935.html),
+[微分几何初步(陈维桓)](https://max.book118.com/html/2017/0724/124071444.shtm),
+[整体微分几何初步](https://xuanshu.hep.com.cn/front/book/findBookDetails?bookId=59cd28e7ba9eb884cf819218),
+[微分几何初步课后答案(陈维桓著)](https://wenku.baidu.com/view/03cdd9de6f1aff00bed51ee1.html),
+[微分几何陈维桓第五章讲稿](https://wenku.baidu.com/view/93b32a116c175f0e7cd1373b?aggId=03cdd9de6f1aff00bed51ee1&fr=catalogMain_text_ernie_recall_backup_new:wk_recommend_main3),
+[微分几何(第一课)剖析](https://wenku.baidu.com/view/bb18345a657d27284b73f242336c1eb91b373354?aggId=03cdd9de6f1aff00bed51ee1&fr=catalogMain_text_ernie_recall_backup_new:wk_recommend_main3),
+[微分几何初步](https://www.book345.com/detail/9787301012291),
+[微分几何与经典力学初步](https://wenku.baidu.com/view/dd6a3808322b3169a45177232f60ddccdb38e642.html)
+
+[精密测量](https://www.taylor-hobson.com.cn)
+
 ## 证明
 证明主要是依靠对定义与性质的掌握。主要有反证法，数学归纳法，三段论
 
