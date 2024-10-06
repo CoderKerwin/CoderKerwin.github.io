@@ -162,6 +162,19 @@ Compatible Issue: Latest need be compatible with old version, Client need be com
 [What is NAS](https://www.techtarget.com/searchstorage/definition/network-attached-storage),
 [NAS选型与搭建过程](https://jysperm.me/2020/11/my-opensource-nas-build)
 
+## Video Capture Card
+<https://cn.hagibis.com>, <https://www.hqchip.com>,
+[海备思USB视频采集卡拆解](https://www.bilibili.com/read/cv17186656),
+[自制采集卡与环出采集卡](https://www.bilibili.com/video/BV1fd4y1K7gL): <https://oshwhub.com/gloomyghost/yuzuki-hcc>, <https://oshwhub.com/gloomyghost/yuzuki-lohcc-hdmi-huan-chu-cai-ji-ka>,
+[视频采集卡硬件设计](https://www.elecfans.com/article/90/153/2016/0229403617.html),
+[基于PCIe的高速视频采集卡](https://blog.csdn.net/hexiaoyan827/article/details/135100468),
+[基于TMS320的数字视频采集卡设计](https://m.chinaaet.com/article/144493)
+
+## Bench Mark
+<https://www.topcpu.net/cpu-r/cinebench-r23-multi-core-server>
+<https://topic.expreview.com/Power>
+<https://diy.pconline.com.cn/1321/13213264.html>
+
 ### ACRONYM
 BOM      : Bill of Material  
 PCB      : Printed Circuit Board
