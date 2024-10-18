@@ -544,6 +544,11 @@ fork in github:
 5. <https://wentzwu.com/2021/02/01/active-directory-domains-and-kerberos-reals>
 6. <https://web.mit.edu/kerberos/kfw-4.1/kfw-4.1/kfw-4.1-help/html/kerberos_terminology.htm>
 7. <https://kb.mit.edu/confluence/display/glossary/Kerberos>
+8. [linux服务器加入AD域](https://www.cnblogs.com/zhangmingda/p/13994027.html)
+9. [Kerberos基本原理、安装部署及用法](https://www.cnblogs.com/swordfall/p/12009716.html)
+10. [windows域认证Kerberos详解](https://blog.csdn.net/wy_97/article/details/87649262)
+11. [Windows域权限维持](https://blog.csdn.net/qq_55202378/article/details/141124647)
+12. [Linux加入Windows域](https://blog.csdn.net/m0_57695646/article/details/122038213)
 
 ## BOOT
 
