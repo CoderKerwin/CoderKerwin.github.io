@@ -334,6 +334,8 @@ ipmitool chassis bootdev bios options=persistent
 ipmitool chassis bootparam get 5
 ```
 
+<https://github.com/openbmc/docs/tree/master/development>, <https://github.com/intel-bmc>
+
 ## SOFTWARE
 
 [C语言教你怎么改变字体颜色](https://blog.csdn.net/qq_31975227/article/details/51758461): dropped by windows
@@ -500,6 +502,11 @@ ipmitool chassis bootparam get 5
 [Big Endian and Little Endian](https://www.tutorialspoint.com/big-endian-and-little-endian)
 Little Endian − In this scheme, low-order byte is stored on the starting address (A) and high-order byte is stored on the next address (A + 1).
 Big Endian − In this scheme, high-order byte is stored on the starting address (A) and low-order byte is stored on the next address (A + 1).
+
+## Probility
+<https://birch-lang.org>, <https://www.birch.sh>
+
+## Others
 
 [计算机程序](https://baike.baidu.com/item/程序/13831935),
 [计算机软件](https://baike.baidu.com/item/软件/12053),
