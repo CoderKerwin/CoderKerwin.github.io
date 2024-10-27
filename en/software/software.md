@@ -727,6 +727,10 @@ windows设置里面，账户选项卡，账户信息里面，账户设置里选�
 
 [Linux内核为什么会发生soft lockup？](https://blog.csdn.net/21cnbao/article/details/108250786)
 
+[shell脚本无法使用source命令的原因与解决方法](https://www.cnblogs.com/luego/p/11684311.html)
+
+<https://unix.stackexchange.com/questions/68079/mount-cifs-network-drive-write-permissions-and-chown>
+
 <https://cdimage.debian.org/cdimage/cloud/sid/daily>, <https://cdimage.ubuntu.com/releases>
 
 #### Native Command Line
