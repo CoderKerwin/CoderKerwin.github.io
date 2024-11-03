@@ -47,6 +47,29 @@
 
 4. [《10000个科学难题》](https://www.zhihu.com/question/422766034)
 
+## [几何](https://baike.baidu.com/item/几何)
+- 解析几何
+ - 平面解析几何
+ - 空间解析几何
+- 微分几何
+- 内蕴几何
+
+[陈维桓](https://www.math.pku.edu.cn/xyxw/154576.htm),
+[《微分几何》教材与参考书推荐](https://www.zhihu.com/question/435828067),
+[整体微分几何初步](https://lib2.buct.edu.cn/bookInfo_01h0020935.html),
+[微分几何初步(陈维桓)](https://max.book118.com/html/2017/0724/124071444.shtm),
+[整体微分几何初步](https://xuanshu.hep.com.cn/front/book/findBookDetails?bookId=59cd28e7ba9eb884cf819218),
+[微分几何初步课后答案(陈维桓著)](https://wenku.baidu.com/view/03cdd9de6f1aff00bed51ee1.html),
+[微分几何陈维桓第五章讲稿](https://wenku.baidu.com/view/93b32a116c175f0e7cd1373b?aggId=03cdd9de6f1aff00bed51ee1&fr=catalogMain_text_ernie_recall_backup_new:wk_recommend_main3),
+[微分几何(第一课)剖析](https://wenku.baidu.com/view/bb18345a657d27284b73f242336c1eb91b373354?aggId=03cdd9de6f1aff00bed51ee1&fr=catalogMain_text_ernie_recall_backup_new:wk_recommend_main3),
+[微分几何初步](https://www.book345.com/detail/9787301012291),
+[微分几何与经典力学初步](https://wenku.baidu.com/view/dd6a3808322b3169a45177232f60ddccdb38e642.html)
+
+1. [黎曼几何                                                                          ](https://zhuanlan.zhihu.com/p/49545466)
+2. [从韩信点兵到拉格朗日插值多项式及其推广（二）——额外介绍范德蒙行列式方法            ](https://zhuanlan.zhihu.com/p/563564002)
+3. [从韩信点兵到拉格朗日插值多项式及其推广（三）——埃尔米插值多项式与范德蒙行列式的推广](https://zhuanlan.zhihu.com/p/563566506)
+4. [浙大第四版《概率论与数理统计》课后习题答案解析最全分享                            ](https://zhuanlan.zhihu.com/p/358299124)
+
 ## 分析
 
 1. [微积分和数学分析引论](http://www.downcc.com/soft/125454.html)
@@ -73,17 +96,6 @@
 13. [反常积分∫xe^-x^2 dx，上限无穷大，下限0 怎么求？](https://www.zhihu.com/question/54539278)
 
 14. [函数（xy/（（x＾2）+（y＾2）））的图像](https://www.zhihu.com/question/370753167)
-
-## 几何
-
-1. [黎曼几何                                                                          ](https://zhuanlan.zhihu.com/p/49545466)
-2. [从韩信点兵到拉格朗日插值多项式及其推广（二）——额外介绍范德蒙行列式方法            ](https://zhuanlan.zhihu.com/p/563564002)
-3. [从韩信点兵到拉格朗日插值多项式及其推广（三）——埃尔米插值多项式与范德蒙行列式的推广](https://zhuanlan.zhihu.com/p/563566506)
-4. [浙大第四版《概率论与数理统计》课后习题答案解析最全分享                            ](https://zhuanlan.zhihu.com/p/358299124)
-
-- 解析几何
- - 平面解析几何
- - 空间解析几何
 
 ## 代数
 
@@ -148,16 +160,6 @@
 [空间曲线在一点的密切圆](https://www.doc88.com/p-999532487944.html),
 [曲线的切触](https://wuli.wiki/changed/CofCur.html),
 [相似的阶数与区别的层次](https://bbs.pinggu.org/thread-1085073-1-1.html),
-[陈维桓](https://www.math.pku.edu.cn/xyxw/154576.htm),
-[《微分几何》教材与参考书推荐](https://www.zhihu.com/question/435828067),
-[整体微分几何初步](https://lib2.buct.edu.cn/bookInfo_01h0020935.html),
-[微分几何初步(陈维桓)](https://max.book118.com/html/2017/0724/124071444.shtm),
-[整体微分几何初步](https://xuanshu.hep.com.cn/front/book/findBookDetails?bookId=59cd28e7ba9eb884cf819218),
-[微分几何初步课后答案(陈维桓著)](https://wenku.baidu.com/view/03cdd9de6f1aff00bed51ee1.html),
-[微分几何陈维桓第五章讲稿](https://wenku.baidu.com/view/93b32a116c175f0e7cd1373b?aggId=03cdd9de6f1aff00bed51ee1&fr=catalogMain_text_ernie_recall_backup_new:wk_recommend_main3),
-[微分几何(第一课)剖析](https://wenku.baidu.com/view/bb18345a657d27284b73f242336c1eb91b373354?aggId=03cdd9de6f1aff00bed51ee1&fr=catalogMain_text_ernie_recall_backup_new:wk_recommend_main3),
-[微分几何初步](https://www.book345.com/detail/9787301012291),
-[微分几何与经典力学初步](https://wenku.baidu.com/view/dd6a3808322b3169a45177232f60ddccdb38e642.html)
 
 [精密测量](https://www.taylor-hobson.com.cn)
 
@@ -203,3 +205,5 @@
 23. <https://numpy.org/devdocs/user/quickstart.html>
 
 24. <https://matplotlib.org/stable/users/getting_started>
+
+25. [克莱罗方程](https://baike.baidu.com/item/克莱罗方程)
