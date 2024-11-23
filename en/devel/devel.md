@@ -11,6 +11,9 @@ Compatible Issue: Latest need be compatible with old version, Client need be com
 ## PROGRAMMING LANGUAGE
 <https://spectrum.ieee.org/top-programming-languages-2024>
 
+## Credentials
+<https://credly.com/users/guomin-jiang>
+
 ### C
 1. [The GNU C Reference Manual](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html)
 2. [ISO/IEC 14882:2020](https://isocpp.org/std/the-standard)
@@ -129,6 +132,10 @@ Compatible Issue: Latest need be compatible with old version, Client need be com
 [RISCV NAS](https://www.xda-developers.com/building-a-risc-v-nas)
 
 ## HARDWARE
+
+[关于MCU内部flash存储数据的寿命及提高擦写次数的方法](https://blog.csdn.net/baodewang/article/details/111247653)
+
+[STM32F0F1F4内部flash擦写时间和寿命](https://blog.csdn.net/ydgd118/article/details/108674293)
 
 [SATA Controller](https://www.jmicron.com/zh-cn/products/list/16)
 
