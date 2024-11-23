@@ -240,7 +240,7 @@ Mirror: <https://hf-mirror.com>
 
 73. <https://github.blog/2023-06-20-how-to-write-better-prompts-for-github-copilot>
 
-74. <https://blog.langchain.dev/retrieval>
+74. <https://blog.langchain.dev/retrieval>, <https://cookbook.langchain.com.cn/docs/langchain-intro>
 
 74. <https://learn.microsoft.com/en-us/training/modules/explore-azure-openai/1-introduction>
 75. <https://learn.microsoft.com/en-us/training/modules/explore-azure-openai/4-how-to-use-azure-openai>
