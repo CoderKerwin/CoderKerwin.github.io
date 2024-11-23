@@ -269,3 +269,5 @@ python -m pip --proxy {proxy_server} install {module}
 15. <https://plainenglish.io/blog/python-simple-http-server-with-ssl-certificate-encrypted-traffic-73ffd491a876>
 
 16. <https://realpython.com/python-chainmap>
+
+17. [Build Python apps with Microsoft Graph](https://learn.microsoft.com/en-us/graph/tutorials/python)
