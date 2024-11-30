@@ -169,6 +169,8 @@ Compatible Issue: Latest need be compatible with old version, Client need be com
 [What is NAS](https://www.techtarget.com/searchstorage/definition/network-attached-storage),
 [NAS选型与搭建过程](https://jysperm.me/2020/11/my-opensource-nas-build)
 
+[助焊剂](https://baike.baidu.com/item/助焊剂/9947430)
+
 ## Video Capture Card
 <https://cn.hagibis.com>, <https://www.hqchip.com>,
 [海备思USB视频采集卡拆解](https://www.bilibili.com/read/cv17186656),
