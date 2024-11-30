@@ -97,6 +97,11 @@
 
 14. [函数（xy/（（x＾2）+（y＾2）））的图像](https://www.zhihu.com/question/370753167)
 
+15. [曲面族的包络](https://www.59baike.com/a/410002-49)
+16. [恰当形式](https://baike.baidu.com/item/恰当形式/18917881)
+17. [射影几何](https://baike.baidu.com/item/射影几何/1296885)
+18. [配极原理](https://baike.baidu.com/item/配极原理/22711055)
+
 ## 代数
 
 1. [代数与几何的关系](https://www.zhihu.com/question/368249691/answer/1020825288)
