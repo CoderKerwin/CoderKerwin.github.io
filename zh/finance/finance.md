@@ -54,3 +54,19 @@
 33. [2023年中国石墨烯产业链图谱研究分析](https://www.seccw.com/Document/detail/id/25405.html)
 
 34. 工商管理硕士
+
+35. [未确认融资费用](https://baike.baidu.com/item/未确认融资费用/11040001)
+36. [辨析“其他权益工具”及“其他权益工具投资”科目的确认与计量规则(二)](https://shuo.news.esnai.com/article/202207/231343.shtml)
+37. [其他权益工具](https://www.dongao.com/zckjs/kj/202301054075475.shtml)
+38. [低空经济连载系列](https://xueqiu.com/1798660074/311227543)
+39. [eVTOL百舸争流](https://m.sohu.com/a/826725179_237556/?pvid=000115_3w_a)
+40. [低空经济的核心——eVTOL](https://zhuanlan.zhihu.com/p/685357851)
+
+41. [OKX](https://www.utjjxjwfnj.com/download)
+42. <https://gdc-server.com>
+43. <https://awsdatas.com>
+
+44. [百度萝卜快跑携手武汉打造自动驾驶第一城](https://zhuanlan.zhihu.com/p/684636975)
+
+45. [黄鼠狼的生活习性](https://m.tuliu.com/wnews/read-136939.html)
+
