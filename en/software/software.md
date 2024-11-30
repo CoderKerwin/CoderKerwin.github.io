@@ -117,7 +117,8 @@ readelf, nm, objdump, dumpbin
 ### GDB
 [Options for Debugging Your Program](https://gcc.gnu.org/onlinedocs/gcc/Debugging-Options.html)
 
-[gdb调试用法](https://www.cnblogs.com/ims-/p/10529393.html)
+[gdb调试用法](https://www.cnblogs.com/ims-/p/10529393.html),
+[GDB调试教程](https://geekdaxue.co/read/myheros@pkwqzc/pqq09f)
 
 编译选项：-g
 
@@ -626,6 +627,12 @@ Refs:
 [Converting image format](https://docs.openstack.org/image-guide/convert-images.html),
 [QEMU Start](https://blog.csdn.net/fontthrone/article/details/104157859),
 
+<https://wiki.qemu.org/Feature/Q35>
+
+[Windows下QEMU虚拟化探索](https://www.cnblogs.com/suzhoulaowang/p/18195323)
+[UEFI启动原理及qemu虚拟化中使用](https://blog.csdn.net/weixin_43269452/article/details/139861998)
+<https://pve.proxmox.com/pve-docs/pve-admin-guide.html>
+
 ## STREAM
 [本地搭建RTMP服务](https://blog.csdn.net/yelin042/article/details/106448111),
 [直播推流操作手册](https://blog.csdn.net/lovebird321/article/details/105532759),
@@ -648,6 +655,17 @@ Refs:
 
 ## HOTKEYS
 1. `CTRL + TAB/PAGEUP/PAGEDOWN`: Switch pages in EDGE/CHROME explorer
+
+## GUI
+1. <https://github.com/slint-ui/slint/tree/master/examples/uefi-demo>
+2. <https://github.com/google/skia>
+3. [Skia全面解读](https://endlessyoung.github.io/Blog_/Android/Skia.html)
+4. [Skia编译及踩坑实践](https://helloworld.net/p/8339648946)
+5. [Skia VS Impeller](https://segmentfault.com/a/1190000045115269)
+6. [Skia Overview and API Reference](https://zhuanlan.zhihu.com/p/157587058)
+
+## SECURITY
+1. [MSI UEFI私钥泄露事件简要分析](https://www.secrss.com/articles/54636)
 
 # SYSTEM SOFTWARE
 
