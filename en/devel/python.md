@@ -239,6 +239,8 @@ python -m pip --proxy {proxy_server} install {module}
 3. [Windows下python的tab自动补全                                                                                ](https://www.cnblogs.com/51zf/p/9182791.html)
 4. [Python 指定窗口截屏                                                                                         ](https://www.cnblogs.com/guxingy/p/12201076.html)
 5. [AttributeError: 'FigureCanvasTkAgg' object has no attribute 'show' and ValueError: Masked arrays must be 1-D](https://www.cnblogs.com/zhhy236400/p/9958889.html)
+6. [Python使用非阻塞IO                                                                                          ](https://www.cnblogs.com/kirito-c/p/12794298.html)
+7. [Jupyter渲染网页的3种方式                                                                                    ](https://www.cnblogs.com/chenqionghe/p/12373387.html)
 
 ### Miscellaneous
 1. [用python发送表格数据到邮箱](https://www.jianshu.com/p/a04eafcc2f69)
@@ -262,8 +264,6 @@ python -m pip --proxy {proxy_server} install {module}
 11. [Command-line options](https://mrjob.readthedocs.io/en/latest/job.html)
 
 12. [Working with Excel Files in Python](https://www.python-excel.org): [openpyxl](https://openpyxl.readthedocs.io/en/stable/tutorial.html)
-
-13. [Jupyter渲染网页的3种方式](https://www.cnblogs.com/chenqionghe/p/12373387.html)
 
 14. <https://www.pythonrequests.com/python-requests-unable-to-get-local-issuer-certificate>
 15. <https://plainenglish.io/blog/python-simple-http-server-with-ssl-certificate-encrypted-traffic-73ffd491a876>
