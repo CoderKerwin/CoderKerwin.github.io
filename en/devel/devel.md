@@ -171,6 +171,9 @@ Compatible Issue: Latest need be compatible with old version, Client need be com
 
 [助焊剂](https://baike.baidu.com/item/助焊剂/9947430)
 
+<https://www.futureelectronics.cn/c/serial/products>
+<https://www.mouser.cn/c/semiconductors/memory-ics/nor-flash>
+
 ## Video Capture Card
 <https://cn.hagibis.com>, <https://www.hqchip.com>,
 [海备思USB视频采集卡拆解](https://www.bilibili.com/read/cv17186656),
@@ -285,8 +288,6 @@ XCC      : eXtreme Core Count (极限核心数)
 <https://github.com/tianocore-training>             ：edk2相关培训资料仓库
 <https://bugzilla.tianocore.org>                    ：bug与feature跟踪系统
 <https://edk2.groups.io>                            ：maillist讨论
-<https://github.com/microsoft/mu_tiano_plus>        ：微软的uefi项目
-<https://github.com/microsoft/mu_basecore>          ：微软的uefi项目
 
 [FWTS](https://uefi.org/sites/default/files/resources/fwts_uefi_0920_2013.pdf)
 
@@ -325,6 +326,14 @@ Change Boot Option: `efibootmgr` in linux, `msconfig` in windows, `ipmitool` in 
 <https://ipxe.org>: <https://github.com/ipxe/ipxe>
 
 <https://github.com/Kostr/UEFI-Lessons>
+
+### MU
+--------------------------------------|-----------------
+<https://github.com/microsoft/mu>            | 微软UEFI项目
+<https://github.com/microsoft/mu_tiano_plus> | ^
+<https://github.com/microsoft/mu_basecore>   | ^
+<https://github.com/microsoft/mu_plus>       | ^
+
 
 ### BMC
 
