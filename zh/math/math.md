@@ -70,6 +70,10 @@
 3. [从韩信点兵到拉格朗日插值多项式及其推广（三）——埃尔米插值多项式与范德蒙行列式的推广](https://zhuanlan.zhihu.com/p/563566506)
 4. [浙大第四版《概率论与数理统计》课后习题答案解析最全分享                            ](https://zhuanlan.zhihu.com/p/358299124)
 
+5. [曲面族的包络](https://www.59baike.com/a/410002-49)
+6. [射影几何    ](https://baike.baidu.com/item/射影几何/1296885)
+7. [海伦公式    ](https://baike.baidu.com/item/海伦公式)
+
 ## 分析
 
 1. [微积分和数学分析引论](http://www.downcc.com/soft/125454.html)
@@ -97,10 +101,9 @@
 
 14. [函数（xy/（（x＾2）+（y＾2）））的图像](https://www.zhihu.com/question/370753167)
 
-15. [曲面族的包络](https://www.59baike.com/a/410002-49)
-16. [恰当形式](https://baike.baidu.com/item/恰当形式/18917881)
-17. [射影几何](https://baike.baidu.com/item/射影几何/1296885)
-18. [配极原理](https://baike.baidu.com/item/配极原理/22711055)
+15. [恰当形式    ](https://baike.baidu.com/item/恰当形式/18917881)
+16. [配极原理    ](https://baike.baidu.com/item/配极原理/22711055)
+17. [赫尔德不等式](https://baike.baidu.com/item/赫尔德不等式)
 
 ## 代数
 
