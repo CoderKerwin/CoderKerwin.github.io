@@ -21,6 +21,7 @@ Compatible Issue: Latest need be compatible with old version, Client need be com
 
 ### CPP
 1. [History of C](https://en.cppreference.com/w/c/language/history)
+2. <https://virtualddd.com/videos/sandi-metz-talk-session-polly-want-a-message>
 
 #### Online Compiler
 1. <https://godbolt.org>
