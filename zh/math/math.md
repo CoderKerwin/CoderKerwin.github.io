@@ -1,4 +1,17 @@
 # 数学
+领域     | 明细
+---------|------------------------------------------------
+数学基础 | 范畴论 集合论 数理逻辑 数学哲学
+代数     | 抽象 交换 群论 线性
+数学分析 | 微积分 实变 复变 微分方程 泛函 调和 傅里叶 几何
+离散数学 | 组合数学 图论 序理论 博弈论
+几何     | 代数 解析 微分 离散 欧式 非欧
+数论     | 算数 代数 解析 几何 丢潘图
+拓扑     | 点集 代数 微分 几何
+统计     | 测度与概率 数理统计 数学科学 统计推断 回归分析
+计算数学 | 计算理论 数值分析 最优化
+应用数学 | 控制论 信息论 数理经济学 计量经济学 数理金融学
+其他     | 娱乐数学 数学与艺术
 
 1. [数学专业最全介绍](https://zhuanlan.zhihu.com/p/399827103)
 
@@ -73,6 +86,8 @@
 5. [曲面族的包络](https://www.59baike.com/a/410002-49)
 6. [射影几何    ](https://baike.baidu.com/item/射影几何/1296885)
 7. [海伦公式    ](https://baike.baidu.com/item/海伦公式)
+8. [椭球面      ](https://baike.baidu.com/item/椭球面)
+9. [椭球        ](http://www.shuxueji.com/w/19029)
 
 ## 分析
 
@@ -215,3 +230,9 @@
 24. <https://matplotlib.org/stable/users/getting_started>
 
 25. [克莱罗方程](https://baike.baidu.com/item/克莱罗方程)
+
+26. [数学百科](http://www.shuxueji.com)
+
+27. <https://zh.wikipedia.org/wiki/数学>
+28. <https://zh.wikipedia.org/wiki/数学领域>
+29. <https://zh.wikipedia.org/wiki/数学学科分类标准>
