@@ -14,3 +14,5 @@
 3. [科学文库](https://book.sciencereading.cn): <https://www.sciencereading.cn>
 
 4. [Z-Library](https://topstip.com/the-worlds-largest-digital-library-z-library-newly-available-official-site-and-mirror): <https://www.cnblogs.com/Z-Library/p/18379797>
+
+5. <https://discover.clarivate.com/Research_Fronts_2024_CN>
