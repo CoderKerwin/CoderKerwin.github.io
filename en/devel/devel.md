@@ -525,6 +525,9 @@ Big Endian − In this scheme, high-order byte is stored on the starting address
 ## Probility
 <https://birch-lang.org>, <https://www.birch.sh>
 
+## QA
+[bits/c++config.h找不到](https://blog.csdn.net/seafit/article/details/54174375)
+
 ## Others
 
 [计算机程序](https://baike.baidu.com/item/程序/13831935),
