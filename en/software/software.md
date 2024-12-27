@@ -751,6 +751,9 @@ windows设置里面，账户选项卡，账户信息里面，账户设置里选�
 
 <https://cdimage.debian.org/cdimage/cloud/sid/daily>, <https://cdimage.ubuntu.com/releases>
 
+`env|grep -i proxy`: `/etc/environment`, `no_proxy/NO_PROXY`
+`/etc/profile`
+
 #### Native Command Line
 | Name                                                      | Description                                         |
 |-----------------------------------------------------------|-----------------------------------------------------|
