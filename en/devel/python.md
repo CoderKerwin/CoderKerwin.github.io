@@ -187,6 +187,10 @@ python -m pip --proxy {proxy_server} install {module}
 5. <https://pypi.org/project/requests-kerberos>: `HTTPKerberosAuth`
 6. <https://pypi.org/project/certifi>: `InsecureRequestWarning`
 
+#### Interactive
+1. <https://pypi.org/project/jupyterlab>
+2. <https://pypi.org/project/ipython>: <https://ipython.readthedocs.io/en/stable/api/generated/IPython.display.html>
+
 #### Miscellanous
 1. <https://pypi.org/project/Office365-REST-Python-Client>: <https://github.com/vgrem/Office365-REST-Python-Client>
 
