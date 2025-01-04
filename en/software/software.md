@@ -686,6 +686,9 @@ windows设置里面，账户选项卡，账户信息里面，账户设置里选�
 
 [win11微软拼音输入法选字候选框无法显示](https://zhuanlan.zhihu.com/p/430128136)
 
+[“磁盘空间不足”错误](https://blog.csdn.net/weixin_36086032/article/details/113327035),
+[临时文件夹已满或不能访问](https://blog.csdn.net/qq_48081868/article/details/132097740)
+
 <https://learn.microsoft.com>
 
 <https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/systeminfo>
