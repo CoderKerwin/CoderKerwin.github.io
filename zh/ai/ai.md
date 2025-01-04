@@ -272,3 +272,5 @@ Mirror: <https://hf-mirror.com>
 97. [ChatGPT Shortcuts                                                                                         ](https://learning.oreilly.com/playlists/1a47d633-5de3-4363-9e6e-2ea9ec1a60d5)
 98. [How AI Works                                                                                              ](https://learning.oreilly.com/library/view/how-ai-work/9781098168568)
 99. [Hacking Artificial Intelligence                                                                           ](https://learning.oreilly.com/videos/hacking-artificial-intelligence/9781663719379)
+
+100. [深度求索](https://www.deepseek.com): <https://api-docs.deepseek.com/zh-cn>
