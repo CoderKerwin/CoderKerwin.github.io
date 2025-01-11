@@ -704,6 +704,8 @@ windows设置里面，账户选项卡，账户信息里面，账户设置里选�
 <https://developer.microsoft.com/en-us/graph/quick-start>,
 <https://learn.microsoft.com/en-us/graph/overview>
 
+[win10 挂载NFS](https://blog.csdn.net/qq_34158598/article/details/81976063)
+
 #### Native Command Line
 | Name                                                                                                    | Description                                      |
 |---------------------------------------------------------------------------------------------------------|--------------------------------------------------|
@@ -756,6 +758,10 @@ windows设置里面，账户选项卡，账户信息里面，账户设置里选�
 
 `env|grep -i proxy`: `/etc/environment`, `no_proxy/NO_PROXY`
 `/etc/profile`
+
+[cp复制软连接](https://www.cnblogs.com/chentiao/p/17363300.html)
+
+[Linux NFS文件共享](https://blog.csdn.net/Dark_Tk/article/details/114100517)
 
 #### Native Command Line
 | Name                                                      | Description                                         |
