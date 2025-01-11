@@ -191,6 +191,9 @@ python -m pip --proxy {proxy_server} install {module}
 1. <https://pypi.org/project/jupyterlab>
 2. <https://pypi.org/project/ipython>: <https://ipython.readthedocs.io/en/stable/api/generated/IPython.display.html>
 
+#### Parser
+1. <https://pypi.org/project/beautifulsoup4>
+
 #### Miscellanous
 1. <https://pypi.org/project/Office365-REST-Python-Client>: <https://github.com/vgrem/Office365-REST-Python-Client>
 
