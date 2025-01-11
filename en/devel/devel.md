@@ -254,6 +254,7 @@ XCC      : eXtreme Core Count (极限核心数)
 <https://github.com/openSIL/openSIL>
 
 <https://github.com/hardenedlinux>,
+<https://github.com/openwrt>,
 <https://github.com/openbmc>,
 <https://github.com/oreboot/oreboot>,
 <https://github.com/hardenedvault/vaultboot>
@@ -273,6 +274,9 @@ XCC      : eXtreme Core Count (极限核心数)
 [Intel 处理器 VT-d 架构 Kernel DMA 保护机制研究](https://blog.csdn.net/systemino/article/details/106838766)
 
 <https://www.intel.com/content/dam/develop/external/us/en/documents/intel-whitepaper-using-iommu-for-dma-protection-in-uefi.pdf>
+
+[Yocto项目介绍及入门](https://www.cnblogs.com/chegxy/p/14394333.html)
+[openbmc编译错误汇总](https://www.cnblogs.com/chegxy/p/14243248.html)
 
 ### TIANOCORE
 
