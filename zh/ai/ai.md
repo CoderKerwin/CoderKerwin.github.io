@@ -274,3 +274,4 @@ Mirror: <https://hf-mirror.com>
 99. [Hacking Artificial Intelligence                                                                           ](https://learning.oreilly.com/videos/hacking-artificial-intelligence/9781663719379)
 
 100. [深度求索](https://www.deepseek.com): <https://api-docs.deepseek.com/zh-cn>
+101. [豆包](https://www.doubao.com)
