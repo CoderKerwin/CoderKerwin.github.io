@@ -530,6 +530,11 @@ fork in github:
 
 <https://24timezones.com/#/map>
 
+### CALENDAR
+
+1. <https://blog.csdn.net/gitblog_00026/article/details/139210730>, <https://gitcode.com/gh_mirrors/cal/Calendar.js>, <https://calendar-js.com/download.html>
+2. <https://blog.csdn.net/gitblog_00070/article/details/139517876>, <https://gitcode.com/gh_mirrors/op/open-web-calendar>
+
 ## COMMUNICATION
 
 ### WECHAT
