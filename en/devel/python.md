@@ -142,6 +142,7 @@ python -m pip --proxy {proxy_server} install {module}
 60. <https://docs.python.org/3/library/datetime.html>: today()
 61. <https://docs.python.org/3/library/calendar.html>
 62. <https://docs.python.org/3/library/logging.html>
+63. <https://docs.python.org/3/library/webbrowser.html>: open()
 
 ### Github Python Repository
 1. <https://github.com/python/cpython/blob/main/Lib/os.py>
