@@ -242,25 +242,6 @@ Mirror: <https://hf-mirror.com>
 
 74. <https://blog.langchain.dev/retrieval>, <https://cookbook.langchain.com.cn/docs/langchain-intro>
 
-74. <https://learn.microsoft.com/en-us/training/modules/explore-azure-openai/1-introduction>
-75. <https://learn.microsoft.com/en-us/training/modules/explore-azure-openai/4-how-to-use-azure-openai>
-76. <https://learn.microsoft.com/en-us/training/modules/explore-azure-openai/8a-exercise-openai>
-
-77.  <https://learn.microsoft.com/en-us/azure/ai-services/openai/reference>
-78. <https://learn.microsoft.com/en-us/azure/ai-services/openai/quickstart>
-79. <https://learn.microsoft.com/en-us/azure/ai-services/authentication>
-80. <https://learn.microsoft.com/en-us/azure/ai-services/disable-local-auth>
-
-81. <https://learn.microsoft.com/en-us/entra/identity-platform/quickstart-register-app>
-82. <https://learn.microsoft.com/en-us/entra/identity-platform/howto-restrict-your-app-to-a-set-of-users>
-83. <https://learn.microsoft.com/en-us/entra/identity-platform/scopes-oidc>
-84. <https://learn.microsoft.com/en-us/entra/identity-platform/consent-types-developer>
-85. <https://learn.microsoft.com/en-us/entra/identity-platform/msal-acquire-cache-tokens>
-
-86. <https://learn.microsoft.com/en-us/graph/api/drive-sharedwithme>
-87. <https://learn.microsoft.com/en-us/graph/api/driveitem-get-content>
-88. <https://learn.microsoft.com/en-us/graph/permissions-reference>
-
 89. [ChatGPT and Competing LLMs                                                                                ](https://www.oreilly.com/live-events/chatgpt-and-competing-llms/0636920097613): <https://github.com/DataForScience/ChatGPT>
 90. [ChatGPT for Software Engineers                                                                            ](https://www.oreilly.com/live-events/chatgpt-for-software-engineers/0636920090062)
 91. [Prompt Engineering for Generative AI                                                                      ](https://www.oreilly.com/library/view/prompt-engineering-for/9781098153427): <https://github.com/BrightPool/prompt-engineering-for-generative-ai-examples.git>
@@ -275,3 +256,40 @@ Mirror: <https://hf-mirror.com>
 
 100. [深度求索](https://www.deepseek.com): <https://api-docs.deepseek.com/zh-cn>
 101. [豆包](https://www.doubao.com)
+
+102. <https://www.office.com/?auth=1>
+
+103. <https://developer.microsoft.com>
+104. <https://developer.microsoft.com/zh-cn/azure>
+105. <https://developer.microsoft.com/en-us/microsoft-365/profile>
+
+106. <https://learn.microsoft.com/>
+107. <https://learn.microsoft.com/zh-cn/graph/api/resources/onedrive?view=graph-rest-1.0>
+
+108. <https://www.microsoft365.com/>
+109. <https://www.microsoft365.com/apps?auth=1&home=1>
+
+110. <https://account.microsoft.com/?ref=MeControl>
+
+111. <https://portal.azure.com/>
+112. <https://azure.microsoft.com/zh-cn/pricing/purchase-options/azure-account?icid=developer&wt.mc_id=developermscom>
+
+113. <https://learn.microsoft.com/en-us/training/modules/explore-azure-openai/1-introduction>
+114. <https://learn.microsoft.com/en-us/training/modules/explore-azure-openai/4-how-to-use-azure-openai>
+115. <https://learn.microsoft.com/en-us/training/modules/explore-azure-openai/8a-exercise-openai>
+
+116.  <https://learn.microsoft.com/en-us/azure/ai-services/openai/reference>
+117. <https://learn.microsoft.com/en-us/azure/ai-services/openai/quickstart>
+118. <https://learn.microsoft.com/en-us/azure/ai-services/authentication>
+119. <https://learn.microsoft.com/en-us/azure/ai-services/disable-local-auth>
+
+120. <https://learn.microsoft.com/en-us/entra/identity-platform/quickstart-register-app>
+121. <https://learn.microsoft.com/en-us/entra/identity-platform/howto-restrict-your-app-to-a-set-of-users>
+122. <https://learn.microsoft.com/en-us/entra/identity-platform/scopes-oidc>
+123. <https://learn.microsoft.com/en-us/entra/identity-platform/consent-types-developer>
+124. <https://learn.microsoft.com/en-us/entra/identity-platform/msal-acquire-cache-tokens>
+
+125. <https://learn.microsoft.com/en-us/graph/api/drive-sharedwithme>
+126. <https://learn.microsoft.com/en-us/graph/api/driveitem-get-content>
+127. <https://learn.microsoft.com/en-us/graph/permissions-reference>
+
