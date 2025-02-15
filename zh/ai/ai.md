@@ -35,6 +35,7 @@ python3 -m spacy download pt_core_news_sm
 ## 框架
 
 ### [PYTORCH](https://pytorch.org)
+<https://github.com/pytorch>
 
 1. [Introduction](https://pytorch.org/tutorials/beginner/basics/intro.html), [nn.Module]((https://pytorch.org/docs/stable/generated/torch.nn.Module.html), [nn.Transformer](https://pytorch.org/docs/stable/generated/torch.nn.Transformer.html), [data.DataLoader](https://pytorch.org/docs/stable/data.html), [nn.Linear](http://pytorch.org/docs/stable/generated/torch.nn.Linear.html), [nn.Embedding](https://pytorch.org/docs/stable/generated/torch.nn.Embedding.html), [nn.CrossEntropyLoss.html](https://pytorch.org/docs/stable/generated/torch.nn.CrossEntropyLoss.html)
 2. [PyTorch 数据处理教程(1)      ](https://zhuanlan.zhihu.com/p/448064320): <https://learn.microsoft.com/en-us/training/modules/intro-machine-learning-pytorch/4-model>
@@ -80,6 +81,7 @@ Mirror: <https://hf-mirror.com>
 9.  <https://github.com/DataForScience/ChatGPT>
 10. <https://github.com/Azure-Samples/azure-search-openai-demo>
 11. <https://github.com/lencx/ChatGPT>
+12. <https://github.com/mlabonne/llm-course>
 
 1. <https://huggingface.co/spaces/project-baize/baize-lora-7B>
 
