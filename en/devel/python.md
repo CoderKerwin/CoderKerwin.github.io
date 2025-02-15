@@ -197,6 +197,7 @@ python -m pip --proxy {proxy_server} install {module}
 
 #### Miscellanous
 1. <https://pypi.org/project/Office365-REST-Python-Client>: <https://github.com/vgrem/Office365-REST-Python-Client>
+2. <https://pypi.org/project/psutil>
 
 ### RUNOOB
 1. [Python format 格式化函数](https://www.runoob.com/python/att-string-format.html)
