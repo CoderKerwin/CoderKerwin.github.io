@@ -218,21 +218,22 @@
 
 18. [numpy中的log和ln函数](https://blog.csdn.net/u011699626/article/details/118885071)
 
-19. [MarkDown数学公式](https://zhuanlan.zhihu.com/p/441454622)
+19. [MarkDown数学公式](https://www.cnblogs.com/syqwq/p/15190115.html)
+20. [MarkDown数学公式](https://zhuanlan.zhihu.com/p/441454622)
 
-20. <https://math.stackexchange.com/questions/1857317/why-deta-1-1-deta>
-21. <https://math.stackexchange.com/questions/842898/is-detab-detba>
+21. <https://math.stackexchange.com/questions/1857317/why-deta-1-1-deta>
+22. <https://math.stackexchange.com/questions/842898/is-detab-detba>
 
-22. [柯西方程与柯西方法](https://zhuanlan.zhihu.com/p/80543711)
+23. [柯西方程与柯西方法](https://zhuanlan.zhihu.com/p/80543711)
 
-23. <https://numpy.org/devdocs/user/quickstart.html>
+24. <https://numpy.org/devdocs/user/quickstart.html>
 
-24. <https://matplotlib.org/stable/users/getting_started>
+25. <https://matplotlib.org/stable/users/getting_started>
 
-25. [克莱罗方程](https://baike.baidu.com/item/克莱罗方程)
+26. [克莱罗方程](https://baike.baidu.com/item/克莱罗方程)
 
-26. [数学百科](http://www.shuxueji.com)
+27. [数学百科](http://www.shuxueji.com)
 
-27. <https://zh.wikipedia.org/wiki/数学>
-28. <https://zh.wikipedia.org/wiki/数学领域>
-29. <https://zh.wikipedia.org/wiki/数学学科分类标准>
+28. <https://zh.wikipedia.org/wiki/数学>
+29. <https://zh.wikipedia.org/wiki/数学领域>
+30. <https://zh.wikipedia.org/wiki/数学学科分类标准>
