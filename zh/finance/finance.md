@@ -71,3 +71,12 @@
 45. [黄鼠狼的生活习性](https://m.tuliu.com/wnews/read-136939.html)
 
 46. [自由职业社保缴费指南](https://post.smzdm.com/p/a07n6929)
+
+47. <http://www.canet.com.cn>: <https://www.kuaijitong.com>
+48. <https://www.kuaiji.com/cpa/shiti>
+49. <https://www.cpaxqz.com/exam>
+
+50. <https://zhuanlan.zhihu.com/p/372679662>
+51. <https://zhuanlan.zhihu.com/p/372308468>
+52. [名创优品 vs 泡泡玛特 vs 无印良品](https://xueqiu.com/4729177523/315081899)
+53. <https://finance.sina.com.cn/roll/2025-02-07/doc-ineisatz3255504.shtml>
