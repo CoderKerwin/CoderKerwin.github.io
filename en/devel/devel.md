@@ -132,6 +132,10 @@ Compatible Issue: Latest need be compatible with old version, Client need be com
 [StarFive RISCV NAS](https://www.elecfans.com/d/3088819.html)
 [RISCV NAS](https://www.xda-developers.com/building-a-risc-v-nas)
 
+[QEMU RISC-V](https://docs.u-boot.org/en/latest/board/emulation/qemu-riscv.html)
+: <https://tinylab.org/riscv-opensbi-quickstart>,
+<https://gitee.com/tinylab/opensbi>
+
 ## HARDWARE
 
 [关于MCU内部flash存储数据的寿命及提高擦写次数的方法](https://blog.csdn.net/baodewang/article/details/111247653)
