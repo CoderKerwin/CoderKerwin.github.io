@@ -41,6 +41,15 @@ python3 -m spacy download pt_core_news_sm
 2. [PyTorch 数据处理教程(1)      ](https://zhuanlan.zhihu.com/p/448064320): <https://learn.microsoft.com/en-us/training/modules/intro-machine-learning-pytorch/4-model>
 3. [Torchtext Field新版本中被移除](https://zhuanlan.zhihu.com/p/485686510): `python3 -m pip install torch==1.9.0 torchtext==0.10.0`, <https://github.com/pytorch/text/blob/master/examples/legacy_tutorial/migration_tutorial.ipynb>
 
+### [百度飞桨](https://www.paddlepaddle.org.cn)
+
+### [OLLAMA](https://ollama.com)
+Mirror: <https://ollama.org.cn>
+
+Begginer: [Ollama 本地运行大模型(LLM)完全指南](https://blog.csdn.net/2401_85390073/article/details/144569533)
+
+Chatbox, [Dify知识库](https://github.com/langgenius/dify.git)
+
 ### [Huggingface](https://huggingface.co)
 
 Mirror: <https://hf-mirror.com>
