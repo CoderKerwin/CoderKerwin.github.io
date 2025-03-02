@@ -42,6 +42,10 @@ python3 -m spacy download pt_core_news_sm
 3. [Torchtext Field新版本中被移除](https://zhuanlan.zhihu.com/p/485686510): `python3 -m pip install torch==1.9.0 torchtext==0.10.0`, <https://github.com/pytorch/text/blob/master/examples/legacy_tutorial/migration_tutorial.ipynb>
 
 ### [百度飞桨](https://www.paddlepaddle.org.cn)
+<https://ai.baidu.com/ai-doc>, <https://aistudio.baidu.com>
+
+## 社区
+### [魔塔社区](https://modelscope.cn)
 
 ### [OLLAMA](https://ollama.com)
 Mirror: <https://ollama.org.cn>
@@ -51,7 +55,6 @@ Begginer: [Ollama 本地运行大模型(LLM)完全指南](https://blog.csdn.net/
 Chatbox, [Dify知识库](https://github.com/langgenius/dify.git)
 
 ### [Huggingface](https://huggingface.co)
-
 Mirror: <https://hf-mirror.com>
 
 #### [datasets](https://huggingface.co/docs/datasets)
@@ -78,21 +81,21 @@ Mirror: <https://hf-mirror.com>
 
 1. <https://github.com/huggingface/transformers>
 
-## Repositories
-1.  <https://github.com/topics/machine-learning>
-2.  <https://github.com/project-baize/baize>
-3.  <https://github.com/intel/openfl>: `pip install openfl, docker pull intel/openfl`
-4.  <https://github.com/facebookresearch/llama>
-5.  <https://github.com/microsoft/sample-app-aoai-chatGPT>
-6.  <https://github.com/Dao-AILab/flash-attention>
-7.  <https://github.com/xai-org/grok-1>
-8.  <https://github.com/hpcaitech/Open-Sora>
-9.  <https://github.com/DataForScience/ChatGPT>
-10. <https://github.com/Azure-Samples/azure-search-openai-demo>
-11. <https://github.com/lencx/ChatGPT>
-12. <https://github.com/mlabonne/llm-course>
-
 1. <https://huggingface.co/spaces/project-baize/baize-lora-7B>
+
+## 云厂(CSP)
+### [百度](https://ai.baidu.com)
+### [阿里](https://www.aliyun.com)
+### [微软](https://portal.azure.com)
+### 亚马逊
+### 谷歌
+
+## 大模型
+### 腾讯元宝/腾讯混元
+### 华为盘古
+### 字节豆包
+### 百度文心
+### 阿里千问
 
 ## 书单
 1.  [李航. 统计学习方法. 清华大学出版社                          ](https://zhuanlan.zhihu.com/p/599249709)
@@ -119,6 +122,20 @@ Mirror: <https://hf-mirror.com>
 ### 阅读中
 1. 机器学习实战
 2. 最优化：建模、算法与理论
+
+## Repositories
+1.  <https://github.com/topics/machine-learning>
+2.  <https://github.com/project-baize/baize>
+3.  <https://github.com/intel/openfl>: `pip install openfl, docker pull intel/openfl`
+4.  <https://github.com/facebookresearch/llama>
+5.  <https://github.com/microsoft/sample-app-aoai-chatGPT>
+6.  <https://github.com/Dao-AILab/flash-attention>
+7.  <https://github.com/xai-org/grok-1>
+8.  <https://github.com/hpcaitech/Open-Sora>
+9.  <https://github.com/DataForScience/ChatGPT>
+10. <https://github.com/Azure-Samples/azure-search-openai-demo>
+11. <https://github.com/lencx/ChatGPT>
+12. <https://github.com/mlabonne/llm-course>
 
 ## 参考
 1. [Logit详细解释](https://zhuanlan.zhihu.com/p/27188729)
