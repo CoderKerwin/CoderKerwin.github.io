@@ -25,8 +25,82 @@ ACRONYM | Meaning
  CNN    | Convolutional Neural Network
  SAN    | Stacked Auto-encoder Network
 
-## 代码
+## 最新资讯网站
+- https://www.aigc.cn
+- https://www.xsignal.ai
+  - https://www.aitntnews.com/newDetail.html?newId=12555
+  - https://zhuanlan.zhihu.com/p/4283586229
+- https://www.aibase.com/zh/daily
+- https://ai-bot.cn/daily-ai-news
+- https://github.com/taishi-i/awesome-ChatGPT-repositories
 
+## 相关学习网站
+- https://nndl.github.io
+  - https://nndl.github.io/nndl-book.pdf
+  - https://github.com/nndl/practice-in-paddle
+- https://hf-mirror.com/learn
+- https://github.com/d2l-ai/d2l-zh
+- https://gamma.app/docs/AI--z5kkj53jkqgpdmw?mode=doc
+- https://gamma.app/docs/AI-Dev-9y7n4vslcp2bot2?mode=doc#card-f1aitab14gpk15b
+- https://www.youtube.com/watch?v=LPZh9BOjkQs
+- https://www.youtube.com/watch?v=7xTGNNLPyMI
+
+### 书单
+1.  [李航. 统计学习方法. 清华大学出版社                          ](https://zhuanlan.zhihu.com/p/599249709)
+2.  [李航老师《统计学习方法》及相关资源（代码、课件）的汇总及下载](https://blog.csdn.net/master_Shen/article/details/121354650)
+3.  [机器学习实战 人民邮电出版社               ](https://www.mr-wu.cn/machine-learning-in-action-free-ebook)
+4.  [机器学习实战 微信读书                     ](https://weread.qq.com/web/reader/3a232380718ff63f3a281acke4d32d5015e4da3b7fbb1fa)
+5.  [《机器学习》周志华 PDF 下载                                 ](https://zhuanlan.zhihu.com/p/594408532)：含百度网盘下载链接
+6.  [周志华. 机器学习. 清华大学出版社                            ](https://www.zhihu.com/question/39945249)
+7.  [北大新书教材推荐《最优化：建模、算法与理论》](https://zhuanlan.zhihu.com/p/364637287)
+8.  [最优化：建模、算法与理论](http://faculty.bicmr.pku.edu.cn/~wenzw/optbook/opt1.pdf)
+9.  [邱锡鹏. 神经网络与深度学习. 机械工业出版社                  ](https://nndl.github.io)
+10. [《回归分析及其试验设计》华东师范大学出版社                  ]
+11. [<<机器翻译统计建模与深度学习方法>>](https://github.com/NiuTrans/MTBook), [<<机器翻译统计建模与深度学习方法>>](https://opensource.niutrans.com/mtbook)
+12. [Machine Learning in Action](https://www.manning.com/books/machine-learning-in-action): [`Source Code`](https://www.manning.com/downloads/1108)
+13. [Deep Learning](https://www.deeplearningbook.org): <https://github.com/exacity/deeplearningbook-chinese>, <https://github.com/daviddao/deep-learning-book/blob/master/DeepLearningBook.pdf>
+14. [开源项目与评测](https://opensource.niutrans.com/mtbook/section1-7.html)
+
+#### 阅读中
+1. 机器学习实战
+2. 最优化：建模、算法与理论
+
+## 相关模型网站
+- https://ai.gitee.com
+  - https://ai.gitee.com/serverless-api
+- https://ai.baidu.com
+  - https://ai.baidu.com/ai-doc
+  - https://ai.baidu.com/ai-doc/AISTUDIO/rm344erns
+  - https://aistudio.baidu.com/overview
+  - https://aistudio.baidu.com/projectdetail/8750579?channelType=0&channel=0
+  - https://aistudio.baidu.com/projectdetail/5829127?channelType=0&channel=0
+
+## 模型厂商网站
+- https://github.com/deepseek-ai
+- https://github.com/openai
+  - https://github.com/openai/openai-agents-python/blob/b978b4382ef7e6b7f78982e0d0a9c3c758ec886c/examples/model_providers/custom_example_agent.py
+  - https://github.com/openai/evals/blob/main/evals/cli/oaieval.py
+
+## 数据相关网站
+- https://commoncrawl.org
+
+## 工具网站
+- https://www.doubao.com
+- https://chat.deepseek.com
+- https://www.sankeyart.com
+- https://gamma.app
+- https://shields.io
+- https://primer.style
+- https://octodex.github.com
+  - https://github.githubassets.com/pinned-octocat.svg
+- https://pandoc.org/index.html
+
+## 其他
+- https://medium.com/@wangxj03/semantic-code-search-010c22e7d267
+- https://github.com/yuruotong1/automate
+- https://github.com/DataForScience/ChatGPT
+
+## 代码
 ```shell
 python3 -m pip install datasets scipy matplotlib torch torchtext ipywidgets nltk watermark bertviz spacy networkx
 python3 -m spacy download pt_core_news_sm
@@ -44,11 +118,28 @@ python3 -m spacy download pt_core_news_sm
 ### [百度飞桨](https://www.paddlepaddle.org.cn)
 <https://ai.baidu.com/ai-doc>, <https://aistudio.baidu.com>
 
+### [llama.cpp](https://github.com/ggml-org/llama.cpp)
+- https://github.com/ggml-org/llama.cpp/discussions/12088
+
+#### [ik_llama.cpp](https://github.com/ikawrakow/ik_llama.cpp)
+
+### [KTransformers](https://github.com/kvcache-ai/KTransformers)
+
+### [vllm](https://docs.vllm.ai)
+
+### [MCP](https://modelcontextprotocol.io)
+
+### [langchain](https://github.com/langchain-ai/langchain)
+- https://pypi.org/project/langchain-chroma
+
 ## 社区
 ### [魔塔社区](https://modelscope.cn)
+- https://modelscope.cn/my/mynotebook
+- https://modelscope.cn/models/Qwen/Qwen2.5-VL-72B-Instruct-AWQ
 
 ### [OLLAMA](https://ollama.com)
-Mirror: <https://ollama.org.cn>
+- mirror: <https://ollama.org.cn>
+- https://ollama.com/library/deepseek-r1
 
 Begginer: [Ollama 本地运行大模型(LLM)完全指南](https://blog.csdn.net/2401_85390073/article/details/144569533)
 
@@ -96,32 +187,6 @@ Mirror: <https://hf-mirror.com>
 ### 字节豆包
 ### 百度文心
 ### 阿里千问
-
-## 书单
-1.  [李航. 统计学习方法. 清华大学出版社                          ](https://zhuanlan.zhihu.com/p/599249709)
-2.  [李航老师《统计学习方法》及相关资源（代码、课件）的汇总及下载](https://blog.csdn.net/master_Shen/article/details/121354650)
-
-3.  [机器学习实战 人民邮电出版社               ](https://www.mr-wu.cn/machine-learning-in-action-free-ebook)
-4.  [机器学习实战 微信读书                     ](https://weread.qq.com/web/reader/3a232380718ff63f3a281acke4d32d5015e4da3b7fbb1fa)
-
-5.  [《机器学习》周志华 PDF 下载                                 ](https://zhuanlan.zhihu.com/p/594408532)：含百度网盘下载链接
-6.  [周志华. 机器学习. 清华大学出版社                            ](https://www.zhihu.com/question/39945249): 作为入门书，不够详尽。作为工具书，不够深入。作为科普书，不够友好。可作为教科书。
-7.  [北大新书教材推荐《最优化：建模、算法与理论》](https://zhuanlan.zhihu.com/p/364637287)
-8.  [最优化：建模、算法与理论](http://faculty.bicmr.pku.edu.cn/~wenzw/optbook/opt1.pdf)
-9.  [邱锡鹏. 神经网络与深度学习. 机械工业出版社                  ](https://nndl.github.io)
-10. [《回归分析及其试验设计》华东师范大学出版社                  ]
-
-11. [<<机器翻译统计建模与深度学习方法>>](https://github.com/NiuTrans/MTBook), [<<机器翻译统计建模与深度学习方法>>](https://opensource.niutrans.com/mtbook)
-
-12. [Machine Learning in Action](https://www.manning.com/books/machine-learning-in-action): [`Source Code`](https://www.manning.com/downloads/1108)
-
-13. [Deep Learning](https://www.deeplearningbook.org): <https://github.com/exacity/deeplearningbook-chinese>, <https://github.com/daviddao/deep-learning-book/blob/master/DeepLearningBook.pdf>
-
-14. [开源项目与评测](https://opensource.niutrans.com/mtbook/section1-7.html)
-
-### 阅读中
-1. 机器学习实战
-2. 最优化：建模、算法与理论
 
 ## Repositories
 1.  <https://github.com/topics/machine-learning>
