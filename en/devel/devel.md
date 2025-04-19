@@ -1,10 +1,16 @@
+# 开发
 这里涉及开发全生命周期内容，包括规范与工具。  
 全生命周期包括：需求分析、可行性分析、系统设计、编码、测试、维护  
 遇到问题可以先在社区或项目问题描述里看看：是否是已知问题，是否有临时方法。
 
 操作系统、编译器、数据库、编程语言、数据结构与算法
 
-Compatible Issue: Latest need be compatible with old version, Client need be compatible with Server, Linux need be compatible with Windows
+- 兼容性
+  - 前向兼容
+  - 后向兼容
+- 跨平台
+  - 同时支持服务器产品与消费终端产品
+  - 同时支持Windows与Linux
 
 [数据结构与算法、计算机网络、操作系统、设计模式](https://blog.csdn.net/weixin_46698891/article/details/113814822)
 
